@@ -2,9 +2,9 @@
 set -e
 cd "$(dirname "$0")"
 
-# Clone content repos
-[ -d cards ] || git clone https://github.com/buriedgiantstudios/cards.git cards
-[ -d rules ] || git clone https://github.com/buriedgiantstudios/rules.git rules
+# Clone or update content repos
+if [ -d cards ]; then git -C cards pull; else git clone https://github.com/buriedgiantstudios/cards.git cards; fi
+if [ -d rules ]; then git -C rules pull; else git clone https://github.com/buriedgiantstudios/rules.git rules; fi
 
 # Build indexes
 python3 skill/generate-card-index.py

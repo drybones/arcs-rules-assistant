@@ -44,17 +44,10 @@ Open Claude Code in the `arcs-rules-assistant` directory and ask:
 
 ## Keeping content up to date
 
-When Buried Giant publishes new printings or errata, pull both repos and regenerate the indexes:
+When Buried Giant publishes new printings or errata, re-run the setup script. It will pull the latest content, regenerate the indexes, and reinstall the skill.
 
-**Mac/Linux:**
-```bash
-git -C cards pull && git -C rules pull && bash setup.sh
-```
-
-**Windows:**
-```powershell
-git -C cards pull; git -C rules pull; .\setup.ps1
-```
+**Mac/Linux:** `bash setup.sh`  
+**Windows:** `.\setup.ps1`
 
 ## Sources
 

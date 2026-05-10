@@ -1,9 +1,9 @@
 $ErrorActionPreference = 'Stop'
 Set-Location $PSScriptRoot
 
-# Clone content repos
-if (-not (Test-Path cards)) { git clone https://github.com/buriedgiantstudios/cards.git cards }
-if (-not (Test-Path rules)) { git clone https://github.com/buriedgiantstudios/rules.git rules }
+# Clone or update content repos
+if (Test-Path cards) { git -C cards pull } else { git clone https://github.com/buriedgiantstudios/cards.git cards }
+if (Test-Path rules) { git -C rules pull } else { git clone https://github.com/buriedgiantstudios/rules.git rules }
 
 # Build indexes
 python skill/generate-card-index.py
