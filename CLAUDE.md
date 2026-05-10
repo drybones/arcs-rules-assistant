@@ -41,20 +41,11 @@ All content is Arcs-specific. The repos also contain rules and cards for other B
 | `cards/content/faq/arcs/en-US.yml` | Card-level FAQ, 1,190 lines of Q&A per card |
 | `cards/content/errata/arcs/en-US.yml` | Card errata, 197 entries |
 
-Refresh both repos with `git pull` inside `cards/` and `rules/` when new printings or errata are published, then regenerate the indexes:
+To update content when new printings or errata are published, re-run the setup script from the project root — it pulls both repos, regenerates the indexes, and reinstalls the skill:
 
 ```bash
-git -C cards pull
-git -C rules pull
-python3 skill/generate-card-index.py   # Mac/Linux
-python3 skill/generate-rules-index.py
-```
-
-```powershell
-git -C cards pull
-git -C rules pull
-python skill/generate-card-index.py   # Windows
-python skill/generate-rules-index.py
+bash setup.sh        # Mac/Linux
+.\setup.ps1          # Windows
 ```
 
 ### Community fallback sources
