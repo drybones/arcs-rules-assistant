@@ -48,21 +48,13 @@ When Buried Giant publishes new printings or errata, pull both repos and regener
 
 **Mac/Linux:**
 ```bash
-git -C cards pull
-git -C rules pull
-python3 skill/generate-card-index.py
-python3 skill/generate-rules-index.py
+git -C cards pull && git -C rules pull && bash setup.sh
 ```
 
 **Windows:**
 ```powershell
-git -C cards pull
-git -C rules pull
-python skill/generate-card-index.py
-python skill/generate-rules-index.py
+git -C cards pull; git -C rules pull; .\setup.ps1
 ```
-
-Then re-run the setup script to push the updated skill to Claude Code.
 
 ## Sources
 
