@@ -1,0 +1,533 @@
+# Arcs card name index — auto-generated from cards/content/card-data/arcs/en-US/
+# Regenerate with: python skill/generate-card-index.py
+# Fields (tab-separated): card name | product | card id | url
+
+2 Player Frontiers	Base	ARCS-2SETUP01	https://cards.buriedgiant.com/card/ARCS-2SETUP01
+2 Player Homelands	Base	ARCS-2SETUP03	https://cards.buriedgiant.com/card/ARCS-2SETUP03
+2 Player Mix Up 1	Base	ARCS-2SETUP02	https://cards.buriedgiant.com/card/ARCS-2SETUP02
+2 Player Mix Up 2	Base	ARCS-2SETUP04	https://cards.buriedgiant.com/card/ARCS-2SETUP04
+3 Player Core Conflict	Base	ARCS-3SETUP04	https://cards.buriedgiant.com/card/ARCS-3SETUP04
+3 Player Frontiers	Base	ARCS-3SETUP02	https://cards.buriedgiant.com/card/ARCS-3SETUP02
+3 Player Homelands	Base	ARCS-3SETUP03	https://cards.buriedgiant.com/card/ARCS-3SETUP03
+3 Player Mix Up	Base	ARCS-3SETUP01	https://cards.buriedgiant.com/card/ARCS-3SETUP01
+4 Player Frontiers	Base	ARCS-4SETUP03	https://cards.buriedgiant.com/card/ARCS-4SETUP03
+4 Player Mix Up 1	Base	ARCS-4SETUP01	https://cards.buriedgiant.com/card/ARCS-4SETUP01
+4 Player Mix Up 2	Base	ARCS-4SETUP02	https://cards.buriedgiant.com/card/ARCS-4SETUP02
+4 Player Mix Up 3	Base	ARCS-4SETUP04	https://cards.buriedgiant.com/card/ARCS-4SETUP04
+Admin Union	Base	ARCS-BC04	https://cards.buriedgiant.com/card/ARCS-BC04
+Admin Union	Blighted Reach	ARCS-F210	https://cards.buriedgiant.com/card/ARCS-F210
+Admin Union	Blighted Reach	ARCS-F211	https://cards.buriedgiant.com/card/ARCS-F211
+Admiral	Blighted Reach	ARCS-FATE07	https://cards.buriedgiant.com/card/ARCS-FATE07
+Admiral Act 1 Setup	Blighted Reach	ARCS-F701A	https://cards.buriedgiant.com/card/ARCS-F701A
+Admiral Act I Objective	Blighted Reach	ARCS-F701B	https://cards.buriedgiant.com/card/ARCS-F701B
+Admiral Act I Resolution	Blighted Reach	ARCS-F704	https://cards.buriedgiant.com/card/ARCS-F704
+Admiral Act II Objective	Blighted Reach	ARCS-F712B	https://cards.buriedgiant.com/card/ARCS-F712B
+Admiral Act II Resolution	Blighted Reach	ARCS-F714	https://cards.buriedgiant.com/card/ARCS-F714
+Admiral Act II Setup	Blighted Reach	ARCS-F712A	https://cards.buriedgiant.com/card/ARCS-F712A
+Admiral Act III Objective	Blighted Reach	ARCS-F719B	https://cards.buriedgiant.com/card/ARCS-F719B
+Admiral Act III Setup	Blighted Reach	ARCS-F719A	https://cards.buriedgiant.com/card/ARCS-F719A
+Advocate	Blighted Reach	ARCS-FATE04	https://cards.buriedgiant.com/card/ARCS-FATE04
+Advocate Act I Objective	Blighted Reach	ARCS-F401B	https://cards.buriedgiant.com/card/ARCS-F401B
+Advocate Act I Resolution	Blighted Reach	ARCS-F404	https://cards.buriedgiant.com/card/ARCS-F404
+Advocate Act I Setup	Blighted Reach	ARCS-F401A	https://cards.buriedgiant.com/card/ARCS-F401A
+Advocate Act II Objective	Blighted Reach	ARCS-F412B	https://cards.buriedgiant.com/card/ARCS-F412B
+Advocate Act II Resolution	Blighted Reach	ARCS-F415	https://cards.buriedgiant.com/card/ARCS-F415
+Advocate Act II Setup	Blighted Reach	ARCS-F412A	https://cards.buriedgiant.com/card/ARCS-F412A
+Advocate Act III Objective	Blighted Reach	ARCS-F423B	https://cards.buriedgiant.com/card/ARCS-F423B
+Advocate Act III Setup	Blighted Reach	ARCS-F423A	https://cards.buriedgiant.com/card/ARCS-F423A
+Advocate's Demand	Blighted Reach	ARCS-F413	https://cards.buriedgiant.com/card/ARCS-F413
+Against Hegemony	Blighted Reach	ARCS-F1009	https://cards.buriedgiant.com/card/ARCS-F1009
+Against Hegemony	Blighted Reach	ARCS-F1010	https://cards.buriedgiant.com/card/ARCS-F1010
+Agitator	Leaders & Lore	ARCS-LEAD15	https://cards.buriedgiant.com/card/ARCS-LEAD15
+Anarchist	Leaders & Lore	ARCS-LEAD13	https://cards.buriedgiant.com/card/ARCS-LEAD13
+Ancient Holdings	Base	ARCS-L13	https://cards.buriedgiant.com/card/ARCS-L13
+Archivist	Leaders & Lore	ARCS-LEAD09	https://cards.buriedgiant.com/card/ARCS-LEAD09
+Armistice	Blighted Reach	ARCS-F216	https://cards.buriedgiant.com/card/ARCS-F216
+Armistice	Blighted Reach	ARCS-F217	https://cards.buriedgiant.com/card/ARCS-F217
+Arms Interest	Blighted Reach	ARCS-F1505	https://cards.buriedgiant.com/card/ARCS-F1505
+Arms Interest	Blighted Reach	ARCS-F1506	https://cards.buriedgiant.com/card/ARCS-F1506
+Arms Union	Base	ARCS-BC11	https://cards.buriedgiant.com/card/ARCS-BC11
+Arms Union	Blighted Reach	ARCS-CC06	https://cards.buriedgiant.com/card/ARCS-CC06
+Arms Union	Blighted Reach	ARCS-F612	https://cards.buriedgiant.com/card/ARCS-F612
+Arms Union	Blighted Reach	ARCS-F623	https://cards.buriedgiant.com/card/ARCS-F623
+Arsenal Keepers	Blighted Reach	ARCS-F1503	https://cards.buriedgiant.com/card/ARCS-F1503
+Banners of Hegemony	Blighted Reach	ARCS-F1003	https://cards.buriedgiant.com/card/ARCS-F1003
+Believer	Blighted Reach	ARCS-FATE08	https://cards.buriedgiant.com/card/ARCS-FATE08
+Believer Act I Objective	Blighted Reach	ARCS-F801B	https://cards.buriedgiant.com/card/ARCS-F801B
+Believer Act I Resolution	Blighted Reach	ARCS-F815	https://cards.buriedgiant.com/card/ARCS-F815
+Believer Act I Setup	Blighted Reach	ARCS-F801A	https://cards.buriedgiant.com/card/ARCS-F801A
+Believer Act II Objective	Blighted Reach	ARCS-F820B	https://cards.buriedgiant.com/card/ARCS-F820B
+Believer Act II Resolution	Blighted Reach	ARCS-F824	https://cards.buriedgiant.com/card/ARCS-F824
+Believer Act II Setup	Blighted Reach	ARCS-F820A	https://cards.buriedgiant.com/card/ARCS-F820A
+Believer Act III Objective	Blighted Reach	ARCS-F829B	https://cards.buriedgiant.com/card/ARCS-F829B
+Believer Act III Setup	Blighted Reach	ARCS-F829A	https://cards.buriedgiant.com/card/ARCS-F829A
+Blazeworld Refugees	Blighted Reach	ARCS-F1106	https://cards.buriedgiant.com/card/ARCS-F1106
+Blight Fury	Blighted Reach	ARCS-F1304	https://cards.buriedgiant.com/card/ARCS-F1304
+Blight Hunger	Blighted Reach	ARCS-F1313	https://cards.buriedgiant.com/card/ARCS-F1313
+Blight Hunters	Blighted Reach	ARCS-F1305	https://cards.buriedgiant.com/card/ARCS-F1305
+Blight Looms	Blighted Reach	ARCS-CC15	https://cards.buriedgiant.com/card/ARCS-CC15
+Blight Looms	Blighted Reach	ARCS-F1311	https://cards.buriedgiant.com/card/ARCS-F1311
+Blight Panic	Blighted Reach	ARCS-F1310	https://cards.buriedgiant.com/card/ARCS-F1310
+Blight Purge	Blighted Reach	ARCS-F1307	https://cards.buriedgiant.com/card/ARCS-F1307
+Blight Purge	Blighted Reach	ARCS-F1308	https://cards.buriedgiant.com/card/ARCS-F1308
+Blight Purge	Blighted Reach	ARCS-F1309	https://cards.buriedgiant.com/card/ARCS-F1309
+Blight Reapers	Blighted Reach	ARCS-F1306	https://cards.buriedgiant.com/card/ARCS-F1306
+Blight Society	Blighted Reach	ARCS-F2102	https://cards.buriedgiant.com/card/ARCS-F2102
+Blight Speaker	Blighted Reach	ARCS-FATE13	https://cards.buriedgiant.com/card/ARCS-FATE13
+Blight Speaker Act II Objective	Blighted Reach	ARCS-F1301B	https://cards.buriedgiant.com/card/ARCS-F1301B
+Blight Speaker Act II Resolution	Blighted Reach	ARCS-F1303	https://cards.buriedgiant.com/card/ARCS-F1303
+Blight Speaker Act II Setup	Blighted Reach	ARCS-F1301A	https://cards.buriedgiant.com/card/ARCS-F1301A
+Blight Speaker Act III Objective	Blighted Reach	ARCS-F1312B	https://cards.buriedgiant.com/card/ARCS-F1312B
+Blight Speaker Act III Setup	Blighted Reach	ARCS-F1312A	https://cards.buriedgiant.com/card/ARCS-F1312A
+Blightkin Ambition	Blighted Reach	ARCS-F2104	https://cards.buriedgiant.com/card/ARCS-F2104
+Book of Liberation	Blighted Reach	ARCS-F204	https://cards.buriedgiant.com/card/ARCS-F204
+Breaking Gates & Placing Passages	Blighted Reach	ARCS-F2203	https://cards.buriedgiant.com/card/ARCS-F2203
+Breaking Worlds	Blighted Reach	ARCS-F1103B	https://cards.buriedgiant.com/card/ARCS-F1103B
+Breaking the Faith	Blighted Reach	ARCS-F831	https://cards.buriedgiant.com/card/ARCS-F831
+Building Bunkers	Blighted Reach	ARCS-F1803	https://cards.buriedgiant.com/card/ARCS-F1803
+Bunkers	Blighted Reach	ARCS-F1804	https://cards.buriedgiant.com/card/ARCS-F1804
+Call for Armistice	Blighted Reach	ARCS-F215	https://cards.buriedgiant.com/card/ARCS-F215
+Call to Action	Base	ARCS-BC31	https://cards.buriedgiant.com/card/ARCS-BC31
+Call to Action	Blighted Reach	ARCS-F1206	https://cards.buriedgiant.com/card/ARCS-F1206
+Call to Pilgrimage	Blighted Reach	ARCS-F905	https://cards.buriedgiant.com/card/ARCS-F905
+Captive Release	Blighted Reach	ARCS-F1805	https://cards.buriedgiant.com/card/ARCS-F1805
+Caretaker	Blighted Reach	ARCS-FATE05	https://cards.buriedgiant.com/card/ARCS-FATE05
+Caretaker Act I Objective	Blighted Reach	ARCS-F501B	https://cards.buriedgiant.com/card/ARCS-F501B
+Caretaker Act I Resolution	Blighted Reach	ARCS-F507	https://cards.buriedgiant.com/card/ARCS-F507
+Caretaker Act I Setup	Blighted Reach	ARCS-F501A	https://cards.buriedgiant.com/card/ARCS-F501A
+Caretaker Act II Objective	Blighted Reach	ARCS-F512B	https://cards.buriedgiant.com/card/ARCS-F512B
+Caretaker Act II Resolution	Blighted Reach	ARCS-F516	https://cards.buriedgiant.com/card/ARCS-F516
+Caretaker Act II Setup	Blighted Reach	ARCS-F512A	https://cards.buriedgiant.com/card/ARCS-F512A
+Caretaker Act III Objective	Blighted Reach	ARCS-F520B	https://cards.buriedgiant.com/card/ARCS-F520B
+Caretaker Act III Setup	Blighted Reach	ARCS-F520A	https://cards.buriedgiant.com/card/ARCS-F520A
+Catapult Overdrive	Blighted Reach	ARCS-F2202	https://cards.buriedgiant.com/card/ARCS-F2202
+Ceasefires	Blighted Reach	ARCS-F1508	https://cards.buriedgiant.com/card/ARCS-F1508
+Claims of Nobility	Blighted Reach	ARCS-F1602	https://cards.buriedgiant.com/card/ARCS-F1602
+Closed & Open Economy	Blighted Reach	ARCS-F327	https://cards.buriedgiant.com/card/ARCS-F327
+Closed Economy	Blighted Reach	ARCS-F326A	https://cards.buriedgiant.com/card/ARCS-F326A
+Cloud Cities	Base	ARCS-L09	https://cards.buriedgiant.com/card/ARCS-L09
+Clues to the Portal	Blighted Reach	ARCS-F903	https://cards.buriedgiant.com/card/ARCS-F903
+Command Chaos	Blighted Reach	ARCS-F713	https://cards.buriedgiant.com/card/ARCS-F713
+Commonwealth Ambition	Blighted Reach	ARCS-F214	https://cards.buriedgiant.com/card/ARCS-F214
+Commonwealth Membership	Blighted Reach	ARCS-F222	https://cards.buriedgiant.com/card/ARCS-F222
+Conspiracies	Blighted Reach	ARCS-F2303	https://cards.buriedgiant.com/card/ARCS-F2303
+Conspirator	Blighted Reach	ARCS-FATE23	https://cards.buriedgiant.com/card/ARCS-FATE23
+Conspirator Act III Objective	Blighted Reach	ARCS-F2301B	https://cards.buriedgiant.com/card/ARCS-F2301B
+Conspirator Act III Setup	Blighted Reach	ARCS-F2301A	https://cards.buriedgiant.com/card/ARCS-F2301A
+Construction Union	Base	ARCS-BC05	https://cards.buriedgiant.com/card/ARCS-BC05
+Construction Union	Blighted Reach	ARCS-CC02	https://cards.buriedgiant.com/card/ARCS-CC02
+Construction Union	Blighted Reach	ARCS-F208	https://cards.buriedgiant.com/card/ARCS-F208
+Construction Union	Blighted Reach	ARCS-F209	https://cards.buriedgiant.com/card/ARCS-F209
+Corsair	Leaders & Lore	ARCS-LEAD11	https://cards.buriedgiant.com/card/ARCS-LEAD11
+Council Insiders	Blighted Reach	ARCS-F116	https://cards.buriedgiant.com/card/ARCS-F116
+Council Intrigue	Blighted Reach	ARCS-CC12	https://cards.buriedgiant.com/card/ARCS-CC12
+Council Intrigue	Blighted Reach	ARCS-F105	https://cards.buriedgiant.com/card/ARCS-F105
+Court Enforcers	Base	ARCS-BC14	https://cards.buriedgiant.com/card/ARCS-BC14
+Court Enforcers	Blighted Reach	ARCS-F708	https://cards.buriedgiant.com/card/ARCS-F708
+Court Enforcers	Blighted Reach	ARCS-F709	https://cards.buriedgiant.com/card/ARCS-F709
+Deadworld Refugees	Blighted Reach	ARCS-F1107	https://cards.buriedgiant.com/card/ARCS-F1107
+Dealmakers	Blighted Reach	ARCS-F103	https://cards.buriedgiant.com/card/ARCS-F103
+Demagogue	Base	ARCS-LEAD08	https://cards.buriedgiant.com/card/ARCS-LEAD08
+Diplomatic Fiasco	Blighted Reach	ARCS-CC13	https://cards.buriedgiant.com/card/ARCS-CC13
+Diplomatic Fiasco	Blighted Reach	ARCS-F410	https://cards.buriedgiant.com/card/ARCS-F410
+Doctrinal Faith	Blighted Reach	ARCS-F823	https://cards.buriedgiant.com/card/ARCS-F823
+Doctrine of Wisdom	Blighted Reach	ARCS-F822B	https://cards.buriedgiant.com/card/ARCS-F822B
+Doctrine of Zeal	Blighted Reach	ARCS-F822A	https://cards.buriedgiant.com/card/ARCS-F822A
+Dominant Faith	Blighted Reach	ARCS-F830	https://cards.buriedgiant.com/card/ARCS-F830
+Edenguard Ambition	Blighted Reach	ARCS-F2004	https://cards.buriedgiant.com/card/ARCS-F2004
+Elder	Base	ARCS-LEAD01	https://cards.buriedgiant.com/card/ARCS-LEAD01
+Elder Broker	Base	ARCS-BC23	https://cards.buriedgiant.com/card/ARCS-BC23
+Elder Broker	Blighted Reach	ARCS-CC10	https://cards.buriedgiant.com/card/ARCS-CC10
+Elder Broker	Blighted Reach	ARCS-F304	https://cards.buriedgiant.com/card/ARCS-F304
+Empath's Bond	Leaders & Lore	ARCS-L20	https://cards.buriedgiant.com/card/ARCS-L20
+Empath's Vision	Leaders & Lore	ARCS-L19	https://cards.buriedgiant.com/card/ARCS-L19
+Empathy for All	Blighted Reach	ARCS-F1409	https://cards.buriedgiant.com/card/ARCS-F1409
+Empathy for All	Blighted Reach	ARCS-F1410	https://cards.buriedgiant.com/card/ARCS-F1410
+Empire Balks at Peace	Blighted Reach	ARCS-F1509	https://cards.buriedgiant.com/card/ARCS-F1509
+Empire Falls	Blighted Reach	ARCS-F109	https://cards.buriedgiant.com/card/ARCS-F109
+Event	Blighted Reach	ARCS-F515	https://cards.buriedgiant.com/card/ARCS-F515
+Extortion	Blighted Reach	ARCS-F323	https://cards.buriedgiant.com/card/ARCS-F323
+Extortion	Blighted Reach	ARCS-F324	https://cards.buriedgiant.com/card/ARCS-F324
+Faithful Action Card	Blighted Reach	ARCS-F804	https://cards.buriedgiant.com/card/ARCS-F804
+Faithful Action Card	Blighted Reach	ARCS-F805	https://cards.buriedgiant.com/card/ARCS-F805
+Faithful Action Card	Blighted Reach	ARCS-F806	https://cards.buriedgiant.com/card/ARCS-F806
+Faithful Action Card	Blighted Reach	ARCS-F807	https://cards.buriedgiant.com/card/ARCS-F807
+Faithful Action Card	Blighted Reach	ARCS-F808	https://cards.buriedgiant.com/card/ARCS-F808
+Faithful Action Card	Blighted Reach	ARCS-F809	https://cards.buriedgiant.com/card/ARCS-F809
+Faithful Action Card	Blighted Reach	ARCS-F810	https://cards.buriedgiant.com/card/ARCS-F810
+Faithful Action Card	Blighted Reach	ARCS-F811	https://cards.buriedgiant.com/card/ARCS-F811
+Faithful Action Card	Blighted Reach	ARCS-F812	https://cards.buriedgiant.com/card/ARCS-F812
+Faithful Cards	Blighted Reach	ARCS-F813	https://cards.buriedgiant.com/card/ARCS-F813
+Faithful Disciples	Blighted Reach	ARCS-F802	https://cards.buriedgiant.com/card/ARCS-F802
+Farseers	Base	ARCS-BC17	https://cards.buriedgiant.com/card/ARCS-BC17
+Farseers	Blighted Reach	ARCS-F2302	https://cards.buriedgiant.com/card/ARCS-F2302
+Feast Day	Blighted Reach	ARCS-F1613	https://cards.buriedgiant.com/card/ARCS-F1613
+Feast Day	Blighted Reach	ARCS-F1614	https://cards.buriedgiant.com/card/ARCS-F1614
+Feastbringer	Base	ARCS-LEAD07	https://cards.buriedgiant.com/card/ARCS-LEAD07
+Feudal Courts	Blighted Reach	ARCS-F1618	https://cards.buriedgiant.com/card/ARCS-F1618
+Feudal Law	Blighted Reach	ARCS-F1610	https://cards.buriedgiant.com/card/ARCS-F1610
+Flagship Upgrades	Blighted Reach	ARCS-AID10A	https://cards.buriedgiant.com/card/ARCS-AID10A
+Flagship Upgrades	Blighted Reach	ARCS-AID10B	https://cards.buriedgiant.com/card/ARCS-AID10B
+Foiling Conspiracies	Blighted Reach	ARCS-F2305	https://cards.buriedgiant.com/card/ARCS-F2305
+Force Beams	Leaders & Lore	ARCS-L16	https://cards.buriedgiant.com/card/ARCS-L16
+Forgeworld Refugees	Blighted Reach	ARCS-F1105	https://cards.buriedgiant.com/card/ARCS-F1105
+Founder	Blighted Reach	ARCS-FATE02	https://cards.buriedgiant.com/card/ARCS-FATE02
+Founder Act I Objective	Blighted Reach	ARCS-F201B	https://cards.buriedgiant.com/card/ARCS-F201B
+Founder Act I Resolution	Blighted Reach	ARCS-F203	https://cards.buriedgiant.com/card/ARCS-F203
+Founder Act I Setup	Blighted Reach	ARCS-F201A	https://cards.buriedgiant.com/card/ARCS-F201A
+Founder Act II Objective	Blighted Reach	ARCS-F212B	https://cards.buriedgiant.com/card/ARCS-F212B
+Founder Act II Resolution	Blighted Reach	ARCS-F223	https://cards.buriedgiant.com/card/ARCS-F223
+Founder Act II Setup'	Blighted Reach	ARCS-F212A	https://cards.buriedgiant.com/card/ARCS-F212A
+Founder Act III Objective	Blighted Reach	ARCS-F225B	https://cards.buriedgiant.com/card/ARCS-F225B
+Founder Act III Setup	Blighted Reach	ARCS-F225A	https://cards.buriedgiant.com/card/ARCS-F225A
+Founder of the Commonwealth	Blighted Reach	ARCS-F213	https://cards.buriedgiant.com/card/ARCS-F213
+Freedom Fighters	Blighted Reach	ARCS-F227	https://cards.buriedgiant.com/card/ARCS-F227
+Fuel Cartel	Base	ARCS-BC06	https://cards.buriedgiant.com/card/ARCS-BC06
+Fuel Cartel	Blighted Reach	ARCS-F308	https://cards.buriedgiant.com/card/ARCS-F308
+Fuel Guildmasters	Blighted Reach	ARCS-F418	https://cards.buriedgiant.com/card/ARCS-F418
+Fuel Liaisons	Blighted Reach	ARCS-F406	https://cards.buriedgiant.com/card/ARCS-F406
+Fuel Monopoly	Blighted Reach	ARCS-F314	https://cards.buriedgiant.com/card/ARCS-F314
+Fuel-Drinker	Base	ARCS-LEAD03	https://cards.buriedgiant.com/card/ARCS-LEAD03
+Gain Monopolies	Blighted Reach	ARCS-F318	https://cards.buriedgiant.com/card/ARCS-F318
+Galactic Bards	Base	ARCS-BC25	https://cards.buriedgiant.com/card/ARCS-BC25
+Galactic Bards	Blighted Reach	ARCS-F117	https://cards.buriedgiant.com/card/ARCS-F117
+Galactic Bards	Blighted Reach	ARCS-F610	https://cards.buriedgiant.com/card/ARCS-F610
+Galactic Rifles	Base	ARCS-L02	https://cards.buriedgiant.com/card/ARCS-L02
+Gate Ports	Base	ARCS-L08	https://cards.buriedgiant.com/card/ARCS-L08
+Gate Stations	Base	ARCS-L11	https://cards.buriedgiant.com/card/ARCS-L11
+Gate Wraith	Blighted Reach	ARCS-FATE22	https://cards.buriedgiant.com/card/ARCS-FATE22
+Gate Wraith Act III Objective	Blighted Reach	ARCS-F2201B	https://cards.buriedgiant.com/card/ARCS-F2201B
+Gate Wraith Act III Setup	Blighted Reach	ARCS-F2201A	https://cards.buriedgiant.com/card/ARCS-F2201A
+Gatekeepers	Base	ARCS-BC08	https://cards.buriedgiant.com/card/ARCS-BC08
+Gatekeepers	Blighted Reach	ARCS-CC03	https://cards.buriedgiant.com/card/ARCS-CC03
+Golem Actions	Blighted Reach	ARCS-F506	https://cards.buriedgiant.com/card/ARCS-F506
+Golem Beacon	Blighted Reach	ARCS-F502	https://cards.buriedgiant.com/card/ARCS-F502
+Golem Hearth	Blighted Reach	ARCS-F503	https://cards.buriedgiant.com/card/ARCS-F503
+Golem Worship	Blighted Reach	ARCS-F517	https://cards.buriedgiant.com/card/ARCS-F517
+Golem Worship	Blighted Reach	ARCS-F518	https://cards.buriedgiant.com/card/ARCS-F518
+Golem Worship	Blighted Reach	ARCS-F519	https://cards.buriedgiant.com/card/ARCS-F519
+Golems	Blighted Reach	ARCS-F505	https://cards.buriedgiant.com/card/ARCS-F505
+Golems Sate Their Appetite	Blighted Reach	ARCS-F521	https://cards.buriedgiant.com/card/ARCS-F521
+Govern the Imperial Reach	Blighted Reach	ARCS-AID03	https://cards.buriedgiant.com/card/ARCS-AID03
+Govern the Imperial Reach	Blighted Reach	ARCS-AID04	https://cards.buriedgiant.com/card/ARCS-AID04
+Govern the Imperial Reach	Blighted Reach	ARCS-AID05	https://cards.buriedgiant.com/card/ARCS-AID05
+Govern with Authority	Blighted Reach	ARCS-F124	https://cards.buriedgiant.com/card/ARCS-F124
+Govern with Authority	Blighted Reach	ARCS-F125	https://cards.buriedgiant.com/card/ARCS-F125
+Govern with Authority	Blighted Reach	ARCS-F126	https://cards.buriedgiant.com/card/ARCS-F126
+Green Vault	Blighted Reach	ARCS-F2002	https://cards.buriedgiant.com/card/ARCS-F2002
+Guardian	Blighted Reach	ARCS-FATE20	https://cards.buriedgiant.com/card/ARCS-FATE20
+Guardian Act III Objective	Blighted Reach	ARCS-F2001B	https://cards.buriedgiant.com/card/ARCS-F2001B
+Guardian Act III Setup	Blighted Reach	ARCS-F2001A	https://cards.buriedgiant.com/card/ARCS-F2001A
+Guild Envoys Depart	Blighted Reach	ARCS-AID02	https://cards.buriedgiant.com/card/ARCS-AID02
+Guild Fair	Blighted Reach	ARCS-F416	https://cards.buriedgiant.com/card/ARCS-F416
+Guild Investigators	Blighted Reach	ARCS-F402	https://cards.buriedgiant.com/card/ARCS-F402
+Guild Loyalty	Blighted Reach	ARCS-F424	https://cards.buriedgiant.com/card/ARCS-F424
+Guild Negotiations	Blighted Reach	ARCS-F414	https://cards.buriedgiant.com/card/ARCS-F414
+Guild Overseers	Blighted Reach	ARCS-F403	https://cards.buriedgiant.com/card/ARCS-F403
+Guild Struggle	Base	ARCS-BC30	https://cards.buriedgiant.com/card/ARCS-BC30
+Guild Struggle	Blighted Reach	ARCS-F411	https://cards.buriedgiant.com/card/ARCS-F411
+Guild Supremacy	Blighted Reach	ARCS-F425	https://cards.buriedgiant.com/card/ARCS-F425
+Guild Supremacy	Blighted Reach	ARCS-F426	https://cards.buriedgiant.com/card/ARCS-F426
+Guilds Decry Terror	Blighted Reach	ARCS-F619	https://cards.buriedgiant.com/card/ARCS-F619
+Guilds Withdraw	Blighted Reach	ARCS-F422	https://cards.buriedgiant.com/card/ARCS-F422
+Hammer Fragments	Blighted Reach	ARCS-F1103A	https://cards.buriedgiant.com/card/ARCS-F1103A
+Happy Hosts	Blighted Reach	ARCS-F1012	https://cards.buriedgiant.com/card/ARCS-F1012
+Heartworld Refugees	Blighted Reach	ARCS-F1109	https://cards.buriedgiant.com/card/ARCS-F1109
+Hegemon	Blighted Reach	ARCS-FATE10	https://cards.buriedgiant.com/card/ARCS-FATE10
+Hegemon Act II Objective	Blighted Reach	ARCS-F1001B	https://cards.buriedgiant.com/card/ARCS-F1001B
+Hegemon Act II Resolution	Blighted Reach	ARCS-F1005	https://cards.buriedgiant.com/card/ARCS-F1005
+Hegemon Act II Setup	Blighted Reach	ARCS-F1001A	https://cards.buriedgiant.com/card/ARCS-F1001A
+Hegemon Act III Objective	Blighted Reach	ARCS-F1011B	https://cards.buriedgiant.com/card/ARCS-F1011B
+Hegemon Act III Setup	Blighted Reach	ARCS-F1011A	https://cards.buriedgiant.com/card/ARCS-F1011A
+Hidden Harbors	Base	ARCS-L05	https://cards.buriedgiant.com/card/ARCS-L05
+Honor Guard	Blighted Reach	ARCS-F705	https://cards.buriedgiant.com/card/ARCS-F705
+Hunter Squads	Blighted Reach	ARCS-F107	https://cards.buriedgiant.com/card/ARCS-F107
+Imperial Authority	Blighted Reach	ARCS-F102	https://cards.buriedgiant.com/card/ARCS-F102
+Imperial Council Decided	Blighted Reach	ARCS-AID01B	https://cards.buriedgiant.com/card/ARCS-AID01B
+Imperial Council in Session	Blighted Reach	ARCS-AID01A	https://cards.buriedgiant.com/card/ARCS-AID01A
+Imperial Defectors	Blighted Reach	ARCS-F118	https://cards.buriedgiant.com/card/ARCS-F118
+Imperial Defectors	Blighted Reach	ARCS-F119	https://cards.buriedgiant.com/card/ARCS-F119
+Imperial Defectors	Blighted Reach	ARCS-F710	https://cards.buriedgiant.com/card/ARCS-F710
+Imperial Defectors	Blighted Reach	ARCS-F711	https://cards.buriedgiant.com/card/ARCS-F711
+Imperial Defectors	Blighted Reach	ARCS-F715	https://cards.buriedgiant.com/card/ARCS-F715
+Imperial Defectors	Blighted Reach	ARCS-F716	https://cards.buriedgiant.com/card/ARCS-F716
+Imperial Officers	Blighted Reach	ARCS-F702	https://cards.buriedgiant.com/card/ARCS-F702
+Imperial Protectors	Blighted Reach	ARCS-F108	https://cards.buriedgiant.com/card/ARCS-F108
+Imperial Quorum	Blighted Reach	ARCS-F113	https://cards.buriedgiant.com/card/ARCS-F113
+Imperial Regent	Blighted Reach	ARCS-AID06A	https://cards.buriedgiant.com/card/ARCS-AID06A
+Imperial Sponsor	Blighted Reach	ARCS-F123	https://cards.buriedgiant.com/card/ARCS-F123
+Informants	Blighted Reach	ARCS-F602	https://cards.buriedgiant.com/card/ARCS-F602
+Ire of the Keepers	Blighted Reach	ARCS-F1902	https://cards.buriedgiant.com/card/ARCS-F1902
+Ire of the Tycoons	Blighted Reach	ARCS-F2003	https://cards.buriedgiant.com/card/ARCS-F2003
+Itinerant Empaths	Blighted Reach	ARCS-F1406	https://cards.buriedgiant.com/card/ARCS-F1406
+Itinerant Empaths	Blighted Reach	ARCS-F1407	https://cards.buriedgiant.com/card/ARCS-F1407
+Judge	Blighted Reach	ARCS-FATE24	https://cards.buriedgiant.com/card/ARCS-FATE24
+Judge Act III Objective	Blighted Reach	ARCS-F2401B	https://cards.buriedgiant.com/card/ARCS-F2401B
+Judge Act III Setup	Blighted Reach	ARCS-F2401A	https://cards.buriedgiant.com/card/ARCS-F2401A
+Judge Sets Agenda	Blighted Reach	ARCS-F2405	https://cards.buriedgiant.com/card/ARCS-F2405
+Judge's Chosen	Blighted Reach	ARCS-F2404	https://cards.buriedgiant.com/card/ARCS-F2404
+Keeper's Solidarity	Leaders & Lore	ARCS-L22	https://cards.buriedgiant.com/card/ARCS-L22
+Keeper's Trust	Leaders & Lore	ARCS-L21	https://cards.buriedgiant.com/card/ARCS-L21
+Knowledge Set Free	Blighted Reach	ARCS-F514	https://cards.buriedgiant.com/card/ARCS-F514
+Lattice Spies	Base	ARCS-BC16	https://cards.buriedgiant.com/card/ARCS-BC16
+Lattice Spies	Blighted Reach	ARCS-CC07	https://cards.buriedgiant.com/card/ARCS-CC07
+Lesser Regent	Blighted Reach	ARCS-F110	https://cards.buriedgiant.com/card/ARCS-F110
+Lesser Regent	Blighted Reach	ARCS-F111	https://cards.buriedgiant.com/card/ARCS-F111
+Lesser Regent	Blighted Reach	ARCS-F120	https://cards.buriedgiant.com/card/ARCS-F120
+Lesser Regent	Blighted Reach	ARCS-F121	https://cards.buriedgiant.com/card/ARCS-F121
+Librarians	Blighted Reach	ARCS-F513	https://cards.buriedgiant.com/card/ARCS-F513
+Living Structures	Base	ARCS-L10	https://cards.buriedgiant.com/card/ARCS-L10
+Lord of the 1st Cluster	Blighted Reach	ARCS-F1603	https://cards.buriedgiant.com/card/ARCS-F1603
+Lord of the 2nd Cluster	Blighted Reach	ARCS-F1604	https://cards.buriedgiant.com/card/ARCS-F1604
+Lord of the 3rd Cluster	Blighted Reach	ARCS-F1605	https://cards.buriedgiant.com/card/ARCS-F1605
+Lord of the 4th Cluster	Blighted Reach	ARCS-F1606	https://cards.buriedgiant.com/card/ARCS-F1606
+Lord of the 5th Cluster	Blighted Reach	ARCS-F1607	https://cards.buriedgiant.com/card/ARCS-F1607
+Lord of the 6th Cluster	Blighted Reach	ARCS-F1608	https://cards.buriedgiant.com/card/ARCS-F1608
+Lords Gain Power	Blighted Reach	ARCS-F1619	https://cards.buriedgiant.com/card/ARCS-F1619
+Lostworld Refugees	Blighted Reach	ARCS-F1108	https://cards.buriedgiant.com/card/ARCS-F1108
+Loyal Empaths	Base	ARCS-BC19	https://cards.buriedgiant.com/card/ARCS-BC19
+Loyal Empaths	Blighted Reach	ARCS-F608	https://cards.buriedgiant.com/card/ARCS-F608
+Loyal Engineers	Base	ARCS-BC01	https://cards.buriedgiant.com/card/ARCS-BC01
+Loyal Engineers	Blighted Reach	ARCS-F605	https://cards.buriedgiant.com/card/ARCS-F605
+Loyal Keepers	Base	ARCS-BC21	https://cards.buriedgiant.com/card/ARCS-BC21
+Loyal Keepers	Blighted Reach	ARCS-F609	https://cards.buriedgiant.com/card/ARCS-F609
+Loyal Marines	Base	ARCS-BC15	https://cards.buriedgiant.com/card/ARCS-BC15
+Loyal Marines	Blighted Reach	ARCS-F607	https://cards.buriedgiant.com/card/ARCS-F607
+Loyal Pilots	Base	ARCS-BC07	https://cards.buriedgiant.com/card/ARCS-BC07
+Loyal Pilots	Blighted Reach	ARCS-F606	https://cards.buriedgiant.com/card/ARCS-F606
+Magnate	Blighted Reach	ARCS-FATE03	https://cards.buriedgiant.com/card/ARCS-FATE03
+Magnate Act I Objective	Blighted Reach	ARCS-F301B	https://cards.buriedgiant.com/card/ARCS-F301B
+Magnate Act I Resolution	Blighted Reach	ARCS-F303	https://cards.buriedgiant.com/card/ARCS-F303
+Magnate Act I Setup	Blighted Reach	ARCS-F301A	https://cards.buriedgiant.com/card/ARCS-F301A
+Magnate Act II Objective	Blighted Reach	ARCS-F312B	https://cards.buriedgiant.com/card/ARCS-F312B
+Magnate Act II Resolution	Blighted Reach	ARCS-F321	https://cards.buriedgiant.com/card/ARCS-F321
+Magnate Act II Setup	Blighted Reach	ARCS-F312A	https://cards.buriedgiant.com/card/ARCS-F312A
+Magnate Act III Objective	Blighted Reach	ARCS-F325B	https://cards.buriedgiant.com/card/ARCS-F325B
+Magnate Act III Setup	Blighted Reach	ARCS-F325A	https://cards.buriedgiant.com/card/ARCS-F325A
+Martial Law	Blighted Reach	ARCS-F720	https://cards.buriedgiant.com/card/ARCS-F720
+Martial Law	Blighted Reach	ARCS-F721	https://cards.buriedgiant.com/card/ARCS-F721
+Mass Call for Armistice	Blighted Reach	ARCS-F226	https://cards.buriedgiant.com/card/ARCS-F226
+Mass Uprising	Base	ARCS-BC26	https://cards.buriedgiant.com/card/ARCS-BC26
+Mass Uprising	Blighted Reach	ARCS-F717	https://cards.buriedgiant.com/card/ARCS-F717
+Mass Uprising	Blighted Reach	ARCS-F718	https://cards.buriedgiant.com/card/ARCS-F718
+Material Cartel	Base	ARCS-BC03	https://cards.buriedgiant.com/card/ARCS-BC03
+Material Cartel	Blighted Reach	ARCS-F307	https://cards.buriedgiant.com/card/ARCS-F307
+Material Guildmasters	Blighted Reach	ARCS-F417	https://cards.buriedgiant.com/card/ARCS-F417
+Material Liaisons	Blighted Reach	ARCS-F405	https://cards.buriedgiant.com/card/ARCS-F405
+Material Monopoly	Blighted Reach	ARCS-F313	https://cards.buriedgiant.com/card/ARCS-F313
+Member of the Commonwealth	Blighted Reach	ARCS-F218	https://cards.buriedgiant.com/card/ARCS-F218
+Member of the Commonwealth	Blighted Reach	ARCS-F219	https://cards.buriedgiant.com/card/ARCS-F219
+Member of the Commonwealth	Blighted Reach	ARCS-F220	https://cards.buriedgiant.com/card/ARCS-F220
+Member of the Commonwealth	Blighted Reach	ARCS-F221	https://cards.buriedgiant.com/card/ARCS-F221
+Merchant League	Blighted Reach	ARCS-F302	https://cards.buriedgiant.com/card/ARCS-F302
+Mind Managers	Blighted Reach	ARCS-F1006	https://cards.buriedgiant.com/card/ARCS-F1006
+Mining Interest	Base	ARCS-BC02	https://cards.buriedgiant.com/card/ARCS-BC02
+Mining Interest	Blighted Reach	ARCS-CC01	https://cards.buriedgiant.com/card/ARCS-CC01
+Mirror Plating	Base	ARCS-L04	https://cards.buriedgiant.com/card/ARCS-L04
+Monopoly Consent	Blighted Reach	ARCS-F319	https://cards.buriedgiant.com/card/ARCS-F319
+Mystic	Base	ARCS-LEAD02	https://cards.buriedgiant.com/card/ARCS-LEAD02
+Naturalist	Blighted Reach	ARCS-FATE21	https://cards.buriedgiant.com/card/ARCS-FATE21
+Naturalist Act III Objective	Blighted Reach	ARCS-F2101B	https://cards.buriedgiant.com/card/ARCS-F2101B
+Naturalist Act III Setup	Blighted Reach	ARCS-F2101A	https://cards.buriedgiant.com/card/ARCS-F2101A
+Navy Reprisal	Blighted Reach	ARCS-F115	https://cards.buriedgiant.com/card/ARCS-F115
+Noble	Leaders & Lore	ARCS-LEAD12	https://cards.buriedgiant.com/card/ARCS-LEAD12
+Oath of Peace	Blighted Reach	ARCS-F1502	https://cards.buriedgiant.com/card/ARCS-F1502
+Open Economy	Blighted Reach	ARCS-F326B	https://cards.buriedgiant.com/card/ARCS-F326B
+Outlaw	Blighted Reach	ARCS-AID06B	https://cards.buriedgiant.com/card/ARCS-AID06B
+Outrage Spreads	Base	ARCS-BC28	https://cards.buriedgiant.com/card/ARCS-BC28
+Outrage Spreads	Blighted Reach	ARCS-F613	https://cards.buriedgiant.com/card/ARCS-F613
+Outrage Spreads	Blighted Reach	ARCS-F614	https://cards.buriedgiant.com/card/ARCS-F614
+Overlord	Blighted Reach	ARCS-FATE17	https://cards.buriedgiant.com/card/ARCS-FATE17
+Overlord Act III Objective	Blighted Reach	ARCS-F1701B	https://cards.buriedgiant.com/card/ARCS-F1701B
+Overlord Act III Setup	Blighted Reach	ARCS-F1701A	https://cards.buriedgiant.com/card/ARCS-F1701A
+Overseer	Leaders & Lore	ARCS-LEAD10	https://cards.buriedgiant.com/card/ARCS-LEAD10
+Pacifist	Blighted Reach	ARCS-FATE14	https://cards.buriedgiant.com/card/ARCS-FATE14
+Pacifist Act II Objective	Blighted Reach	ARCS-F1401B	https://cards.buriedgiant.com/card/ARCS-F1401B
+Pacifist Act II Resolution	Blighted Reach	ARCS-F1404	https://cards.buriedgiant.com/card/ARCS-F1404
+Pacifist Act II Setup	Blighted Reach	ARCS-F1401A	https://cards.buriedgiant.com/card/ARCS-F1401A
+Pacifist Act III Objective	Blighted Reach	ARCS-F1408B	https://cards.buriedgiant.com/card/ARCS-F1408B
+Pacifist Act III Setup	Blighted Reach	ARCS-F1408A	https://cards.buriedgiant.com/card/ARCS-F1408A
+Parade Fleets	Blighted Reach	ARCS-F202	https://cards.buriedgiant.com/card/ARCS-F202
+Partisan	Blighted Reach	ARCS-FATE06	https://cards.buriedgiant.com/card/ARCS-FATE06
+Partisan Act 1 Resolution	Blighted Reach	ARCS-F604	https://cards.buriedgiant.com/card/ARCS-F604
+Partisan Act I Objective	Blighted Reach	ARCS-F601B	https://cards.buriedgiant.com/card/ARCS-F601B
+Partisan Act I Setup	Blighted Reach	ARCS-F601A	https://cards.buriedgiant.com/card/ARCS-F601A
+Partisan Act II Objective	Blighted Reach	ARCS-F615B	https://cards.buriedgiant.com/card/ARCS-F615B
+Partisan Act II Resolution	Blighted Reach	ARCS-F618	https://cards.buriedgiant.com/card/ARCS-F618
+Partisan Act II Setup	Blighted Reach	ARCS-F615A	https://cards.buriedgiant.com/card/ARCS-F615A
+Partisan Act III Objective	Blighted Reach	ARCS-F624B	https://cards.buriedgiant.com/card/ARCS-F624B
+Partisan Act III Setup	Blighted Reach	ARCS-F624A	https://cards.buriedgiant.com/card/ARCS-F624A
+Partisan Seizing	Blighted Reach	ARCS-F603	https://cards.buriedgiant.com/card/ARCS-F603
+Partisan Seizing	Blighted Reach	ARCS-F616	https://cards.buriedgiant.com/card/ARCS-F616
+Passage Storms	Blighted Reach	ARCS-F2206	https://cards.buriedgiant.com/card/ARCS-F2206
+Passages & The Twisted Passage	Blighted Reach	ARCS-F2205	https://cards.buriedgiant.com/card/ARCS-F2205
+Pathfinder	Blighted Reach	ARCS-FATE09	https://cards.buriedgiant.com/card/ARCS-FATE09
+Pathfinder Act II Objective	Blighted Reach	ARCS-F901B	https://cards.buriedgiant.com/card/ARCS-F901B
+Pathfinder Act II Resolution	Blighted Reach	ARCS-F904	https://cards.buriedgiant.com/card/ARCS-F904
+Pathfinder Act II Setup	Blighted Reach	ARCS-F901A	https://cards.buriedgiant.com/card/ARCS-F901A
+Pathfinder Act III Objective	Blighted Reach	ARCS-F907B	https://cards.buriedgiant.com/card/ARCS-F907B
+Pathfinder Act III Setup	Blighted Reach	ARCS-F907A	https://cards.buriedgiant.com/card/ARCS-F907A
+Peace Accords	Blighted Reach	ARCS-F1511	https://cards.buriedgiant.com/card/ARCS-F1511
+Peace Dividends	Blighted Reach	ARCS-F1510	https://cards.buriedgiant.com/card/ARCS-F1510
+Peacekeeper	Blighted Reach	ARCS-FATE15	https://cards.buriedgiant.com/card/ARCS-FATE15
+Peacekeeper Act II Objective	Blighted Reach	ARCS-F1501B	https://cards.buriedgiant.com/card/ARCS-F1501B
+Peacekeeper Act II Resolution	Blighted Reach	ARCS-F1504	https://cards.buriedgiant.com/card/ARCS-F1504
+Peacekeeper Act II Setup	Blighted Reach	ARCS-F1501A	https://cards.buriedgiant.com/card/ARCS-F1501A
+Peacekeeper Act III Objective	Blighted Reach	ARCS-F1507B	https://cards.buriedgiant.com/card/ARCS-F1507B
+Peacekeeper Act III Setup	Blighted Reach	ARCS-F1507A	https://cards.buriedgiant.com/card/ARCS-F1507A
+People's Hero	Blighted Reach	ARCS-F617	https://cards.buriedgiant.com/card/ARCS-F617
+Pilgrims	Blighted Reach	ARCS-F908	https://cards.buriedgiant.com/card/ARCS-F908
+Pirate	Blighted Reach	ARCS-FATE12	https://cards.buriedgiant.com/card/ARCS-FATE12
+Pirate Act II Objective	Blighted Reach	ARCS-F1201B	https://cards.buriedgiant.com/card/ARCS-F1201B
+Pirate Act II Resolution	Blighted Reach	ARCS-F1204	https://cards.buriedgiant.com/card/ARCS-F1204
+Pirate Act II Setup	Blighted Reach	ARCS-F1201A	https://cards.buriedgiant.com/card/ARCS-F1201A
+Pirate Act III Objective	Blighted Reach	ARCS-F1208B	https://cards.buriedgiant.com/card/ARCS-F1208B
+Pirate Act III Setup	Blighted Reach	ARCS-F1208A	https://cards.buriedgiant.com/card/ARCS-F1208A
+Pirate Fleet	Blighted Reach	ARCS-F1203	https://cards.buriedgiant.com/card/ARCS-F1203
+Pirate Hoard	Blighted Reach	ARCS-F1202	https://cards.buriedgiant.com/card/ARCS-F1202
+Pirate Smugglers	Blighted Reach	ARCS-F1205	https://cards.buriedgiant.com/card/ARCS-F1205
+Planet Breaker	Blighted Reach	ARCS-FATE11	https://cards.buriedgiant.com/card/ARCS-FATE11
+Planet Breaker Act II Objective	Blighted Reach	ARCS-F1101B	https://cards.buriedgiant.com/card/ARCS-F1101B
+Planet Breaker Act II Setup	Blighted Reach	ARCS-F1101A	https://cards.buriedgiant.com/card/ARCS-F1101A
+Planet Breaker Act III Objective	Blighted Reach	ARCS-F1112B	https://cards.buriedgiant.com/card/ARCS-F1112B
+Planet Breaker Act III Resolution	Blighted Reach	ARCS-F1110	https://cards.buriedgiant.com/card/ARCS-F1110
+Planet Breaker Act III Setup	Blighted Reach	ARCS-F1112A	https://cards.buriedgiant.com/card/ARCS-F1112A
+Planet Hammer	Blighted Reach	ARCS-F1104	https://cards.buriedgiant.com/card/ARCS-F1104
+Planet-Eater Loose	Blighted Reach	ARCS-F1111	https://cards.buriedgiant.com/card/ARCS-F1111
+Planting Banners	Blighted Reach	ARCS-F1002	https://cards.buriedgiant.com/card/ARCS-F1002
+Plot to Kidnap	Blighted Reach	ARCS-F817	https://cards.buriedgiant.com/card/ARCS-F817
+Pluralistic Faith	Blighted Reach	ARCS-F814	https://cards.buriedgiant.com/card/ARCS-F814
+Political Intrigue	Blighted Reach	ARCS-F205	https://cards.buriedgiant.com/card/ARCS-F205
+Political Intrigue	Blighted Reach	ARCS-F206	https://cards.buriedgiant.com/card/ARCS-F206
+Political Intrigue	Blighted Reach	ARCS-F207	https://cards.buriedgiant.com/card/ARCS-F207
+Populist Demands	Base	ARCS-BC27	https://cards.buriedgiant.com/card/ARCS-BC27
+Populist Demands	Blighted Reach	ARCS-CC11	https://cards.buriedgiant.com/card/ARCS-CC11
+Portal Seekers	Blighted Reach	ARCS-F906	https://cards.buriedgiant.com/card/ARCS-F906
+Predictive Sensors	Leaders & Lore	ARCS-L15	https://cards.buriedgiant.com/card/ARCS-L15
+Prison Wardens	Base	ARCS-BC12	https://cards.buriedgiant.com/card/ARCS-BC12
+Prison Wardens	Blighted Reach	ARCS-F306	https://cards.buriedgiant.com/card/ARCS-F306
+Prison Wardens	Blighted Reach	ARCS-F1007	https://cards.buriedgiant.com/card/ARCS-F1007
+Prison Wardens	Blighted Reach	ARCS-F1008	https://cards.buriedgiant.com/card/ARCS-F1008
+Prospectors	Blighted Reach	ARCS-F322	https://cards.buriedgiant.com/card/ARCS-F322
+Psionic Cartel	Blighted Reach	ARCS-F310	https://cards.buriedgiant.com/card/ARCS-F310
+Psionic Guildmasters	Blighted Reach	ARCS-F421	https://cards.buriedgiant.com/card/ARCS-F421
+Psionic Liaisons	Blighted Reach	ARCS-F409	https://cards.buriedgiant.com/card/ARCS-F409
+Psionic Liaisons	Blighted Reach	ARCS-F1405	https://cards.buriedgiant.com/card/ARCS-F1405
+Psionic Monopoly	Blighted Reach	ARCS-F316	https://cards.buriedgiant.com/card/ARCS-F316
+Quartermaster	Leaders & Lore	ARCS-LEAD16	https://cards.buriedgiant.com/card/ARCS-LEAD16
+Raider Exosuits	Leaders & Lore	ARCS-L17	https://cards.buriedgiant.com/card/ARCS-L17
+Railgun Arrays	Base	ARCS-L12	https://cards.buriedgiant.com/card/ARCS-L12
+Reach Rejects Overlord	Blighted Reach	ARCS-F1703	https://cards.buriedgiant.com/card/ARCS-F1703
+Rebel	Base	ARCS-LEAD05	https://cards.buriedgiant.com/card/ARCS-LEAD05
+Rebuke of the Empaths	Blighted Reach	ARCS-F1412	https://cards.buriedgiant.com/card/ARCS-F1412
+Rebuke of the Keepers	Blighted Reach	ARCS-F1903	https://cards.buriedgiant.com/card/ARCS-F1903
+Reconcile with the Outraged	Blighted Reach	ARCS-F1411	https://cards.buriedgiant.com/card/ARCS-F1411
+Redeemer	Blighted Reach	ARCS-FATE19	https://cards.buriedgiant.com/card/ARCS-FATE19
+Redeemer Act III Objective	Blighted Reach	ARCS-F1901B	https://cards.buriedgiant.com/card/ARCS-F1901B
+Redeemer Act III Setup	Blighted Reach	ARCS-F1901A	https://cards.buriedgiant.com/card/ARCS-F1901A
+Relic Cartel	Blighted Reach	ARCS-F311	https://cards.buriedgiant.com/card/ARCS-F311
+Relic Fence	Base	ARCS-BC24	https://cards.buriedgiant.com/card/ARCS-BC24
+Relic Fence	Blighted Reach	ARCS-F305	https://cards.buriedgiant.com/card/ARCS-F305
+Relic Fence	Blighted Reach	ARCS-F1904	https://cards.buriedgiant.com/card/ARCS-F1904
+Relic Guildmasters	Blighted Reach	ARCS-F420	https://cards.buriedgiant.com/card/ARCS-F420
+Relic Liaisons	Blighted Reach	ARCS-F408	https://cards.buriedgiant.com/card/ARCS-F408
+Relic Monopoly	Blighted Reach	ARCS-F315	https://cards.buriedgiant.com/card/ARCS-F315
+Repair Drones	Base	ARCS-L07	https://cards.buriedgiant.com/card/ARCS-L07
+Repressed Faith	Blighted Reach	ARCS-F828	https://cards.buriedgiant.com/card/ARCS-F828
+Rogue Admirals	Blighted Reach	ARCS-F706	https://cards.buriedgiant.com/card/ARCS-F706
+Rogue Admirals	Blighted Reach	ARCS-F707	https://cards.buriedgiant.com/card/ARCS-F707
+Rumors Spread	Blighted Reach	ARCS-F1209	https://cards.buriedgiant.com/card/ARCS-F1209
+Rumors Spread	Blighted Reach	ARCS-F1210	https://cards.buriedgiant.com/card/ARCS-F1210
+Rumors of the Haven	Blighted Reach	ARCS-F1211	https://cards.buriedgiant.com/card/ARCS-F1211
+Scoring Conspiracies	Blighted Reach	ARCS-F2304	https://cards.buriedgiant.com/card/ARCS-F2304
+Seats & Fiefs	Blighted Reach	ARCS-F1609	https://cards.buriedgiant.com/card/ARCS-F1609
+Secret Order	Base	ARCS-BC18	https://cards.buriedgiant.com/card/ARCS-BC18
+Secret Order	Blighted Reach	ARCS-F819	https://cards.buriedgiant.com/card/ARCS-F819
+Secret Order	Blighted Reach	ARCS-F826	https://cards.buriedgiant.com/card/ARCS-F826
+Seek the Portal	Blighted Reach	ARCS-F909	https://cards.buriedgiant.com/card/ARCS-F909
+Seek the Portal	Blighted Reach	ARCS-F910	https://cards.buriedgiant.com/card/ARCS-F910
+Seek the Portal	Blighted Reach	ARCS-F911	https://cards.buriedgiant.com/card/ARCS-F911
+Seeker Torpedoes	Base	ARCS-L14	https://cards.buriedgiant.com/card/ARCS-L14
+Set Doctrine	Blighted Reach	ARCS-F821	https://cards.buriedgiant.com/card/ARCS-F821
+Set Lay Doctrine	Blighted Reach	ARCS-F827	https://cards.buriedgiant.com/card/ARCS-F827
+Shaper	Leaders & Lore	ARCS-LEAD14	https://cards.buriedgiant.com/card/ARCS-LEAD14
+Sharing Rumors	Blighted Reach	ARCS-F1212	https://cards.buriedgiant.com/card/ARCS-F1212
+Shipping Interest	Base	ARCS-BC09	https://cards.buriedgiant.com/card/ARCS-BC09
+Shipping Interest	Blighted Reach	ARCS-CC04	https://cards.buriedgiant.com/card/ARCS-CC04
+Signal Breaker	Base	ARCS-L06	https://cards.buriedgiant.com/card/ARCS-L06
+Silver-Tongues	Base	ARCS-BC20	https://cards.buriedgiant.com/card/ARCS-BC20
+Silver-Tongues	Blighted Reach	ARCS-CC08	https://cards.buriedgiant.com/card/ARCS-CC08
+Silver-Tongues	Blighted Reach	ARCS-F1207	https://cards.buriedgiant.com/card/ARCS-F1207
+Skirmishers	Base	ARCS-BC13	https://cards.buriedgiant.com/card/ARCS-BC13
+Skirmishers	Blighted Reach	ARCS-CC05	https://cards.buriedgiant.com/card/ARCS-CC05
+Skirmishers	Blighted Reach	ARCS-F1615	https://cards.buriedgiant.com/card/ARCS-F1615
+Song of Freedom	Base	ARCS-BC29	https://cards.buriedgiant.com/card/ARCS-BC29
+Song of Freedom	Blighted Reach	ARCS-CC14	https://cards.buriedgiant.com/card/ARCS-CC14
+Song of the Banner	Blighted Reach	ARCS-F1004	https://cards.buriedgiant.com/card/ARCS-F1004
+Sower of Division	Blighted Reach	ARCS-F625	https://cards.buriedgiant.com/card/ARCS-F625
+Spacing Union	Base	ARCS-BC10	https://cards.buriedgiant.com/card/ARCS-BC10
+Spacing Union	Blighted Reach	ARCS-F611	https://cards.buriedgiant.com/card/ARCS-F611
+Spacing Union	Blighted Reach	ARCS-F622	https://cards.buriedgiant.com/card/ARCS-F622
+Spirit of Freedom	Blighted Reach	ARCS-F224	https://cards.buriedgiant.com/card/ARCS-F224
+Spore Guides	Blighted Reach	ARCS-F2103	https://cards.buriedgiant.com/card/ARCS-F2103
+Spore Ships	Blighted Reach	ARCS-F1302	https://cards.buriedgiant.com/card/ARCS-F1302
+Spreading the Faith	Blighted Reach	ARCS-F803	https://cards.buriedgiant.com/card/ARCS-F803
+Sprinter Drives	Base	ARCS-L03	https://cards.buriedgiant.com/card/ARCS-L03
+Steward	Blighted Reach	ARCS-FATE01	https://cards.buriedgiant.com/card/ARCS-FATE01
+Steward Act I Objective	Blighted Reach	ARCS-F101B	https://cards.buriedgiant.com/card/ARCS-F101B
+Steward Act I Resolution	Blighted Reach	ARCS-F104	https://cards.buriedgiant.com/card/ARCS-F104
+Steward Act I Setup	Blighted Reach	ARCS-F101A	https://cards.buriedgiant.com/card/ARCS-F101A
+Steward Act II Objective	Blighted Reach	ARCS-F112B	https://cards.buriedgiant.com/card/ARCS-F112B
+Steward Act II Resolution	Blighted Reach	ARCS-F114	https://cards.buriedgiant.com/card/ARCS-F114
+Steward Act II Setup	Blighted Reach	ARCS-F112A	https://cards.buriedgiant.com/card/ARCS-F112A
+Steward Act III Objective	Blighted Reach	ARCS-F122B	https://cards.buriedgiant.com/card/ARCS-F122B
+Steward Act III Setup	Blighted Reach	ARCS-F122A	https://cards.buriedgiant.com/card/ARCS-F122A
+Stone-Speakers	Blighted Reach	ARCS-F504	https://cards.buriedgiant.com/card/ARCS-F504
+Survival Overrides	Leaders & Lore	ARCS-L18	https://cards.buriedgiant.com/card/ARCS-L18
+Survivalist	Blighted Reach	ARCS-FATE18	https://cards.buriedgiant.com/card/ARCS-FATE18
+Survivalist Act III Objective	Blighted Reach	ARCS-F1801B	https://cards.buriedgiant.com/card/ARCS-F1801B
+Survivalist Act III Setup	Blighted Reach	ARCS-F1801A	https://cards.buriedgiant.com/card/ARCS-F1801A
+Sworn Guardians	Base	ARCS-BC22	https://cards.buriedgiant.com/card/ARCS-BC22
+Sworn Guardians	Blighted Reach	ARCS-CC09	https://cards.buriedgiant.com/card/ARCS-CC09
+Sworn Guardians	Blighted Reach	ARCS-F1616	https://cards.buriedgiant.com/card/ARCS-F1616
+Sycophants	Blighted Reach	ARCS-F1102	https://cards.buriedgiant.com/card/ARCS-F1102
+Sycophants	Blighted Reach	ARCS-F1702	https://cards.buriedgiant.com/card/ARCS-F1702
+Tax Collectors	Blighted Reach	ARCS-F106	https://cards.buriedgiant.com/card/ARCS-F106
+Terror Strike	Blighted Reach	ARCS-F620	https://cards.buriedgiant.com/card/ARCS-F620
+Terror Strike	Blighted Reach	ARCS-F621	https://cards.buriedgiant.com/card/ARCS-F621
+The Arbiter	Blighted Reach	ARCS-F2403	https://cards.buriedgiant.com/card/ARCS-F2403
+The Dead Live	Blighted Reach	ARCS-F2204	https://cards.buriedgiant.com/card/ARCS-F2204
+The Prodigal One	Blighted Reach	ARCS-F818	https://cards.buriedgiant.com/card/ARCS-F818
+The Prophet	Blighted Reach	ARCS-F825	https://cards.buriedgiant.com/card/ARCS-F825
+The Young Light	Blighted Reach	ARCS-F816	https://cards.buriedgiant.com/card/ARCS-F816
+Tool-Priests	Base	ARCS-L01	https://cards.buriedgiant.com/card/ARCS-L01
+Tycoon's Ambition	Leaders & Lore	ARCS-L27	https://cards.buriedgiant.com/card/ARCS-L27
+Tycoon's Charm	Leaders & Lore	ARCS-L28	https://cards.buriedgiant.com/card/ARCS-L28
+Tyrant's Authority	Leaders & Lore	ARCS-L26	https://cards.buriedgiant.com/card/ARCS-L26
+Tyrant's Ego	Leaders & Lore	ARCS-L25	https://cards.buriedgiant.com/card/ARCS-L25
+Uncovering Clues	Blighted Reach	ARCS-F902	https://cards.buriedgiant.com/card/ARCS-F902
+Unstable Harvester	Blighted Reach	ARCS-F508	https://cards.buriedgiant.com/card/ARCS-F508
+Unstable Protector	Blighted Reach	ARCS-F510	https://cards.buriedgiant.com/card/ARCS-F510
+Unstable Seeker	Blighted Reach	ARCS-F509	https://cards.buriedgiant.com/card/ARCS-F509
+Unstable Warrior	Blighted Reach	ARCS-F511	https://cards.buriedgiant.com/card/ARCS-F511
+Upstart	Base	ARCS-LEAD04	https://cards.buriedgiant.com/card/ARCS-LEAD04
+Use Imperial Foundries	Blighted Reach	ARCS-F703	https://cards.buriedgiant.com/card/ARCS-F703
+Vow of Fairness	Blighted Reach	ARCS-F2402	https://cards.buriedgiant.com/card/ARCS-F2402
+Vow of Survival	Blighted Reach	ARCS-F1802	https://cards.buriedgiant.com/card/ARCS-F1802
+War Profiteering	Blighted Reach	ARCS-F320	https://cards.buriedgiant.com/card/ARCS-F320
+Warden	Blighted Reach	ARCS-FATE16	https://cards.buriedgiant.com/card/ARCS-FATE16
+Warden Act II Objective	Blighted Reach	ARCS-F1601B	https://cards.buriedgiant.com/card/ARCS-F1601B
+Warden Act II Resolution	Blighted Reach	ARCS-F1611	https://cards.buriedgiant.com/card/ARCS-F1611
+Warden Act II Setup	Blighted Reach	ARCS-F1601A	https://cards.buriedgiant.com/card/ARCS-F1601A
+Warden Act III Objective	Blighted Reach	ARCS-F1617B	https://cards.buriedgiant.com/card/ARCS-F1617B
+Warden Act III Setup	Blighted Reach	ARCS-F1617A	https://cards.buriedgiant.com/card/ARCS-F1617A
+Warden's Levy	Blighted Reach	ARCS-F1612	https://cards.buriedgiant.com/card/ARCS-F1612
+Warlord's Cruelty	Leaders & Lore	ARCS-L23	https://cards.buriedgiant.com/card/ARCS-L23
+Warlord's Terror	Leaders & Lore	ARCS-L24	https://cards.buriedgiant.com/card/ARCS-L24
+Warrior	Base	ARCS-LEAD06	https://cards.buriedgiant.com/card/ARCS-LEAD06
+Weapon Cartel	Blighted Reach	ARCS-F309	https://cards.buriedgiant.com/card/ARCS-F309
+Weapon Monopoly	Blighted Reach	ARCS-F317	https://cards.buriedgiant.com/card/ARCS-F317
+Weapons Guildmasters	Blighted Reach	ARCS-F419	https://cards.buriedgiant.com/card/ARCS-F419
+Weapons Liaisons	Blighted Reach	ARCS-F407	https://cards.buriedgiant.com/card/ARCS-F407
+Well of Empathy	Blighted Reach	ARCS-F1403	https://cards.buriedgiant.com/card/ARCS-F1403
+Witnesses	Blighted Reach	ARCS-F1402	https://cards.buriedgiant.com/card/ARCS-F1402

@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Write-Host 'Checking for GitHub organization...'; Invoke-WebRequest -Uri 'https://github.com/buriedgiant' -UseBasicParsing | Select-Object -ExpandProperty StatusCode\")",
+      "Bash(curl -s https://api.github.com/repos/BuriedGiantStudios/cards/contents/content)",
+      "Bash(curl -s https://api.github.com/repos/BuriedGiantStudios/cards)",
+      "Bash(curl -s https://api.github.com/users/BuriedGiantStudios/repos)",
+      "Bash(curl -s https://api.github.com/repos/buriedgiantstudios/cards/contents/content/card-data)",
+      "Bash(curl -s https://raw.githubusercontent.com/buriedgiantstudios/cards/master/content/card-data/arcs/en-US/arcs.yml)",
+      "Bash(curl -s https://raw.githubusercontent.com/buriedgiantstudios/cards/master/content/errata/arcs/en-US.yml)",
+      "Bash(curl -s https://raw.githubusercontent.com/buriedgiantstudios/cards/master/content/faq/arcs/en-US.yml)",
+      "Bash(Move-Item C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\primer-base-game.md C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\arcs-rules\\\\primer-base-game.md)",
+      "Bash(Move-Item C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\primer-expansion.md C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\arcs-rules\\\\primer-expansion.md)",
+      "Bash(Move-Item C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\card-index.txt C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\arcs-rules\\\\card-index.txt)",
+      "Bash(Move-Item C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\rules-index.txt C:\\\\github\\\\arcs-rules-assistant\\\\skill\\\\arcs-rules\\\\rules-index.txt)",
+      "Bash(python skill/generate-card-index.py)",
+      "Bash(python skill/generate-rules-index.py)",
+      "Bash(git -C C:\\\\github\\\\arcs-rules-assistant\\\\cards remote -v)",
+      "Bash(git -C C:\\\\github\\\\arcs-rules-assistant\\\\rules remote -v)",
+      "PowerShell(git *)"
+    ]
+  }
+}
