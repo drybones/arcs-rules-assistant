@@ -1,4 +1,4 @@
-# Arcs Oracle
+# Arcs Rules Assistant
 
 A rules assistant for the board game **Arcs** by Buried Giant Studios, covering the base game, the Blighted Reach campaign expansion, and the Leaders & Lore expansion.
 
