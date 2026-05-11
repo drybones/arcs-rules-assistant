@@ -100,7 +100,9 @@ Give your answer in this structure:
 
 **[Direct answer in plain English — one or two sentences.]**
 
-> *Source: [linked citation — use `link_url` from `rules-index.txt` (not `url`) to make the section a clickable link, e.g. [§3.1.2 Playing a Chapter](https://rules.buriedgiant.com/...) or [§20.3.4.3 Slipstream Drive](https://rules.buriedgiant.com/...#20.3.4) (link points to depth-3 parent). For cards use the URL from `card-index.txt`, e.g. [Warlord](https://cards.buriedgiant.com/card/ARCS-XX00).]*
+> *Source: [linked citation — see rules link instructions below.]*
+
+**Rules links — strict lookup required.** Never construct or guess a rules URL. Before writing any rules link, grep `rules-index.txt` for the section name to get its number and `link_url`. Use only the `link_url` value (fourth column) verbatim — do not alter it. Example of correct form: `[§16.3.3 Securing the Council](https://rules.buriedgiant.com/?product=arcs&locale=en-US&printing=p1#16.3.3)`. For depth-4+ sections the `link_url` points to the depth-3 ancestor — that is intentional. For cards, use the URL from `card-index.txt` directly, e.g. `[Warlord](https://cards.buriedgiant.com/card/ARCS-XX00)`.
 
 If errata affects the answer, add:
 
