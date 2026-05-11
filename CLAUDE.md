@@ -8,6 +8,8 @@ The assistant answers rules questions by consulting official sources — ruleboo
 
 The skill lives in `skill/arcs-rules/SKILL.md`. It is designed to be channelled through a single player at the table who runs Claude Code locally. Other players ask questions verbally or via group chat; the operator enters them and relays answers.
 
+**Never edit the skill at `~/.claude/skills/arcs-rules/` directly.** That path is the installed copy and will be overwritten by the setup script. Always edit `skill/arcs-rules/SKILL.md` in this repo, then redeploy by re-running the setup script.
+
 Clone this repo, then run the setup script from the repo root. It clones the content repos, installs the skill, and builds the search indexes:
 
 **Mac/Linux:**
