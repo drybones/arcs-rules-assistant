@@ -105,4 +105,4 @@ The **Court** is a face-up row of cards along the map edge. You place agents on 
 Leaders & Lore is an optional layer, not used in a first game.
 
 - **Leader card**: replaces standard starting placement and resources. Gives each player a unique set of starting pieces, starting resources, and a persistent special power. Leaders are drafted in reverse turn order at setup. A leader card is a player's identity for the game — it is not played, activated, or declared during the game.
-- **Lore cards**: also drafted at setup. Give persistent special powers. Unlike Guild cards, lore cards have no guild icon, no Raid Cost, do not contribute to ambitions, and **cannot be stolen**.
+- **Lore cards**: also drafted at setup. Give persistent special powers. Unlike Guild cards, lore cards have no guild icon, no Raid Cost, do not contribute to ambitions, and **cannot be stolen**. Lore cards appear in all three sets — the base game, Blighted Reach, and the Leaders & Lore expansion — so when searching for lore cards, check all three card data files.
