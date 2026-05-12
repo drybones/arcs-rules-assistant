@@ -1,0 +1,3687 @@
+[
+  {
+    "id": "card-faq-admin-union-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Admin Union",
+    "question": "Regarding the card \"Admin Union\": When do you collect the action card?",
+    "canonical_answer": "At the end of the round, after all players have finished their turns.",
+    "checks": {
+      "must_name_card": "Admin Union",
+      "must_mention_keywords": [
+        "finished"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-admin-union-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Admin Union",
+    "question": "Regarding the card \"Admin Union\": Can this be stolen once it has been played but not resolved?",
+    "canonical_answer": "Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.",
+    "checks": {
+      "must_name_card": "Admin Union",
+      "must_mention_keywords": [
+        "holder",
+        "stolen",
+        "played"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arms-union-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Arms Union",
+    "question": "Regarding the card \"Arms Union\": When do you collect the action card?",
+    "canonical_answer": "At the end of the round, after all players have finished their turns.",
+    "checks": {
+      "must_name_card": "Arms Union",
+      "must_mention_keywords": [
+        "finished"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arms-union-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Arms Union",
+    "question": "Regarding the card \"Arms Union\": Can this be stolen once it has been played but not resolved?",
+    "canonical_answer": "Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.",
+    "checks": {
+      "must_name_card": "Arms Union",
+      "must_mention_keywords": [
+        "holder",
+        "stolen",
+        "played"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-construction-union-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Construction Union",
+    "question": "Regarding the card \"Construction Union\": When do you collect the action card?",
+    "canonical_answer": "At the end of the round, after all players have finished their turns.",
+    "checks": {
+      "must_name_card": "Construction Union",
+      "must_mention_keywords": [
+        "finished"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-construction-union-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Construction Union",
+    "question": "Regarding the card \"Construction Union\": Can this be stolen once it has been played but not resolved?",
+    "canonical_answer": "Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.",
+    "checks": {
+      "must_name_card": "Construction Union",
+      "must_mention_keywords": [
+        "holder",
+        "stolen",
+        "played"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-elder-broker-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Elder Broker",
+    "question": "Regarding the card \"Elder Broker\": Is Trade blocked by $link:Sworn Guardians$?",
+    "canonical_answer": "The Trade action is not stealing and is not blocked by $link:Sworn Guardians$.",
+    "checks": {
+      "must_name_card": "Elder Broker",
+      "must_mention_keywords": [
+        "stealing",
+        "blocked"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Sworn Guardians",
+        "Sworn Guardians"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-farseers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Farseers",
+    "question": "Regarding the card \"Farseers\": Can you give me an example of this Prelude action if I discarded 2 cards plus Farseers?",
+    "canonical_answer": "You would draw 3 cards from the bottom of the action card discard pile.",
+    "checks": {
+      "must_name_card": "Farseers",
+      "must_mention_keywords": [
+        "bottom",
+        "discard"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-farseers-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Farseers",
+    "question": "Regarding the card \"Farseers\": Can I discard zero cards beyond this one?",
+    "canonical_answer": "Yes! In this case, just draw 1 card.",
+    "checks": {
+      "must_name_card": "Farseers",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-farseers-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Farseers",
+    "question": "Regarding the card \"Farseers\": What happens if the discard pile is very small when I use this?",
+    "canonical_answer": "Shuffle all of the cards you are discarding before placing them on the discard pile. This is one of the few situations where discard order matters in the game.",
+    "checks": {
+      "must_name_card": "Farseers",
+      "must_mention_keywords": [
+        "Shuffle",
+        "discarding",
+        "placing",
+        "discard"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-fuel-cartel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Fuel Cartel",
+    "question": "Regarding the card \"Fuel Cartel\": How does the supply on this card interact with other cards and abilities?",
+    "canonical_answer": "The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.",
+    "checks": {
+      "must_name_card": "Fuel Cartel",
+      "must_mention_keywords": [
+        "resources",
+        "towards",
+        "ambitions",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Keeper's Solidarity",
+        "Relic Fence"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-fuel-cartel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Fuel Cartel",
+    "question": "Regarding the card \"Fuel Cartel\": Do rivals discard even if Tycoon wasn't scored?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Fuel Cartel",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-fuel-cartel-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Fuel Cartel",
+    "question": "Regarding the card \"Fuel Cartel\": Can I discard this even if there is nothing to steal?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Fuel Cartel",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-galactic-bards-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Galactic Bards",
+    "question": "Regarding the card \"Galactic Bards\": In what order do you choose to seize the initiative and declare an ambition?",
+    "canonical_answer": "Either order.",
+    "checks": {
+      "must_name_card": "Galactic Bards",
+      "must_mention_keywords": [
+        "Either"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-galactic-bards-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Galactic Bards",
+    "question": "Regarding the card \"Galactic Bards\": How does this interact with '7' action cards and $link:Faithful Cards$?",
+    "canonical_answer": "For '7' action cards, you may declare any ambition. For Faithful cards, you may declare an ambition based on the current Faith, such as $link:Pluralistic Faith$.",
+    "checks": {
+      "must_name_card": "Galactic Bards",
+      "must_mention_keywords": [
+        "declare",
+        "ambition",
+        "Faithful",
+        "current"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Faithful Cards",
+        "Pluralistic Faith"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-material-cartel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Material Cartel",
+    "question": "Regarding the card \"Material Cartel\": How does the supply on this card interact with other cards and abilities?",
+    "canonical_answer": "The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.",
+    "checks": {
+      "must_name_card": "Material Cartel",
+      "must_mention_keywords": [
+        "resources",
+        "towards",
+        "ambitions",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Keeper's Solidarity",
+        "Relic Fence"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-material-cartel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Material Cartel",
+    "question": "Regarding the card \"Material Cartel\": Do rivals discard even if Tycoon wasn't scored?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Material Cartel",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-material-cartel-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Material Cartel",
+    "question": "Regarding the card \"Material Cartel\": Can I discard this even if there is nothing to steal?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Material Cartel",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-spacing-union-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Spacing Union",
+    "question": "Regarding the card \"Spacing Union\": When do you collect the action card?",
+    "canonical_answer": "At the end of the round, after all players have finished their turns.",
+    "checks": {
+      "must_name_card": "Spacing Union",
+      "must_mention_keywords": [
+        "finished"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-spacing-union-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Spacing Union",
+    "question": "Regarding the card \"Spacing Union\": Can this be stolen once it has been played but not resolved?",
+    "canonical_answer": "Only cards in the holder's play area can be stolen, so once played this card cannot be stolen.",
+    "checks": {
+      "must_name_card": "Spacing Union",
+      "must_mention_keywords": [
+        "holder",
+        "stolen",
+        "played"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-bc29-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-BC29",
+    "question": "Regarding the card \"ARCS-BC29\": Can you secure this card if you are leading or if initiative has already been seized?",
+    "canonical_answer": "Yes. In this case, you may return a city you control, but you don't seize the initiative.",
+    "checks": {
+      "must_name_card": "ARCS-BC29",
+      "must_mention_keywords": [
+        "return",
+        "control",
+        "initiative"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-demagogue-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Demagogue",
+    "question": "Regarding the card \"Demagogue\": How many cards can I influence with **Bold**?",
+    "canonical_answer": "You may put up to one agent on each card in the Court.",
+    "checks": {
+      "must_name_card": "Demagogue",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-feastbringer-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Feastbringer",
+    "question": "Regarding the card \"Feastbringer\": Do my Influence and Secure actions need to be on the same card?",
+    "canonical_answer": "You can influence and secure different cards.",
+    "checks": {
+      "must_name_card": "Feastbringer",
+      "must_mention_keywords": [
+        "influence",
+        "secure",
+        "different"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-feastbringer-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Feastbringer",
+    "question": "Regarding the card \"Feastbringer\": Do I have to secure after I influence?",
+    "canonical_answer": "You must perform a legal secure after you influence. (You must have a legal target to secure.) Otherwise the influence must be undone.",
+    "checks": {
+      "must_name_card": "Feastbringer",
+      "must_mention_keywords": [
+        "perform",
+        "secure",
+        "influence",
+        "target"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-feastbringer-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Feastbringer",
+    "question": "Regarding the card \"Feastbringer\": Can I declare without giving away a Guild card if I have none, or if I'm using Populist Demands?",
+    "canonical_answer": "No. Giving away a Guild is a mandatory cost for all declares.",
+    "checks": {
+      "must_name_card": "Feastbringer",
+      "must_mention_keywords": [
+        "Giving",
+        "mandatory",
+        "declares"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-fuel-drinker-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Fuel-Drinker",
+    "question": "Regarding the card \"Fuel-Drinker\": If a resource stack is empty, can I still tax it to then gain a Fuel from *Insatiable*?",
+    "canonical_answer": "You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.",
+    "checks": {
+      "must_name_card": "Fuel-Drinker",
+      "must_mention_keywords": [
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-mystic-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Mystic",
+    "question": "Regarding the card \"Mystic\": If a resource stack is empty, can I still tax it to then gain a Psionic from *Attuned*?",
+    "canonical_answer": "You can tax a city even if its resource stack is empty. You do not gain the first resource into your area.",
+    "checks": {
+      "must_name_card": "Mystic",
+      "must_mention_keywords": [
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-noble-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Noble",
+    "question": "Regarding the card \"Noble\": If the top card of the Court deck is $link:Populist Demands$, do you trigger *Connected* again?",
+    "canonical_answer": "Yes, if you declare an undeclared ambition with a drawn $link:Populist Demands$, this ability triggers again.",
+    "checks": {
+      "must_name_card": "Noble",
+      "must_mention_keywords": [
+        "declare",
+        "undeclared",
+        "ambition",
+        "ability"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Populist Demands",
+        "Populist Demands"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-noble-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Noble",
+    "question": "Regarding the card \"Noble\": If I secure $link:Farseers$, does *Connected* trigger?",
+    "canonical_answer": "No. $link:Farseers$ being drawn as a result of Connected does not see the timing window to then trigger its ability to look at a Rival's hand and swap a card with them.",
+    "checks": {
+      "must_name_card": "Noble",
+      "must_mention_keywords": [
+        "result",
+        "Connected",
+        "timing",
+        "window"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Farseers",
+        "Farseers"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-overseer-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Overseer",
+    "question": "Regarding the card \"Overseer\": Can I tax a city once per turn and build a ship in the same turn to use *Ruthless* twice?",
+    "canonical_answer": "Each turn, you can only tax or build a ship with *Ruthless*, not both.",
+    "checks": {
+      "must_name_card": "Overseer",
+      "must_mention_keywords": [
+        "Ruthless"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-overseer-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Overseer",
+    "question": "Regarding the card \"Overseer\": If a city is destroyed with *Ruthless*, when do I provoke Outrage?",
+    "canonical_answer": "When you destroy a city to tax, you first provoke outrage, then gain the resource from taxing.",
+    "checks": {
+      "must_name_card": "Overseer",
+      "must_mention_keywords": [
+        "destroy",
+        "provoke",
+        "outrage",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-overseer-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Overseer",
+    "question": "Regarding the card \"Overseer\": Does *Ruthless* give me an extra actions, or do the bonus activations of a city or startport counting against my total action pips?",
+    "canonical_answer": "Hitting the building is an extra action. You don't have to spend an action pip.",
+    "checks": {
+      "must_name_card": "Overseer",
+      "must_mention_keywords": [
+        "Hitting",
+        "building"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-overseer-004",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Overseer",
+    "question": "Regarding the card \"Overseer\": Can I use *Ruthless* to hit a building even if I do not gain a resource or cannot build a ship?",
+    "canonical_answer": "Yes, you may hit a building to tax or build even if the action yields nothing.",
+    "checks": {
+      "must_name_card": "Overseer",
+      "must_mention_keywords": [
+        "building",
+        "yields",
+        "nothing"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-quartermaster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Quartermaster",
+    "question": "Regarding the card \"Quartermaster\": When does Resilient count the number of starports I control?",
+    "canonical_answer": "Resilient checks the number of starports after battle. If the battle destroys a starport previously controlled by Quartermaster, or if the battle causes the Quartermaster to lose control over a starport, it does not add to the number of repairs.",
+    "checks": {
+      "must_name_card": "Quartermaster",
+      "must_mention_keywords": [
+        "Resilient",
+        "checks",
+        "number",
+        "starports"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-rebel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rebel",
+    "question": "Regarding the card \"Rebel\": Can I choose not to use the two extra dice from *Committed*?",
+    "canonical_answer": "No, collecting these two dice is mandatory.",
+    "checks": {
+      "must_name_card": "Rebel",
+      "must_mention_keywords": [
+        "collecting",
+        "mandatory"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-rebel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rebel",
+    "question": "Regarding the card \"Rebel\": How does *Disorganized* interact with $link:Predictive Sensors$?",
+    "canonical_answer": "$link:Predictive Sensors$ is subject to this restriction. When the Rebel uses $link:Predictive Sensors$, they can move in up to 2 ships from each adjacent system. This is because a move is defined as “number of Loyal ships from one system to an adjacent system.”",
+    "checks": {
+      "must_name_card": "Rebel",
+      "must_mention_keywords": [
+        "subject",
+        "restriction",
+        "adjacent",
+        "system"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Predictive Sensors",
+        "Predictive Sensors",
+        "Predictive Sensors"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-rebel-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rebel",
+    "question": "Regarding the card \"Rebel\": How does Disorganized interact with $link:Force Beams$?",
+    "canonical_answer": "$link:Force Beams$ ignores this restriction.",
+    "checks": {
+      "must_name_card": "Rebel",
+      "must_mention_keywords": [
+        "ignores",
+        "restriction"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Force Beams",
+        "Force Beams"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-upstart-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Upstart",
+    "question": "Regarding the card \"Upstart\": If you are the $link:Upstart$, have $link:Empath's Bond$, and Empath is declared, can you tax a loyal city that you do not control?",
+    "canonical_answer": "The \"any\" in $link:Empath's Bond$ should be interpreted as \"non-Loyal,\" and Callow should be rephrased to “You cannot tax cities that you do not control.” As a result, $link:Empath's Bond$ when active only gives the Upstart the ability to use Rival starports to build and Catapult move.",
+    "checks": {
+      "must_name_card": "Upstart",
+      "must_mention_keywords": [
+        "interpreted",
+        "Callow",
+        "rephrased",
+        "cities"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Upstart",
+        "Empath's Bond",
+        "Empath's Bond",
+        "Empath's Bond"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-warrior-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Warrior",
+    "question": "Regarding the card \"Warrior\": Do I have to move and battle with the same ships with *Tactical*?",
+    "canonical_answer": "You can move and battle with different ships.",
+    "checks": {
+      "must_name_card": "Warrior",
+      "must_mention_keywords": [
+        "battle",
+        "different"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-warrior-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Warrior",
+    "question": "Regarding the card \"Warrior\": Can the *Tactical* move be a Catapult move?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Warrior",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-warrior-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Warrior",
+    "question": "Regarding the card \"Warrior\": Can I do the *Tactical* move if I end up moving to a space with no ships to battle?",
+    "canonical_answer": "You must perform a legal Battle action after moving (must have a legal target to attack). Otherwise the move must be undone.",
+    "checks": {
+      "must_name_card": "Warrior",
+      "must_mention_keywords": [
+        "perform",
+        "Battle",
+        "moving",
+        "target"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-ancient-holdings-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Ancient Holdings",
+    "question": "Regarding the card \"Ancient Holdings\": Can Ancient Holdings hold $link:Golems$?",
+    "canonical_answer": "Yes, Ancient Holdings provides a resource slot that holds one Golem.",
+    "checks": {
+      "must_name_card": "Ancient Holdings",
+      "must_mention_keywords": [
+        "Ancient",
+        "Holdings",
+        "provides",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Golems"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-cloud-cities-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Cloud Cities",
+    "question": "Regarding the card \"Cloud Cities\": Can I spend a resource to build a city while outraged in that resource?",
+    "canonical_answer": "Yes, Outrage does not stop you from spending the resource at all. It only stops you from spending it for its standard Prelude action.",
+    "checks": {
+      "must_name_card": "Cloud Cities",
+      "must_mention_keywords": [
+        "Outrage",
+        "spending",
+        "resource",
+        "standard"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-cloud-cities-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Cloud Cities",
+    "question": "Regarding the card \"Cloud Cities\": Do I need to have the resource to build the city?",
+    "canonical_answer": "Building a Cloud City requires spending a resource of the planet type.",
+    "checks": {
+      "must_name_card": "Cloud Cities",
+      "must_mention_keywords": [
+        "Building",
+        "requires",
+        "spending",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-cloud-cities-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Cloud Cities",
+    "question": "Regarding the card \"Cloud Cities\": If this card has changed hands, can multiple players have an extra city on the same planet?",
+    "canonical_answer": "No, it is a maximum of one total.",
+    "checks": {
+      "must_name_card": "Cloud Cities",
+      "must_mention_keywords": [
+        "maximum"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-empath-s-bond-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Empath's Bond",
+    "question": "Regarding the card \"Empath's Bond\": How does Empath's Bond interact with the Empire, who is not a Rival?",
+    "canonical_answer": "This card should have errata provided to change the final sentence to \"*Build ships damaged in systems controlled by anyone else.*\"",
+    "checks": {
+      "must_name_card": "Empath's Bond",
+      "must_mention_keywords": [
+        "errata",
+        "provided",
+        "change",
+        "sentence"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-galactic-rifles-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Galactic Rifles",
+    "question": "Regarding the card \"Galactic Rifles\": Is *Fire Rifles* modified by abilities that modify Battle?",
+    "canonical_answer": "Abilities that modify Battle do not apply to *Fire Rifles*. For example, you cannot use $link:Skirmishers$ to reroll the dice, and you cannot use $link:Gatekeepers$ to collect more dice.",
+    "checks": {
+      "must_name_card": "Galactic Rifles",
+      "must_mention_keywords": [
+        "Abilities",
+        "modify",
+        "Battle",
+        "Rifles"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Skirmishers",
+        "Gatekeepers"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-galactic-rifles-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Galactic Rifles",
+    "question": "Regarding the card \"Galactic Rifles\": How does this interact with the Imperial Truce Law?",
+    "canonical_answer": "It causes harm in the target system, so you cannot target a Regent in a system with Imperial ships, but you can use Galactic Rifles from a system with Imperial ships.",
+    "checks": {
+      "must_name_card": "Galactic Rifles",
+      "must_mention_keywords": [
+        "causes",
+        "target",
+        "system",
+        "Regent"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-gate-stations-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Gate Stations",
+    "question": "Regarding the card \"Gate Stations\": What happens if the cluster has no cities?",
+    "canonical_answer": "If a Gate Station is in a cluster with no other city, it has no type. Destroying it provokes no Outrage. Taxing it yields no resource, but it can still be taxed.",
+    "checks": {
+      "must_name_card": "Gate Stations",
+      "must_mention_keywords": [
+        "Station",
+        "cluster",
+        "Destroying",
+        "provokes"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-gate-stations-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Gate Stations",
+    "question": "Regarding the card \"Gate Stations\": What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?",
+    "canonical_answer": "If transferred, your cities in gates still operate in the same way. If scrapped, your cities in gates no longer have a type, so they no longer produce resources when taxed and no longer Provoke Outrage when destroyed.",
+    "checks": {
+      "must_name_card": "Gate Stations",
+      "must_mention_keywords": [
+        "transferred",
+        "cities",
+        "operate",
+        "scrapped"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Knowledge Set Free",
+        "Caretaker Act III Objective"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-gate-stations-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Gate Stations",
+    "question": "Regarding the card \"Gate Stations\": If this card has changed hands, can multiple players have a city in the same gate?",
+    "canonical_answer": "No, it is a maximum of one total.",
+    "checks": {
+      "must_name_card": "Gate Stations",
+      "must_mention_keywords": [
+        "maximum"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-gate-ports-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Gate Ports",
+    "question": "Regarding the card \"Gate Ports\": What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?",
+    "canonical_answer": "Your starports in gates can still build ships and enable Catapult moves, but you can no longer take Captives with them.",
+    "checks": {
+      "must_name_card": "Gate Ports",
+      "must_mention_keywords": [
+        "starports",
+        "enable",
+        "Catapult",
+        "longer"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Knowledge Set Free",
+        "Caretaker Act III Objective"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-gate-ports-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Gate Ports",
+    "question": "Regarding the card \"Gate Ports\": If this card has changed hands, can multiple players have a starport in the same gate?",
+    "canonical_answer": "No, it is a maximum of one total.",
+    "checks": {
+      "must_name_card": "Gate Ports",
+      "must_mention_keywords": [
+        "maximum"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-keeper-s-solidarity-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Keeper's Solidarity",
+    "question": "Regarding the card \"Keeper's Solidarity\": What counts as resources I have?",
+    "canonical_answer": "Everything in your play area, including resources on cards, even if frozen.",
+    "checks": {
+      "must_name_card": "Keeper's Solidarity",
+      "must_mention_keywords": [
+        "Everything",
+        "including",
+        "resources",
+        "frozen"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-keeper-s-trust-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Keeper's Trust",
+    "question": "Regarding the card \"Keeper's Trust\": Does this interact with Cartel cards?",
+    "canonical_answer": "A player has the resources on Cartel cards. This means Keeper's Trust applies to those resources.",
+    "checks": {
+      "must_name_card": "Keeper's Trust",
+      "must_mention_keywords": [
+        "resources",
+        "Cartel",
+        "Keeper",
+        "applies"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-raider-exosuits-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Raider Exosuits",
+    "question": "Regarding the card \"Raider Exosuits\": When the defender has no buildings on the map and I could collect more than 1 raid die, am I restricted by Raider Exosuits?",
+    "canonical_answer": "If the defender doesn't have any building on the map, you are not subject to the raid dice limit and can collect more than one raid die.",
+    "checks": {
+      "must_name_card": "Raider Exosuits",
+      "must_mention_keywords": [
+        "defender",
+        "building",
+        "subject",
+        "collect"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-signal-breaker-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Signal Breaker",
+    "question": "Regarding the card \"Signal Breaker\": Can you limit which ships are battling?",
+    "canonical_answer": "Attacker's Loyal ships in the battle system are all “attacking ships”. Therefore, all Loyal ships in the battle system must be fresh at the start of battle to use Signal Breaker.",
+    "checks": {
+      "must_name_card": "Signal Breaker",
+      "must_mention_keywords": [
+        "Attacker",
+        "battle",
+        "system",
+        "attacking"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-signal-breaker-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Signal Breaker",
+    "question": "Regarding the card \"Signal Breaker\": Does Signal Break block the Intercept generated by $link:Mirror Plating$?",
+    "canonical_answer": "Signal Breaker lets you “ignore one intercept you roll”. However, this cannot ignore the intercept added by Mirror Plating, because it is not rolled.",
+    "checks": {
+      "must_name_card": "Signal Breaker",
+      "must_mention_keywords": [
+        "Signal",
+        "Breaker",
+        "ignore",
+        "intercept"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Mirror Plating"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-signal-breaker-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Signal Breaker",
+    "question": "Regarding the card \"Signal Breaker\": Does Signal Break take effect before $link:Railgun Arrays$?",
+    "canonical_answer": "Signal Breaker checks if all the attacking ships are fresh at the beginning of the battle, before Railgun Arrays deals one hit.",
+    "checks": {
+      "must_name_card": "Signal Breaker",
+      "must_mention_keywords": [
+        "Signal",
+        "Breaker",
+        "checks",
+        "attacking"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Railgun Arrays"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-sprinter-drives-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sprinter Drives",
+    "question": "Regarding the card \"Sprinter Drives\": Can Sprinter Drives activate more uses of Sprinter Drives?",
+    "canonical_answer": "No, it is not recursive. The more verbose but correct text is: When you move fresh Loyal ships but not with Sprinter Drives, you may move any of them one more time.",
+    "checks": {
+      "must_name_card": "Sprinter Drives",
+      "must_mention_keywords": [
+        "recursive",
+        "verbose",
+        "correct",
+        "Sprinter"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-sprinter-drives-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sprinter Drives",
+    "question": "Regarding the card \"Sprinter Drives\": Can the bonus move be a Catapult move?",
+    "canonical_answer": "You can Catapult move with the bonus move if you're moving from a starport.",
+    "checks": {
+      "must_name_card": "Sprinter Drives",
+      "must_mention_keywords": [
+        "Catapult",
+        "moving",
+        "starport"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-sprinter-drives-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sprinter Drives",
+    "question": "Regarding the card \"Sprinter Drives\": If I Catapult move and drop off ships in gates along my path, which ships can move again?",
+    "canonical_answer": "Choose a group of any number of fresh Loyal ships that just moved, and move them one more time. So if you dropped off two ships in the same gate, you could move those two ships again.",
+    "checks": {
+      "must_name_card": "Sprinter Drives",
+      "must_mention_keywords": [
+        "Choose",
+        "number",
+        "dropped"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-sprinter-drives-004",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sprinter Drives",
+    "question": "Regarding the card \"Sprinter Drives\": Can I move Imperial ships with the second move?",
+    "canonical_answer": "No, only ships that are both fresh and Loyal, and that just moved, may take the second move.",
+    "checks": {
+      "must_name_card": "Sprinter Drives",
+      "must_mention_keywords": [
+        "second"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-tycoon-s-ambition-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Tycoon's Ambition",
+    "question": "Regarding the card \"Tycoon's Ambition\": If I have no Material or Fuel, can I use Tycoon's Ambition?",
+    "canonical_answer": "You can use its ability even if you have zero Material and Fuel.",
+    "checks": {
+      "must_name_card": "Tycoon's Ambition",
+      "must_mention_keywords": [
+        "ability",
+        "Material"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-tycoon-s-ambition-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Tycoon's Ambition",
+    "question": "Regarding the card \"Tycoon's Ambition\": How does this interact with $link:Material Cartel$ or $link:Fuel Cartel$?",
+    "canonical_answer": "Nothing happens to the Material and Fuel on those cards. You can still use Tycoon's Ambition.",
+    "checks": {
+      "must_name_card": "Tycoon's Ambition",
+      "must_mention_keywords": [
+        "Nothing",
+        "happens",
+        "Material",
+        "Tycoon"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Material Cartel",
+        "Fuel Cartel"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-tycoon-s-ambition-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Tycoon's Ambition",
+    "question": "Regarding the card \"Tycoon's Ambition\": In the campaign, how does this interact with frozen resources?",
+    "canonical_answer": "They are not discarded. You can still use Tycoon's Ambition.",
+    "checks": {
+      "must_name_card": "Tycoon's Ambition",
+      "must_mention_keywords": [
+        "discarded",
+        "Tycoon",
+        "Ambition"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-tyrant-s-authority-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Tyrant's Authority",
+    "question": "Regarding the card \"Tyrant's Authority\": What if I have none of the matching building in my supply?",
+    "canonical_answer": "You cannot *Annex* a building if the corresponding Loyal building supply is empty.",
+    "checks": {
+      "must_name_card": "Tyrant's Authority",
+      "must_mention_keywords": [
+        "building",
+        "corresponding",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-commonwealth-ambition-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Commonwealth Ambition",
+    "question": "Regarding the card \"Commonwealth Ambition\": What happens to the Commonwealth ambition marker after scoring?",
+    "canonical_answer": "It returns to the Fate card of the $link:Founder of the Commonwealth$.",
+    "checks": {
+      "must_name_card": "Commonwealth Ambition",
+      "must_mention_keywords": [
+        "returns"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Founder of the Commonwealth"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-commonwealth-ambition-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Commonwealth Ambition",
+    "question": "Regarding the card \"Commonwealth Ambition\": If I place a Conspiracy marker with $link:Conspiracies$, can I still place a Commonwealth ambition marker on it?",
+    "canonical_answer": "Yes, as you still declared an ambition, even though you placed something different.",
+    "checks": {
+      "must_name_card": "Commonwealth Ambition",
+      "must_mention_keywords": [
+        "declared",
+        "ambition",
+        "though",
+        "placed"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Conspiracies"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-commonwealth-ambition-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Commonwealth Ambition",
+    "question": "Regarding the card \"Commonwealth Ambition\": What happens if a Commonwealth ambition marker is in an ambition box without another ambition marker, such as if a crisis undeclared it?",
+    "canonical_answer": "It returns during scoring even if the ambition did not score any points.",
+    "checks": {
+      "must_name_card": "Commonwealth Ambition",
+      "must_mention_keywords": [
+        "returns",
+        "scoring",
+        "ambition",
+        "points"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-commonwealth-ambition-004",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Commonwealth Ambition",
+    "question": "Regarding the card \"Commonwealth Ambition\": Does a non-Member gain city bonus when they win the ambition?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Commonwealth Ambition",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-golem-hearth-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golem Hearth",
+    "question": "Regarding the card \"Golem Hearth\": If a Rival of the Caretaker spends a Golem and no one has resource slots on their player boards, do they keep the Golem or put it on Golem Hearth?",
+    "canonical_answer": "It returns to the Golem Hearth. The Golem Hearth can hold, or in other words \"has slots for,\" any number of Golems.",
+    "checks": {
+      "must_name_card": "Golem Hearth",
+      "must_mention_keywords": [
+        "returns",
+        "Hearth",
+        "number",
+        "Golems"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-the-arbiter-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "The Arbiter",
+    "question": "Regarding the card \"The Arbiter\": Do resource slots limit the number of Captives or Trophies I can give?",
+    "canonical_answer": "No, the limit of resource slots refers only to giving resources.",
+    "checks": {
+      "must_name_card": "The Arbiter",
+      "must_mention_keywords": [
+        "resource",
+        "refers",
+        "giving",
+        "resources"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-the-arbiter-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "The Arbiter",
+    "question": "Regarding the card \"The Arbiter\": How does this interact with cards like $link:Well of Empathy$ that give unlimited resource slots?",
+    "canonical_answer": "Feel free! Cards that hold resources are considered to have unlimited resource slots for that resource.",
+    "checks": {
+      "must_name_card": "The Arbiter",
+      "must_mention_keywords": [
+        "resources",
+        "considered",
+        "unlimited",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Well of Empathy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-foiling-conspiracies-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Foiling Conspiracies",
+    "question": "Regarding the card \"Foiling Conspiracies\": If I guess a Conspiracy token incorrectly, is it revealed?",
+    "canonical_answer": "No, it stays face down.",
+    "checks": {
+      "must_name_card": "Foiling Conspiracies",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-passages-the-twisted-passage-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Passages & The Twisted Passage",
+    "question": "Regarding the card \"Passages & The Twisted Passage\": Can I use $link:Galactic Rifles$ to shoot in our out of the Twisted Passage?",
+    "canonical_answer": "No, since the systems are not technically adjacent.",
+    "checks": {
+      "must_name_card": "Passages & The Twisted Passage",
+      "must_mention_keywords": [
+        "systems",
+        "technically",
+        "adjacent"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Galactic Rifles"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-passages-the-twisted-passage-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Passages & The Twisted Passage",
+    "question": "Regarding the card \"Passages & The Twisted Passage\": How do Passage tokens affect Gatekeepers?",
+    "canonical_answer": "You place 7 ships, with all ships that would be placed on passages going to the passage (which is itself a gate)",
+    "checks": {
+      "must_name_card": "Passages & The Twisted Passage",
+      "must_mention_keywords": [
+        "placed",
+        "passages",
+        "passage",
+        "itself"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-green-vault-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Green Vault",
+    "question": "Regarding the card \"Green Vault\": What happens to the Material and Fuel on Green Vault when Tyrant is scored?",
+    "canonical_answer": "They are returned to the general supply.",
+    "checks": {
+      "must_name_card": "Green Vault",
+      "must_mention_keywords": [
+        "returned",
+        "general",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-green-vault-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Green Vault",
+    "question": "Regarding the card \"Green Vault\": What happens if this is transferred with $link:Knowledge Set Free$ or scrapped from the $link:Caretaker Act III Objective$?",
+    "canonical_answer": "Your resources in your Captives box are still Captives, but they are no longer frozen.",
+    "checks": {
+      "must_name_card": "Green Vault",
+      "must_mention_keywords": [
+        "resources",
+        "Captives",
+        "longer",
+        "frozen"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Knowledge Set Free",
+        "Caretaker Act III Objective"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-green-vault-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Green Vault",
+    "question": "Regarding the card \"Green Vault\": Can I place resources I gain from the supply, such as through taxing, on Green Vault?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Green Vault",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-redeemer-act-iii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Redeemer Act III Objective",
+    "question": "Regarding the card \"Redeemer Act III Objective\": How does this card interact with $link:Relic Cartel$?",
+    "canonical_answer": "This is a simultaneous resolution, so the player with initiative chooses which effect happens first. As a result, the Redeemer might lose the Relics before getting to scrap them!",
+    "checks": {
+      "must_name_card": "Redeemer Act III Objective",
+      "must_mention_keywords": [
+        "simultaneous",
+        "resolution",
+        "initiative",
+        "chooses"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Relic Cartel"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-redeemer-act-iii-objective-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Redeemer Act III Objective",
+    "question": "Regarding the card \"Redeemer Act III Objective\": Can I scrap Relics that I have on $link:Relic Monopoly$?",
+    "canonical_answer": "Yes, you are considered to \"have\" these Relics.",
+    "checks": {
+      "must_name_card": "Redeemer Act III Objective",
+      "must_mention_keywords": [
+        "considered",
+        "Relics"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Relic Monopoly"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-vow-of-survival-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Vow of Survival",
+    "question": "Regarding the card \"Vow of Survival\": Can I ever gain the city Power bonus with this card?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Vow of Survival",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-vow-of-survival-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Vow of Survival",
+    "question": "Regarding the card \"Vow of Survival\": If I win the $link:Commonwealth Ambition$ as a non-Member, how much Power do I gain?",
+    "canonical_answer": "You gain Power for second place alone.",
+    "checks": {
+      "must_name_card": "Vow of Survival",
+      "must_mention_keywords": [
+        "second"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Commonwealth Ambition"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-vow-of-survival-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Vow of Survival",
+    "question": "Regarding the card \"Vow of Survival\": If the Commonwealth wins the $link:Commonwealth Ambition$ and I am a Member, how much Power do I gain?",
+    "canonical_answer": "For scoring purpose, you did not win the ambition, so you gain the same power as the other Commonwealth members.",
+    "checks": {
+      "must_name_card": "Vow of Survival",
+      "must_mention_keywords": [
+        "scoring",
+        "purpose",
+        "ambition",
+        "Commonwealth"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Commonwealth Ambition"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-overlord-act-iii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Overlord Act III Objective",
+    "question": "Regarding the card \"Overlord Act III Objective\": How does Rule by Fear Alone interact with Monopolies?",
+    "canonical_answer": "You are considered to \"have\" these resources, so you do advance for them.",
+    "checks": {
+      "must_name_card": "Overlord Act III Objective",
+      "must_mention_keywords": [
+        "considered",
+        "resources",
+        "advance"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-golems-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golems",
+    "question": "Regarding the card \"Golems\": Can I trade Golems in the Summit?",
+    "canonical_answer": "Not in Act I. If the Caretaker continues to Act II, $link:Knowledge Set Free$ allows for Golem trading.",
+    "checks": {
+      "must_name_card": "Golems",
+      "must_mention_keywords": [
+        "Caretaker",
+        "continues",
+        "allows",
+        "trading"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Knowledge Set Free"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-golems-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golems",
+    "question": "Regarding the card \"Golems\": When exactly does someone keep a Golem after using it?",
+    "canonical_answer": "If the player with the $link:Golem Hearth$ uses a Golem and nobody else has slots. As long as the Golem Hearth is in the game, its holder will always have slots for Golems.",
+    "checks": {
+      "must_name_card": "Golems",
+      "must_mention_keywords": [
+        "nobody",
+        "Hearth",
+        "holder",
+        "Golems"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Golem Hearth"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-golems-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golems",
+    "question": "Regarding the card \"Golems\": Can I override the Imperial Truce Law with the Warrior Golem?",
+    "canonical_answer": "Nope!",
+    "checks": {
+      "must_name_card": "Golems",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-golems-004",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golems",
+    "question": "Regarding the card \"Golems\": Are Golems resources?",
+    "canonical_answer": "Nope! The text 'can be spent for actions like resources' just means that you spend them in your Prelude to take their listed actions like you do with resources. You can't spend them to take New Actions or, for example, or as inputs for Loyal cards like $link:Loyal Engineers$.",
+    "checks": {
+      "must_name_card": "Golems",
+      "must_mention_keywords": [
+        "resources",
+        "Prelude",
+        "listed",
+        "example"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Loyal Engineers"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-golems-005",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golems",
+    "question": "Regarding the card \"Golems\": Can Golems be taken through raiding?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Golems",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-librarians-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Librarians",
+    "question": "Regarding the card \"Librarians\": Does securing Librarians trigger its Secure power?",
+    "canonical_answer": "No. Broadly, to trigger a card effect it needs to be in your play area at the start of the trigger.",
+    "checks": {
+      "must_name_card": "Librarians",
+      "must_mention_keywords": [
+        "Broadly",
+        "trigger",
+        "effect"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-martial-law-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Martial Law",
+    "question": "Regarding the card \"Martial Law\": Does this ever override the power of $link:Imperial Authority$?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Martial Law",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Imperial Authority"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-martial-law-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Martial Law",
+    "question": "Regarding the card \"Martial Law\": Does this mean that Regents can battle each other in Imperial systems now?",
+    "canonical_answer": "No. Even though it prevents some Regents from Commanding the Imperial Fleet, you still have to follow the Truce Law.",
+    "checks": {
+      "must_name_card": "Martial Law",
+      "must_mention_keywords": [
+        "though",
+        "prevents",
+        "Regents",
+        "Commanding"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-rumors-of-the-haven-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rumors of the Haven",
+    "question": "Regarding the card \"Rumors of the Haven\": Do my agents on Rumor tokens count as Loyal pieces for things like building in the system?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Rumors of the Haven",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-pirate-act-iii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Pirate Act III Objective",
+    "question": "Regarding the card \"Pirate Act III Objective\": If someone has an agent on my True Rumor, can I fulfill my second grand ambition?",
+    "canonical_answer": "No. They have a Loyal piece in the Pirate Haven's system.",
+    "checks": {
+      "must_name_card": "Pirate Act III Objective",
+      "must_mention_keywords": [
+        "Pirate",
+        "system"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-imperial-sponsor-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Imperial Sponsor",
+    "question": "Regarding the card \"Imperial Sponsor\": Does the Sponsored token return somewhere when the Sponsored ambition is scored?",
+    "canonical_answer": "No. It remains on its current ambition.",
+    "checks": {
+      "must_name_card": "Imperial Sponsor",
+      "must_mention_keywords": [
+        "remains",
+        "current",
+        "ambition"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-imperial-sponsor-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Imperial Sponsor",
+    "question": "Regarding the card \"Imperial Sponsor\": Can I still place a resource on the Imperial Trust if the Sponsored token did not move?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Imperial Sponsor",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-council-insiders-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Council Insiders",
+    "question": "Regarding the card \"Council Insiders\": Does this card ability trigger when I secure it from the Court?",
+    "canonical_answer": "No. Securing Council Insiders does not trigger its own Secure modifier.",
+    "checks": {
+      "must_name_card": "Council Insiders",
+      "must_mention_keywords": [
+        "Securing",
+        "Council",
+        "Insiders",
+        "trigger"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-magnate-act-i-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Magnate Act I Objective",
+    "question": "Regarding the card \"Magnate Act I Objective\": Can I advance my Close Deals with Rivals objectives by returning Favors in the Call to Order?",
+    "canonical_answer": "No. You can only advance in Summit Negotiations.",
+    "checks": {
+      "must_name_card": "Magnate Act I Objective",
+      "must_mention_keywords": [
+        "advance",
+        "Summit",
+        "Negotiations"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-magnate-act-ii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Magnate Act II Objective",
+    "question": "Regarding the card \"Magnate Act II Objective\": Do I advance with Corner the Market if I take a Monopoly from another player?",
+    "canonical_answer": "No. You have to take it from the supply.",
+    "checks": {
+      "must_name_card": "Magnate Act II Objective",
+      "must_mention_keywords": [
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-cc14-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-CC14",
+    "question": "Regarding the card \"ARCS-CC14\": In the campaign, do I have to control a Loyal city in order to free it?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "ARCS-CC14",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-cc14-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-CC14",
+    "question": "Regarding the card \"ARCS-CC14\": In the campaign, can I free cities on Flagships?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "ARCS-CC14",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-cc14-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-CC14",
+    "question": "Regarding the card \"ARCS-CC14\": In the campaign Crisis, what happens if players are tied for most Power?",
+    "canonical_answer": "The player closest in turn order to the player with initiative is affected.",
+    "checks": {
+      "must_name_card": "ARCS-CC14",
+      "must_mention_keywords": [
+        "closest",
+        "initiative",
+        "affected"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-council-intrigue-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Council Intrigue",
+    "question": "Regarding the card \"Council Intrigue\": Can I flip the Council while it is not in the Court?",
+    "canonical_answer": "Yes! In this case, return it to the Court. It won't resolve this round.",
+    "checks": {
+      "must_name_card": "Council Intrigue",
+      "must_mention_keywords": [
+        "return",
+        "resolve"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-dominant-faith-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Dominant Faith",
+    "question": "Regarding the card \"Dominant Faith\": Does this limit how I can declare ambitions in nonstandard ways, like with $link:Galactic Bards$?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Dominant Faith",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Galactic Bards"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-dominant-faith-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Dominant Faith",
+    "question": "Regarding the card \"Dominant Faith\": What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?",
+    "canonical_answer": "Do not place an Ideal marker on it. You can still declare it.",
+    "checks": {
+      "must_name_card": "Dominant Faith",
+      "must_mention_keywords": [
+        "marker",
+        "declare"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-merchant-league-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Merchant League",
+    "question": "Regarding the card \"Merchant League\": Can someone force me to give them a resource off this card by returning my Favor during the Summit's Call to Order?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Merchant League",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-guild-overseers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Guild Overseers",
+    "question": "Regarding the card \"Guild Overseers\": Do I fulfill the requirement if I am in second place for the lowest ambition, which gives 0 Power?",
+    "canonical_answer": "Yes. The clarification text in italics is generally true but misleading in this specific case.",
+    "checks": {
+      "must_name_card": "Guild Overseers",
+      "must_mention_keywords": [
+        "clarification",
+        "italics",
+        "generally",
+        "misleading"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-guild-overseers-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Guild Overseers",
+    "question": "Regarding the card \"Guild Overseers\": Does this block card abilities like $link:Galactic Bards$?",
+    "canonical_answer": "No, just Prelude actions and New actions.",
+    "checks": {
+      "must_name_card": "Guild Overseers",
+      "must_mention_keywords": [
+        "Prelude"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Galactic Bards"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-partisan-act-i-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Partisan Act I Objective",
+    "question": "Regarding the card \"Partisan Act I Objective\": Do I advance for Sow Division in the Reach if I already have the initiative and hold it at the end of the round?",
+    "canonical_answer": "No. You need to get it from somewhere else.",
+    "checks": {
+      "must_name_card": "Partisan Act I Objective",
+      "must_mention_keywords": [
+        "somewhere"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-partisan-act-i-objective-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Partisan Act I Objective",
+    "question": "Regarding the card \"Partisan Act I Objective\": Does any outrage stops me from advancing by winning Tyrant?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Partisan Act I Objective",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-partisan-seizing-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Partisan Seizing",
+    "question": "Regarding the card \"Partisan Seizing\": If I pivot to a new Fate in Act III, do I clear my Outrage?",
+    "canonical_answer": "No. At this point, the relevant card is tucked outside your play area, and this part of the ability is no longer relevant.",
+    "checks": {
+      "must_name_card": "Partisan Seizing",
+      "must_mention_keywords": [
+        "relevant",
+        "tucked",
+        "outside",
+        "ability"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-advocate-s-demand-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Advocate's Demand",
+    "question": "Regarding the card \"Advocate's Demand\": What happens if I demand a protected Guild card?",
+    "canonical_answer": "The holder simply gives you a Favor, since they cannot actually give you the card. Sucks for them.",
+    "checks": {
+      "must_name_card": "Advocate's Demand",
+      "must_mention_keywords": [
+        "holder",
+        "simply",
+        "actually"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-breaking-worlds-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "question": "Regarding the card \"Breaking Worlds\": Does this trigger Ransack the Court?",
+    "canonical_answer": "No. There is nothing left to Ransack. The world is pretty blown up.",
+    "checks": {
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "nothing",
+        "Ransack",
+        "pretty"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-breaking-worlds-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "question": "Regarding the card \"Breaking Worlds\": How does this interact with $link:Bunkers$ and $link:Banners of Hegemony$?",
+    "canonical_answer": "They are removed and added to this card.",
+    "checks": {
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "removed"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Bunkers",
+        "Banners of Hegemony"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-breaking-worlds-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "question": "Regarding the card \"Breaking Worlds\": Can I rebuild $link:Banners$ or $link:Banners of Hegemony$ or $link:Cloud Cities$ on a broken world?",
+    "canonical_answer": "Yes! There are enough scraps to build a small bunker, plant a flag, or build in the ashen clouds.",
+    "checks": {
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "enough",
+        "scraps",
+        "bunker",
+        "clouds"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Banners",
+        "Banners of Hegemony",
+        "Cloud Cities"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-breaking-worlds-004",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "question": "Regarding the card \"Breaking Worlds\": Does taking this action at all trigger $link:Empathy for All$?",
+    "canonical_answer": "Yes! Even if you do not end up controlling the planet and thus breaking it.",
+    "checks": {
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "controlling",
+        "planet",
+        "breaking"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Empathy for All"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-breaking-worlds-005",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "question": "Regarding the card \"Breaking Worlds\": Do the Imperial Truce Law and $link:Armistice$ block this?",
+    "canonical_answer": "Yes. The Truce Law prevents Imperial-on-Imperial harm in the presence of Imperial ships, and Armistice prevents Commonwealth harm against Commonwealth Members and Free cities.",
+    "checks": {
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "prevents",
+        "Imperial",
+        "presence",
+        "Armistice"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Armistice"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-govern-with-authority-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Govern with Authority",
+    "question": "Regarding the card \"Govern with Authority\": For the Imperial Action on the War Policy, am I exempt from giving a resource if the Trust has no Weapons?",
+    "canonical_answer": "No. You have to try to give the maximum amount prompted. So if it has a Weapon but no other resource, give a Weapon. If it has no Weapon but it does have another resource, give the resource.",
+    "checks": {
+      "must_name_card": "Govern with Authority",
+      "must_mention_keywords": [
+        "maximum",
+        "amount",
+        "prompted",
+        "Weapon"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-knowledge-set-free-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Knowledge Set Free",
+    "question": "Regarding the card \"Knowledge Set Free\": When I transfer Lore with resources on it, what happens to the resources?",
+    "canonical_answer": "They remain on the transferred Lore card.",
+    "checks": {
+      "must_name_card": "Knowledge Set Free",
+      "must_mention_keywords": [
+        "remain",
+        "transferred"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-caretaker-act-iii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Caretaker Act III Objective",
+    "question": "Regarding the card \"Caretaker Act III Objective\": When I scrap Lore with resources on it, what happens to the resources?",
+    "canonical_answer": "They return to the general supply.",
+    "checks": {
+      "must_name_card": "Caretaker Act III Objective",
+      "must_mention_keywords": [
+        "return",
+        "general",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-reconcile-with-the-outraged-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Reconcile with the Outraged",
+    "question": "Regarding the card \"Reconcile with the Outraged\": How does this interact with $link:Psionic Monopoly$?",
+    "canonical_answer": "The consent of the Monopoly holder is still required to give Psionic. As noted on $link:Monopoly Consent$, consent can be forced by returning their Favor in the Call to Order.",
+    "checks": {
+      "must_name_card": "Reconcile with the Outraged",
+      "must_mention_keywords": [
+        "consent",
+        "Monopoly",
+        "holder",
+        "required"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Psionic Monopoly",
+        "Monopoly Consent"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-feudal-courts-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Feudal Courts",
+    "question": "Regarding the card \"Feudal Courts\": Where does the Court token go when I secure a card with it?",
+    "canonical_answer": "If you're a Lord, return it to the general supply. If you're a Vassal, keep it on the refilled card.",
+    "checks": {
+      "must_name_card": "Feudal Courts",
+      "must_mention_keywords": [
+        "return",
+        "general",
+        "supply",
+        "Vassal"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-feudal-law-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Feudal Law",
+    "question": "Regarding the card \"Feudal Law\": How does the harm rule work with battle?",
+    "canonical_answer": "Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!",
+    "checks": {
+      "must_name_card": "Feudal Law",
+      "must_mention_keywords": [
+        "Resolve",
+        "dealing",
+        "resolving"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-spreading-the-faith-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Spreading the Faith",
+    "question": "Regarding the card \"Spreading the Faith\": If we are playing with split discard piles, where do I scrap from?",
+    "canonical_answer": "The facedown pile. If there is none, shuffle the face-up pile to form a facedown pile first.",
+    "checks": {
+      "must_name_card": "Spreading the Faith",
+      "must_mention_keywords": [
+        "facedown",
+        "shuffle"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-monopoly-consent-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Monopoly Consent",
+    "question": "Regarding the card \"Monopoly Consent\": In the Call to Order, if I want to force a Monopoly holder to give me a resource they have the Monopoly for, how many Favors do I need to return to them?",
+    "canonical_answer": "Only the Favors needed for the Transfer Asset action; so if the resource in question has one key, then one Favor. You do not need to give them another Favor to get Monopoly consent.",
+    "checks": {
+      "must_name_card": "Monopoly Consent",
+      "must_mention_keywords": [
+        "Favors",
+        "needed",
+        "Transfer",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-guild-negotiations-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Guild Negotiations",
+    "question": "Regarding the card \"Guild Negotiations\": In the Call to Order, if I want to force the Advocate to give me a Guild card, how many Favors do I need to return to them?",
+    "canonical_answer": "Only the Favors needed for the Transfer Guild Support action; so if the Guild card in question has two keys, then two Favors. You do not need to give them another Favor to get Advocate consent.",
+    "checks": {
+      "must_name_card": "Guild Negotiations",
+      "must_mention_keywords": [
+        "Favors",
+        "needed",
+        "Transfer",
+        "Support"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-the-dead-live-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "The Dead Live",
+    "question": "Regarding the card \"The Dead Live\": If $link:Blight Hunger$ is in play, where do destroyed pieces go?",
+    "canonical_answer": "The Dead Live specifies that pieces that would return to supply are instead placed on the card. Blight Hunger places the pieces on its card before they would return to supply, so Blight Hunger takes precedence.",
+    "checks": {
+      "must_name_card": "The Dead Live",
+      "must_mention_keywords": [
+        "specifies",
+        "pieces",
+        "return",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Blight Hunger"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-pacifist-act-ii-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Pacifist Act II Objective",
+    "question": "Regarding the card \"Pacifist Act II Objective\": Can I use $link:Loyal Empaths$ to spend other resources as Psionic for the Spread Empathy objective?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Pacifist Act II Objective",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Loyal Empaths"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-plot-to-kidnap-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Plot to Kidnap",
+    "question": "Regarding the card \"Plot to Kidnap\": Can you use Plot to Kidnap to take an action card from the face up discard if playing with Split Discards?",
+    "canonical_answer": "Yes. Resolve the card by searching through both the face-up and facedown discard piles, then shuffle the facedown discard pile.",
+    "checks": {
+      "must_name_card": "Plot to Kidnap",
+      "must_mention_keywords": [
+        "Resolve",
+        "searching",
+        "facedown",
+        "discard"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-plot-to-kidnap-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Plot to Kidnap",
+    "question": "Regarding the card \"Plot to Kidnap\": How does the Crisis work if $link:The Young Light$ or $link:The Prophet$ is discarded, in the Court deck, or in the card play area?",
+    "canonical_answer": "The Crisis does *not* work while the card is discarded or in the Court deck. It *does* work if the card is in the card play area.",
+    "checks": {
+      "must_name_card": "Plot to Kidnap",
+      "must_mention_keywords": [
+        "Crisis",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "The Young Light",
+        "The Prophet"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-guilds-decry-terror-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Guilds Decry Terror",
+    "question": "Regarding the card \"Guilds Decry Terror\": What do you do if there is already a card attached to the Council?",
+    "canonical_answer": "Attach it to the Council, keeping the other attached card attached as well.",
+    "checks": {
+      "must_name_card": "Guilds Decry Terror",
+      "must_mention_keywords": [
+        "Attach",
+        "Council",
+        "keeping",
+        "attached"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-witnesses-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Witnesses",
+    "question": "Regarding the card \"Witnesses\": Do you have to control Witnesses to Catapult move them?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Witnesses",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-witnesses-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Witnesses",
+    "question": "Regarding the card \"Witnesses\": When I move Loyal ships, can I move a Witness along with them even if I am not taking a Catapult move?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Witnesses",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-warden-s-levy-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Warden's Levy",
+    "question": "Regarding the card \"Warden's Levy\": Which hits to the ships on the card take?",
+    "canonical_answer": "The ships are on the card take hits for self-hit damage (flame icons and intercept)",
+    "checks": {
+      "must_name_card": "Warden's Levy",
+      "must_mention_keywords": [
+        "damage",
+        "intercept"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-warden-s-levy-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Warden's Levy",
+    "question": "Regarding the card \"Warden's Levy\": If I lose a fief after levying to maximum, do I have to return a ship?",
+    "canonical_answer": "Yes, at any time this card can only hold ships up to the limit.",
+    "checks": {
+      "must_name_card": "Warden's Levy",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-force-beams-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Force Beams",
+    "question": "Regarding the card \"Force Beams\": Does this trigger $link:Gate Ports$?",
+    "canonical_answer": "No, since this ignores move modifiers.",
+    "checks": {
+      "must_name_card": "Force Beams",
+      "must_mention_keywords": [
+        "ignores",
+        "modifiers"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Gate Ports"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-force-beams-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Force Beams",
+    "question": "Regarding the card \"Force Beams\": Can you use Force Beams to do a Catapult Move?",
+    "canonical_answer": "No, Force Beams is strictly to an adjacent system. It cannot start a Catapult move.",
+    "checks": {
+      "must_name_card": "Force Beams",
+      "must_mention_keywords": [
+        "strictly",
+        "adjacent",
+        "system",
+        "Catapult"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-force-beams-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Force Beams",
+    "question": "Regarding the card \"Force Beams\": How does this interact with $link:Passages & The Twisted Passage$?",
+    "canonical_answer": "You can use Force Beams to Guide ships into the Twisted Passage, but not out of it.",
+    "checks": {
+      "must_name_card": "Force Beams",
+      "must_mention_keywords": [
+        "Twisted",
+        "Passage"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Passages & The Twisted Passage"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-sycophants-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sycophants",
+    "question": "Regarding the card \"Sycophants\": If a player provokes Psionic Outrage once and then Weapon Outrage twice on the same turn, how many ships would Sycophant place?",
+    "canonical_answer": "2 ships total. The 2 ships is once per turn, not once per turn per Outrage.",
+    "checks": {
+      "must_name_card": "Sycophants",
+      "must_mention_keywords": [
+        "Outrage"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-sycophants-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Sycophants",
+    "question": "Regarding the card \"Sycophants\": If this triggers during battle, do the ships I place in the battle system count as attacking ships?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Sycophants",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-edenguard-ambition-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Edenguard Ambition",
+    "question": "Regarding the card \"Edenguard Ambition\": Can the Guardian, with $link:Ire of the Tycoons$ still declare the Edenguard ambition?",
+    "canonical_answer": "Edenguard is an alternative to Tycoon and Guardian would be able to declare it",
+    "checks": {
+      "must_name_card": "Edenguard Ambition",
+      "must_mention_keywords": [
+        "Edenguard",
+        "alternative",
+        "Tycoon",
+        "Guardian"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Ire of the Tycoons"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-conspiracies-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Conspiracies",
+    "question": "Regarding the card \"Conspiracies\": Can conspirator refill the court with the same guild they just secured to place a conspiracy?",
+    "canonical_answer": "Yes! Refill is the last step of secure, after you've taken the card.",
+    "checks": {
+      "must_name_card": "Conspiracies",
+      "must_mention_keywords": [
+        "Refill",
+        "secure"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-conspiracies-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Conspiracies",
+    "question": "Regarding the card \"Conspiracies\": When I declare an ambition to place a conspiracy, does this still count as declaring an ambition for cards like $link:Farseers$, $link:Parade Fleets$, $link:Doctrinal Faith$, and so on?",
+    "canonical_answer": "Yes! You are still declaring an ambition.",
+    "checks": {
+      "must_name_card": "Conspiracies",
+      "must_mention_keywords": [
+        "declaring",
+        "ambition"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Farseers",
+        "Parade Fleets",
+        "Doctrinal Faith"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-judge-s-chosen-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Judge's Chosen",
+    "question": "Regarding the card \"Judge's Chosen\": Is the Chosen allowed to perform all the actions granted by upgrades on the Judge's Flagship?",
+    "canonical_answer": "The Judge's Flagship is indeed their Loyal ship. You could use their Flagship to build ships, Catapult move, tax using Control Array, etc.",
+    "checks": {
+      "must_name_card": "Judge's Chosen",
+      "must_mention_keywords": [
+        "Flagship",
+        "indeed",
+        "Catapult",
+        "Control"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-judge-s-chosen-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Judge's Chosen",
+    "question": "Regarding the card \"Judge's Chosen\": Can I start a battle using only the Judge's ships as attacking ships?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Judge's Chosen",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-judge-s-chosen-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Judge's Chosen",
+    "question": "Regarding the card \"Judge's Chosen\": If I move ships of the Judge into a gate starport from $link:Gate Ports$, whose agent is captured?",
+    "canonical_answer": "The Judge's agent is captured, since it is their ship.",
+    "checks": {
+      "must_name_card": "Judge's Chosen",
+      "must_mention_keywords": [
+        "captured"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Gate Ports"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-ceasefires-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Ceasefires",
+    "question": "Regarding the card \"Ceasefires\": If a player plays a non-Aggression card to battle in a cluster at Peace, do they need to spend 1 or 2 Weapons? Is it one weapon per flip if a player wants to flip more than 1 Ceasefire token?",
+    "canonical_answer": "It would cost 2 weapons: One to apply Battle to the Action Card via the standard Prelude ability of a Weapon, and one to flip the Ceasefire token. It is also one Weapon per flip.",
+    "checks": {
+      "must_name_card": "Ceasefires",
+      "must_mention_keywords": [
+        "weapons",
+        "Battle",
+        "standard",
+        "Prelude"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-rogue-admirals-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rogue Admirals",
+    "question": "Regarding the card \"Rogue Admirals\": Can a Regent with Rogue Admiral attack the Empire alone?",
+    "canonical_answer": "Yes. In this case, the Empire defends with all Imperial ships in the battle system.",
+    "checks": {
+      "must_name_card": "Rogue Admirals",
+      "must_mention_keywords": [
+        "Empire",
+        "defends",
+        "Imperial",
+        "battle"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-rogue-admirals-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rogue Admirals",
+    "question": "Regarding the card \"Rogue Admirals\": What happens when a Regent with Rogue Admirals attacks another Regent?",
+    "canonical_answer": "The attacker can add any number of Imperial ships in the system to their attacking ships. Remaining Imperial ships are defending ships. (This is modeling the Empire breaking up into rival admiralties who each have a claim on the Empire's military, who's loyal, and who's a traitor.)",
+    "checks": {
+      "must_name_card": "Rogue Admirals",
+      "must_mention_keywords": [
+        "attacker",
+        "number",
+        "Imperial",
+        "system"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-admiral-act-i-objective-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Admiral Act I Objective",
+    "question": "Regarding the card \"Admiral Act I Objective\": Do Trophies taken as part of ransacking the court count towards the Admiral's objective?",
+    "canonical_answer": "Yes, if Ransacking the Court is triggered by destroying a city in battle and not by some other means. You are destroying pieces in the battle, and Ransacking the Court happens as part of destroying a city.",
+    "checks": {
+      "must_name_card": "Admiral Act I Objective",
+      "must_mention_keywords": [
+        "Ransacking",
+        "triggered",
+        "destroying",
+        "battle"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-admiral-act-i-objective-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Admiral Act I Objective",
+    "question": "Regarding the card \"Admiral Act I Objective\": Does the Admiral advance for Prove Yourself as a New Admiral if someone places Imperial ships while it has the highest value for an undeclared ambition?",
+    "canonical_answer": "No, because no one can be 'winning' an undeclared ambition.",
+    "checks": {
+      "must_name_card": "Admiral Act I Objective",
+      "must_mention_keywords": [
+        "winning",
+        "undeclared",
+        "ambition"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-diplomatic-fiasco-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Diplomatic Fiasco",
+    "question": "Regarding the card \"Diplomatic Fiasco\": Do you count agents before or after returning the agents that were on this card?",
+    "canonical_answer": "In this instance, the agents should be returned first, then the supply counted.",
+    "checks": {
+      "must_name_card": "Diplomatic Fiasco",
+      "must_mention_keywords": [
+        "instance",
+        "agents",
+        "returned",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-shaper-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Shaper",
+    "question": "Regarding the card \"Shaper\": Do resources \"you have\" apply to resources on a Cartel card?",
+    "canonical_answer": "Yes, you can use resources from a Cartel card for Mythic.",
+    "checks": {
+      "must_name_card": "Shaper",
+      "must_mention_keywords": [
+        "resources",
+        "Cartel",
+        "Mythic"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-shaper-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Shaper",
+    "question": "Regarding the card \"Shaper\": Can I Catapult move from a gate that has a starport from $link:Gate Ports$?",
+    "canonical_answer": "Yes. The ability just indicates that you cannot Catapult move by *using* the starport.",
+    "checks": {
+      "must_name_card": "Shaper",
+      "must_mention_keywords": [
+        "ability",
+        "indicates",
+        "Catapult",
+        "starport"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Gate Ports"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-1st-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 1st Cluster",
+    "question": "Regarding the card \"Lord of the 1st Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 1st Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-2nd-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 2nd Cluster",
+    "question": "Regarding the card \"Lord of the 2nd Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 2nd Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-3rd-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 3rd Cluster",
+    "question": "Regarding the card \"Lord of the 3rd Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 3rd Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-4th-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 4th Cluster",
+    "question": "Regarding the card \"Lord of the 4th Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 4th Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-5th-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 5th Cluster",
+    "question": "Regarding the card \"Lord of the 5th Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 5th Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-lord-of-the-6th-cluster-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lord of the 6th Cluster",
+    "question": "Regarding the card \"Lord of the 6th Cluster\": In a $link:Closed Economy$, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Lord of the 6th Cluster",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Closed Economy"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-closed-economy-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Closed Economy",
+    "question": "Regarding the card \"Closed Economy\": In a Closed Economy, can a Regent Lord tax a Vassal City under Imperial control?",
+    "canonical_answer": "No. A Regent Lord is bound by the Truce law when taxing a Regent Vassal city under Imperial control, and bound by Closed Economy when taxing an Outlaw Vassal city under Imperial control. An Outlaw Lord can always tax Vassal cities regardless of Empire control.",
+    "checks": {
+      "must_name_card": "Closed Economy",
+      "must_mention_keywords": [
+        "Regent",
+        "taxing",
+        "Vassal",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-passage-storms-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Passage Storms",
+    "question": "Regarding the card \"Passage Storms\": When I secure this card, what happens to the agents on it?",
+    "canonical_answer": "They are returned and taken as Captives, as normal. Only the card remains in the Court.",
+    "checks": {
+      "must_name_card": "Passage Storms",
+      "must_mention_keywords": [
+        "returned",
+        "Captives",
+        "normal",
+        "remains"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-passage-storms-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Passage Storms",
+    "question": "Regarding the card \"Passage Storms\": When you secure Passage Storms and take moves, do you reroll the event die?",
+    "canonical_answer": "No, you only reroll the die when you use the normal movement rule defined on $link:Passages & The Twisted Passage$.",
+    "checks": {
+      "must_name_card": "Passage Storms",
+      "must_mention_keywords": [
+        "reroll",
+        "normal",
+        "movement",
+        "defined"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Passages & The Twisted Passage"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-council-insiders-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Council Insiders",
+    "question": "Regarding the card \"Council Insiders\": Can I flip the Council while it is not in the Court?",
+    "canonical_answer": "Yes! In this case, return it to the Court. It won't resolve this round.",
+    "checks": {
+      "must_name_card": "Council Insiders",
+      "must_mention_keywords": [
+        "return",
+        "resolve"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-bunkers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Bunkers",
+    "question": "Regarding the card \"Bunkers\": Can I repair my bunkers once they are damaged?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Bunkers",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-bunkers-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Bunkers",
+    "question": "Regarding the card \"Bunkers\": Do bunkers protect my other buildings on the planet from being raided?",
+    "canonical_answer": "Nope. Bunkers by themselves do not enable raiding.",
+    "checks": {
+      "must_name_card": "Bunkers",
+      "must_mention_keywords": [
+        "Bunkers",
+        "themselves",
+        "enable",
+        "raiding"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-judge-s-chosen-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Judge's Chosen",
+    "question": "Regarding the card \"Judge's Chosen\": Does this trigger $link:Gate Ports$?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Judge's Chosen",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Gate Ports"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-spirit-of-freedom-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Spirit of Freedom",
+    "question": "Regarding the card \"Spirit of Freedom\": Can I secure the card if I am in a three-way tie with a Commonwealth Member and a non-Member?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Spirit of Freedom",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-survival-overrides-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Survival Overrides",
+    "question": "Regarding the card \"Survival Overrides\": Can I use this to simply destroy one of my own ships, even if it does not destroy a non-Loyal one?",
+    "canonical_answer": "Sure, if you want. Bash it into a planet or asteroid.",
+    "checks": {
+      "must_name_card": "Survival Overrides",
+      "must_mention_keywords": [
+        "planet",
+        "asteroid"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-portal-seekers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Portal Seekers",
+    "question": "Regarding the card \"Portal Seekers\": Can I score from fulfilling this grand ambition even if I have a C Fate?",
+    "canonical_answer": "Yes. You can still score this one even if your Fate does not give you more that you can fulfill.",
+    "checks": {
+      "must_name_card": "Portal Seekers",
+      "must_mention_keywords": [
+        "fulfill"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-uncovering-clues-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Uncovering Clues",
+    "question": "Regarding the card \"Uncovering Clues\": Do cities and starports on Flagships count toward this effect?",
+    "canonical_answer": "No, they must be on the planet in question.",
+    "checks": {
+      "must_name_card": "Uncovering Clues",
+      "must_mention_keywords": [
+        "planet",
+        "question"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-lattice-spies-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lattice Spies",
+    "question": "Regarding the card \"Lattice Spies\": Can I discard this even if I cannot seize?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Lattice Spies",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-silver-tongues-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Silver-Tongues",
+    "question": "Regarding the card \"Silver-Tongues\": Can I discard this even if I cannot steal anything?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Silver-Tongues",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-silver-tongues-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Silver-Tongues",
+    "question": "Regarding the card \"Silver-Tongues\": Can I discard this even if I cannot steal anything?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Silver-Tongues",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-psionic-cartel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Psionic Cartel",
+    "question": "Regarding the card \"Psionic Cartel\": How does the supply on this card interact with other cards and abilities?",
+    "canonical_answer": "The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.",
+    "checks": {
+      "must_name_card": "Psionic Cartel",
+      "must_mention_keywords": [
+        "resources",
+        "towards",
+        "ambitions",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Keeper's Solidarity",
+        "Relic Fence"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-psionic-cartel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Psionic Cartel",
+    "question": "Regarding the card \"Psionic Cartel\": Do rivals discard even if Empath wasn't scored?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Psionic Cartel",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-psionic-cartel-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Psionic Cartel",
+    "question": "Regarding the card \"Psionic Cartel\": Can I discard this even if there is nothing to steal?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Psionic Cartel",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-weapon-cartel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Weapon Cartel",
+    "question": "Regarding the card \"Weapon Cartel\": How does the supply on this card interact with other cards and abilities?",
+    "canonical_answer": "The resources count towards $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.",
+    "checks": {
+      "must_name_card": "Weapon Cartel",
+      "must_mention_keywords": [
+        "resources",
+        "towards",
+        "discarded",
+        "stolen"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Keeper's Solidarity",
+        "Relic Fence"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-weapon-cartel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Weapon Cartel",
+    "question": "Regarding the card \"Weapon Cartel\": Can I discard this even if there is nothing to steal?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Weapon Cartel",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-relic-cartel-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Relic Cartel",
+    "question": "Regarding the card \"Relic Cartel\": How does the supply on this card interact with other cards and abilities?",
+    "canonical_answer": "The resources count towards ambitions and $link:Keeper's Solidarity$, but they cannot be discarded for $link:Relic Fence$ or be stolen.",
+    "checks": {
+      "must_name_card": "Relic Cartel",
+      "must_mention_keywords": [
+        "resources",
+        "towards",
+        "ambitions",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Keeper's Solidarity",
+        "Relic Fence"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-relic-cartel-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Relic Cartel",
+    "question": "Regarding the card \"Relic Cartel\": Do rivals discard even if Empath wasn't scored?",
+    "canonical_answer": "Yes.",
+    "checks": {
+      "must_name_card": "Relic Cartel",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-relic-cartel-003",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Relic Cartel",
+    "question": "Regarding the card \"Relic Cartel\": Can I discard this even if there is nothing to steal?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Relic Cartel",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-lesser-regent-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lesser Regent",
+    "question": "Regarding the card \"Lesser Regent\": Can I discard this even if there are no Available ambition markers?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Lesser Regent",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-lesser-regent-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Lesser Regent",
+    "question": "Regarding the card \"Lesser Regent\": Can I discard this even if there are no Available ambition markers?",
+    "canonical_answer": "Yes. Any card that says you can discard it to do something else can simply be discarded.",
+    "checks": {
+      "must_name_card": "Lesser Regent",
+      "must_mention_keywords": [
+        "discard",
+        "something",
+        "simply",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-corsair-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Corsair",
+    "question": "Regarding the card \"Corsair\": Can I reroll this multiple times?",
+    "canonical_answer": "No, only once.",
+    "checks": {
+      "must_name_card": "Corsair",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-seeker-torpedoes-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Seeker Torpedoes",
+    "question": "Regarding the card \"Seeker Torpedoes\": Can I reroll this multiple times?",
+    "canonical_answer": "No, only once.",
+    "checks": {
+      "must_name_card": "Seeker Torpedoes",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-skirmishers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Skirmishers",
+    "question": "Regarding the card \"Skirmishers\": Can I reroll this multiple times?",
+    "canonical_answer": "No, only once.",
+    "checks": {
+      "must_name_card": "Skirmishers",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-skirmishers-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Skirmishers",
+    "question": "Regarding the card \"Skirmishers\": What counts as resources I have?",
+    "canonical_answer": "Everything in your play area, including resources on cards, even if frozen.",
+    "checks": {
+      "must_name_card": "Skirmishers",
+      "must_mention_keywords": [
+        "Everything",
+        "including",
+        "resources",
+        "frozen"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-hunter-squads-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Hunter Squads",
+    "question": "Regarding the card \"Hunter Squads\": Can I reroll this multiple times?",
+    "canonical_answer": "No, only once.",
+    "checks": {
+      "must_name_card": "Hunter Squads",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-breaking-gates-placing-passages-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Breaking Gates & Placing Passages",
+    "question": "Regarding the card \"Breaking Gates & Placing Passages\": If there are multiple ways to Catapult move to break a gate, what happens?",
+    "canonical_answer": "Choose any one legal starport or Slipstream Drive. Only that one is destroyed.",
+    "checks": {
+      "must_name_card": "Breaking Gates & Placing Passages",
+      "must_mention_keywords": [
+        "Choose",
+        "starport",
+        "Slipstream",
+        "destroyed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-doctrinal-faith-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Doctrinal Faith",
+    "question": "Regarding the card \"Doctrinal Faith\": What happens if I declare an ambition without an Ideal but there are no Ideal markers left in the supply?",
+    "canonical_answer": "Do not place an Ideal marker on it. You can still declare it.",
+    "checks": {
+      "must_name_card": "Doctrinal Faith",
+      "must_mention_keywords": [
+        "marker",
+        "declare"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-command-chaos-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Command Chaos",
+    "question": "Regarding the card \"Command Chaos\": How does the Crisis work if the $link:Imperial Officers$ is discarded or in the Court deck?",
+    "canonical_answer": "The Crisis does *not* work while the card is discarded or in the Court deck.",
+    "checks": {
+      "must_name_card": "Command Chaos",
+      "must_mention_keywords": [
+        "Crisis",
+        "discarded"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Imperial Officers"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-blight-fury-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Blight Fury",
+    "question": "Regarding the card \"Blight Fury\": Is it legal to take a Catapult move with ships and Blight, as long as I drop the Blight off in the first system?",
+    "canonical_answer": "No. Blight cannot Catapult move, period. This includes with the Seeker Golem.",
+    "checks": {
+      "must_name_card": "Blight Fury",
+      "must_mention_keywords": [
+        "Blight",
+        "Catapult",
+        "period",
+        "includes"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-dealmakers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Dealmakers",
+    "question": "Regarding the card \"Dealmakers\": When exactly do I refill the Court after my Rival secures the card?",
+    "canonical_answer": "Refill it before you influence and secure.",
+    "checks": {
+      "must_name_card": "Dealmakers",
+      "must_mention_keywords": [
+        "Refill",
+        "influence",
+        "secure"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-terror-strike-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Terror Strike",
+    "question": "Regarding the card \"Terror Strike\": If I secure the card, does this count as harming others? Do I take Trophies? What happens exactly?",
+    "canonical_answer": "Securing this card triggers the Crisis itself, which means you are not harming anyone, you take no Trophies, you do not cause Outrage, and so on. You have plausible deniability.",
+    "checks": {
+      "must_name_card": "Terror Strike",
+      "must_mention_keywords": [
+        "Securing",
+        "triggers",
+        "Crisis",
+        "itself"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-terror-strike-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Terror Strike",
+    "question": "Regarding the card \"Terror Strike\": Does Terror Strike destroy Flagship Upgrades and Armor at planets of matching Outrage?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Terror Strike",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-mass-uprising-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Mass Uprising",
+    "question": "Regarding the card \"Mass Uprising\": If I Ransack the Court to secure this during a battle, do ships I place in the battle system count as attacking ships?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Mass Uprising",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-cc11-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-CC11",
+    "question": "Regarding the card \"ARCS-CC11\": If I remove an ambition marker from a box with a $link:Commonwealth Ambition$ marker, what happens?",
+    "canonical_answer": "The Commonwealth Ambition marker remains in the box. After scoring, it is removed even if its marked ambition did not score.",
+    "checks": {
+      "must_name_card": "ARCS-CC11",
+      "must_mention_keywords": [
+        "Commonwealth",
+        "Ambition",
+        "marker",
+        "remains"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Commonwealth Ambition"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-oath-of-peace-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Oath of Peace",
+    "question": "Regarding the card \"Oath of Peace\": What happens if I am a $link:Member of the Commonwealth$ and the Commonwealth scores Warlord with the $link:Commonwealth Ambition$ on it?",
+    "canonical_answer": "You do not score any Power for it. Your unscored Power is *not* scored by other Members.",
+    "checks": {
+      "must_name_card": "Oath of Peace",
+      "must_mention_keywords": [
+        "unscored",
+        "scored",
+        "Members"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Member of the Commonwealth",
+        "Commonwealth Ambition"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-arcs-f602-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-F602",
+    "question": "Regarding the card \"ARCS-F602\": How does this action resolve if a player has more than one cards tied for the highest number in their hand?",
+    "canonical_answer": "In a tie, the player may choose which card to hand over.",
+    "checks": {
+      "must_name_card": "ARCS-F602",
+      "must_mention_keywords": [
+        "choose"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arcs-f602-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "ARCS-F602",
+    "question": "Regarding the card \"ARCS-F602\": What happens if you only have Event cards in hand.",
+    "canonical_answer": "Nothing happens because you cannot fulfill the first part of the action.",
+    "checks": {
+      "must_name_card": "ARCS-F602",
+      "must_mention_keywords": [
+        "Nothing",
+        "happens",
+        "fulfill"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-seats-fiefs-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Seats & Fiefs",
+    "question": "Regarding the card \"Seats & Fiefs\": What happens when a city is replaced with Cede Control or other effect?",
+    "canonical_answer": "It is removed, therefore the Seat is returned.",
+    "checks": {
+      "must_name_card": "Seats & Fiefs",
+      "must_mention_keywords": [
+        "removed",
+        "therefore",
+        "returned"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-faithful-disciples-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Faithful Disciples",
+    "question": "Regarding the card \"Faithful Disciples\": Can I use the extra action from this card to trigger effects like $link:Material Liaisons$ a second time?",
+    "canonical_answer": "No. You can only trigger such effects from the action gained from the Copy itself.",
+    "checks": {
+      "must_name_card": "Faithful Disciples",
+      "must_mention_keywords": [
+        "trigger",
+        "effects",
+        "gained",
+        "itself"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Material Liaisons"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-golem-worship-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Golem Worship",
+    "question": "Regarding the card \"Golem Worship\": If returning a city means a Golem is transferred to a player without one, are they affected by the Crisis?",
+    "canonical_answer": "No. Check which players have Golems at the start of the Crisis, then resolve its effects.",
+    "checks": {
+      "must_name_card": "Golem Worship",
+      "must_mention_keywords": [
+        "Golems",
+        "Crisis",
+        "resolve",
+        "effects"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-arsenal-keepers-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Arsenal Keepers",
+    "question": "Regarding the card \"Arsenal Keepers\": Can I place resources I gain from the supply, such as through taxing, on Arsenal Keepers?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Arsenal Keepers",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-hegemon-act-ii-setup-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Hegemon Act II Setup",
+    "question": "Regarding the card \"Hegemon Act II Setup\": When scrapping Loyal ships, can I scrap them from my supply?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Hegemon Act II Setup",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-peace-accords-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Peace Accords",
+    "question": "Regarding the card \"Peace Accords\": If I control two systems in a cluster, do I need the consent of other players to Broker Peace?",
+    "canonical_answer": "Nope!",
+    "checks": {
+      "must_name_card": "Peace Accords",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-peace-accords-002",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Peace Accords",
+    "question": "Regarding the card \"Peace Accords\": If I control one system, a second player controls one, and a third player controls two, can I Broker Peace?",
+    "canonical_answer": "Yes! You just need the consent of either of those players.",
+    "checks": {
+      "must_name_card": "Peace Accords",
+      "must_mention_keywords": [
+        "consent",
+        "either"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-set-doctrine-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Set Doctrine",
+    "question": "Regarding the card \"Set Doctrine\": How do I resolve this if someone used the Prelude action of $link:The Young Light$ or $link:The Prophet$ this round?",
+    "canonical_answer": "The previous holder resolves it. The round ends when everyone finishes their turn, so the card should return to their play area before Set Doctrine is resolved.",
+    "checks": {
+      "must_name_card": "Set Doctrine",
+      "must_mention_keywords": [
+        "previous",
+        "holder",
+        "resolves",
+        "everyone"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "The Young Light",
+        "The Prophet"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-fuel-liaisons-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Fuel Liaisons",
+    "question": "Regarding the card \"Fuel Liaisons\": Can I use $link:Sprinter Drives$ or other sources of extra movement to gain more Fuel?",
+    "canonical_answer": "No. This card can only be triggered once, for spending the action pip from Copy to move.",
+    "checks": {
+      "must_name_card": "Fuel Liaisons",
+      "must_mention_keywords": [
+        "triggered",
+        "spending"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Sprinter Drives"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-psionic-liaisons-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Psionic Liaisons",
+    "question": "Regarding the card \"Psionic Liaisons\": Can I use $link:Dealmakers$ or other sources of extra influence to gain more Psionic?",
+    "canonical_answer": "No. This card can only be triggered once, for spending the action pip from Copy to influence.",
+    "checks": {
+      "must_name_card": "Psionic Liaisons",
+      "must_mention_keywords": [
+        "triggered",
+        "spending",
+        "influence"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Dealmakers"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-relic-liaisons-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Relic Liaisons",
+    "question": "Regarding the card \"Relic Liaisons\": Can I use the secure from Ransacking the Court or other sources of extra secures to gain more Relics?",
+    "canonical_answer": "No. This card can only be triggered once, for spending the action pip from Copy to secure.",
+    "checks": {
+      "must_name_card": "Relic Liaisons",
+      "must_mention_keywords": [
+        "triggered",
+        "spending",
+        "secure"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-pirate-fleet-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Pirate Fleet",
+    "question": "Regarding the card \"Pirate Fleet\": How does this interact with $link:Raider Exosuits$?",
+    "canonical_answer": "You can use one or the other. If you use Pirate Fleet, you must follow its restriction.",
+    "checks": {
+      "must_name_card": "Pirate Fleet",
+      "must_mention_keywords": [
+        "Pirate",
+        "follow",
+        "restriction"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Raider Exosuits"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-freedom-fighters-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Freedom Fighters",
+    "question": "Regarding the card \"Freedom Fighters\": If I'm in the Commonwealth, does $link:Armistice$ block using this against Commonwealth Members and Free cities?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Freedom Fighters",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Armistice"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-rebuke-of-the-empaths-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Rebuke of the Empaths",
+    "question": "Regarding the card \"Rebuke of the Empaths\": What happens when there are not enough Psionic in the supply?",
+    "canonical_answer": "The player with initiative chooses who gains Psionic.",
+    "checks": {
+      "must_name_card": "Rebuke of the Empaths",
+      "must_mention_keywords": [
+        "initiative",
+        "chooses",
+        "Psionic"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-tax-collectors-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Tax Collectors",
+    "question": "Regarding the card \"Tax Collectors\": Can I take the resource from the player's board if I use an effect like $link:Empath's Bond$ or the Flagship's Control Array to tax a Rival like they are Loyal?",
+    "canonical_answer": "Yes!",
+    "checks": {
+      "must_name_card": "Tax Collectors",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Empath's Bond"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-pilgrims-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Pilgrims",
+    "question": "Regarding the card \"Pilgrims\": Can a Pilgrim take a Catapult move?",
+    "canonical_answer": "Nope, as they are not ships. (Look at those ancient star-sails on their masts!)",
+    "checks": {
+      "must_name_card": "Pilgrims",
+      "must_mention_keywords": [
+        "ancient"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-planet-eater-loose-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Planet-Eater Loose",
+    "question": "Regarding the card \"Planet-Eater Loose\": During the Crisis, can I use $link:Empath's Bond$ to reroll the die?",
+    "canonical_answer": "No, since the Crisis does not define which player rolls the die.",
+    "checks": {
+      "must_name_card": "Planet-Eater Loose",
+      "must_mention_keywords": [
+        "Crisis",
+        "define"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Empath's Bond"
+      ]
+    }
+  },
+  {
+    "id": "card-faq-empathy-for-all-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Empathy for All",
+    "question": "Regarding the card \"Empathy for All\": How does the harm rule work with battle?",
+    "canonical_answer": "Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!",
+    "checks": {
+      "must_name_card": "Empathy for All",
+      "must_mention_keywords": [
+        "Resolve",
+        "dealing",
+        "resolving"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-member-of-the-commonwealth-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Member of the Commonwealth",
+    "question": "Regarding the card \"Member of the Commonwealth\": How does the Disgrace rule work with battle?",
+    "canonical_answer": "Resolve it after dealing hits but before resolving raids. Always do this, even if no hits are dealt!",
+    "checks": {
+      "must_name_card": "Member of the Commonwealth",
+      "must_mention_keywords": [
+        "Resolve",
+        "dealing",
+        "resolving"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-predictive-sensors-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Predictive Sensors",
+    "question": "Regarding the card \"Predictive Sensors\": Can I use the move from this card to initiate a Catapult move?",
+    "canonical_answer": "No, this card lets you move into the battle system to participate in the battle.",
+    "checks": {
+      "must_name_card": "Predictive Sensors",
+      "must_mention_keywords": [
+        "battle",
+        "system",
+        "participate"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-call-to-pilgrimage-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Call to Pilgrimage",
+    "question": "Regarding the card \"Call to Pilgrimage\": Can this discard protected Guild cards?",
+    "canonical_answer": "No.",
+    "checks": {
+      "must_name_card": "Call to Pilgrimage",
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-faq-armistice-001",
+    "source": "cards/content/faq/arcs/en-US.yml",
+    "card_name": "Armistice",
+    "question": "Regarding the card \"Armistice\": What happens if this is still in the court at the end of an Act?",
+    "canonical_answer": "At the end of an Act, all cards in the court are shuffled into the court deck, including Armistice. When it is secured in a future Act, it will again return to behind Edict 25.",
+    "checks": {
+      "must_name_card": "Armistice",
+      "must_mention_keywords": [
+        "shuffled",
+        "including",
+        "Armistice",
+        "secured"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  }
+]

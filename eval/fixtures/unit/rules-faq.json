@@ -1,0 +1,685 @@
+[
+  {
+    "id": "rules-faq-001",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Which planets on cluster borders are adjacent or not to each other?",
+    "canonical_answer": "The planets on the borders of clusters 5 and 6 as well as the planets bordering clusters 2 and 3 are adjacent, unlike the other clusters with irregular borders.",
+    "rule_sections": [
+      "4.3.2.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "planets",
+        "borders",
+        "clusters",
+        "bordering"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "4.3.2.2"
+    }
+  },
+  {
+    "id": "rules-faq-002",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Do I resolve hits simultaneously and then Provoke Outrage, or do I resolve them one by one?",
+    "canonical_answer": "Resolve all of your hits, remove all pieces, then Provoke Outrage. If you destroyed multiple cities, resolve Outrage  and Ransack for the first city before Outrage, then Ransack for the next. In the campaign, resolve all hits first before resolving effects that trigger from **harm**.",
+    "rule_sections": [
+      "7.7.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "harm",
+        "Resolve",
+        "remove",
+        "pieces"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.7.1"
+    }
+  },
+  {
+    "id": "rules-faq-003",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I Cede Control while I am a Flagship?",
+    "canonical_answer": "You can Cede Control of buildings on the map, but not buildings on your Flagship, and not your Flagship itself. Other players can also Cede buildings to you.",
+    "rule_sections": [
+      "17.2.1.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Control",
+        "buildings",
+        "Flagship",
+        "itself"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "17.2.1.1"
+    }
+  },
+  {
+    "id": "rules-faq-004",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "If I have more than two resource slots open, can I put my starting resources in different slots?",
+    "canonical_answer": "No. They always go in your two leftmost slots.",
+    "rule_sections": [
+      "3.1.2.4"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "leftmost"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "3.1.2.4"
+    }
+  },
+  {
+    "id": "rules-faq-005",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "When a rule lets me use a building 'like they are Loyal,' what does this mean?",
+    "canonical_answer": "This is a shorthand that essentially means 'you do not need to control the buildings' and in the case of taxing  'you don't take a Captive.' Other cards may refer to abilities you can do with Loyal buildings, but those abilities  do not apply to buildings you are using 'like they are Loyal.' (i.e. You cannot use Living Structures to replace a  building that you are only treating like it is Loyal. This ability only applies to buildings that are actually Loyal.)",
+    "rule_sections": [
+      "23.1.15"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "shorthand",
+        "essentially",
+        "control",
+        "buildings"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "23.1.15"
+    }
+  },
+  {
+    "id": "rules-faq-006",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Do I have to use all the pips on my action card?",
+    "canonical_answer": "Nope! For example, if you have 3 action pips, you could take only 1 action.",
+    "rule_sections": [
+      "5."
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "example"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "5."
+    }
+  },
+  {
+    "id": "rules-faq-007",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "If I convert a standard action into a new action, do modifiers of the standard action apply?",
+    "canonical_answer": "Nope! Action modifiers only change the listed standard action. However, if a new action __contains__ a standard action,  then modifiers of that standard action apply, unless explicitly ignored (e.g., Force Beams).",
+    "rule_sections": [
+      "8.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "modifiers",
+        "change",
+        "listed",
+        "standard"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "8.2"
+    }
+  },
+  {
+    "id": "rules-faq-008",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "When a card says 'when you Copy or Pivot to' do a specific action, what triggers this?",
+    "canonical_answer": "Only spending the card pip to Copy or Pivot for that action. It does not trigger from Prelude actions.<br> An ability that says “When you Copy or Pivot to battle” does trigger if you spent a Weapon to let you battle from your  Copy or Pivot action pip.<br> You can trigger the ability if you Copy or Pivot to use a new action containing the listed standard action. For example,  the Nurture action on Living Structures contains the Tax action, so if you took the Nurture action with a Copy or Pivot,  it would trigger an ability that says “If you Copy or Pivot to tax…”",
+    "rule_sections": [
+      "5.2.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "spending",
+        "trigger",
+        "Prelude",
+        "ability"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "5.2.2"
+    }
+  },
+  {
+    "id": "rules-faq-009",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I tax a city even if there are no resources of its type to tax?",
+    "canonical_answer": "Yes. For example, you could still gain a Captive by taxing a Rival city in this way.",
+    "rule_sections": [
+      "7.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "example",
+        "Captive",
+        "taxing"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.1"
+    }
+  },
+  {
+    "id": "rules-faq-010",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "If I choose to collect fewer dice than the maximum, are those ships still 'in the battle' and can they take hits?",
+    "canonical_answer": "Yes. All your Loyal ships are attacking ships and can take hits from self-hits and intercepts.",
+    "rule_sections": [
+      "7.7.1.3"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "attacking",
+        "intercepts"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.7.1.3"
+    }
+  },
+  {
+    "id": "rules-faq-011",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I attempt to battle somewhere even without a legal defender?",
+    "canonical_answer": "No.",
+    "rule_sections": [
+      "7.7"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.7"
+    }
+  },
+  {
+    "id": "rules-faq-012",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I attempt to secure a card even without a legal target?",
+    "canonical_answer": "No.",
+    "rule_sections": [
+      "7.6"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.6"
+    }
+  },
+  {
+    "id": "rules-faq-013",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "When exactly do I need to stop with a Catapult move?",
+    "canonical_answer": "When you reach a planet (regardless of control) or a gate that is controlled  by a Rival (counted just before your ships move in). As long as you have not  stopped, you may backtrack while dropping off ships. For example, you could  Catapult from a planet in cluster 3, drop ships off in gate 3, then in gate 4,  then finally stop at a planet in cluster 3.",
+    "rule_sections": [
+      "7.3.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "planet",
+        "regardless",
+        "control",
+        "controlled"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.3.2"
+    }
+  },
+  {
+    "id": "rules-faq-014",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can you summarize the whole turn structure?",
+    "canonical_answer": "Here is the turn structure:<br> 1. Play an action card.<br> 2. If you're leading, you may declare an ambition. If you're not leading, you may seize the initiative.<br> (In rare situations where you can do both, you may declare and seize in either order.) <br> 3. Prelude window begins. You may use the Prelude actions of cards and resources.<br> 4. Prelude window ends. Return spent resources to the supply.<br> 5. Perform actions by spending action pips from your played card.<br><br>",
+    "rule_sections": [
+      "5."
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "structure",
+        "leading",
+        "declare",
+        "ambition"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "5."
+    }
+  },
+  {
+    "id": "rules-faq-015",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "In my Prelude, can I regain a resource that I spent in my Prelude?",
+    "canonical_answer": "No. Resources only return to their supplies at the end of Prelude.",
+    "rule_sections": [
+      "9.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Resources",
+        "return",
+        "supplies",
+        "Prelude"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.1"
+    }
+  },
+  {
+    "id": "rules-faq-016",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I use *non*-Prelude actions on cards that I secured from the Court during my current Prelude?",
+    "canonical_answer": "Yes!",
+    "rule_sections": [
+      "8.1.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "8.1.2"
+    }
+  },
+  {
+    "id": "rules-faq-017",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I use Prelude actions on cards in the same Prelude I gained them if I took them from places other than the Court?",
+    "canonical_answer": "Yes! For example, if you stole a card using Silver-Tongues, you could immediately use it.",
+    "rule_sections": [
+      "8.1.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "example",
+        "Silver",
+        "Tongues",
+        "immediately"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "8.1.2"
+    }
+  },
+  {
+    "id": "rules-faq-018",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Is seizing mandatory if I Surpass with a '7' card?",
+    "canonical_answer": "Yes. As normal, though, you cannot seize the initiative if someone else already did this round.",
+    "rule_sections": [
+      "5.2.3"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "normal",
+        "though",
+        "initiative",
+        "someone"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "5.2.3"
+    }
+  },
+  {
+    "id": "rules-faq-019",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I spend resources in my Prelude without effect?",
+    "canonical_answer": "Yes, even if you have Outrage of the resource types.",
+    "rule_sections": [
+      "9.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Outrage",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.1"
+    }
+  },
+  {
+    "id": "rules-faq-020",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I rearrange resources when I lose a resource?",
+    "canonical_answer": "No, only when gaining.",
+    "rule_sections": [
+      "9.2.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "gaining"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.2.1"
+    }
+  },
+  {
+    "id": "rules-faq-021",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "When I spend a resource for an action, can I also spend a Weapon to change this action to battle?",
+    "canonical_answer": "No. Weapons only let you modify actions you take from your action card pips.",
+    "rule_sections": [
+      "9.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Weapons",
+        "modify"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.1"
+    }
+  },
+  {
+    "id": "rules-faq-022",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "To be clear, does Provoking Outrage discard anything I take from Ransacking the Court or raiding in the same battle?",
+    "canonical_answer": "Nope!",
+    "rule_sections": [
+      "7.7.4"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.7.4"
+    }
+  },
+  {
+    "id": "rules-faq-023",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "How strict do I need to be with this rule?",
+    "canonical_answer": "In theory, once you spend an action pip from the played action card, you cannot use any more Prelude actions.  In practice, as long as your actions do not reveal new information (e.g., battle/secure), it is fine to rewind  to the Prelude.\nSome players might not consent to an undo. For example, if the acting player is collaborating with another player  or kingmaking, rewinding can effectively reveal private information to the table, giving advantage to the  person they are helping. For example, playing an action card reveals the card to other players, but the acting  player does not gain new info, so it can be undone with the consent of the table.",
+    "rule_sections": [
+      "8.1.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "theory",
+        "played",
+        "Prelude",
+        "practice"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "8.1.1"
+    }
+  },
+  {
+    "id": "rules-faq-024",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Are the lore cards secret or known before shuffling them in?",
+    "canonical_answer": "They are secret.",
+    "rule_sections": [
+      "3.2.1.10"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "secret"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "3.2.1.10"
+    }
+  },
+  {
+    "id": "rules-faq-025",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I give away frozen resources or protected Guild cards?",
+    "canonical_answer": "No. You cannot even be forced to give them away with a returned Favor.",
+    "rule_sections": [
+      "17.2.1.4"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "forced",
+        "returned"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "17.2.1.4"
+    }
+  },
+  {
+    "id": "rules-faq-026",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I see a summary of ending a chapter in the Blighted Reach campaign?",
+    "canonical_answer": "**1. Score Ambitions**<br> a. Resolve effects that happen **at the start of scoring**.<br> b. Score ambitions. (In Act 3, also score grand ambitions.)<br> c. Advance objectives that happen **at the end of a chapter**.<br> d. Resolve effects that happen **after scoring**. If more than one needs to be resolved, the player with the initiative decides their order.<br> **2. Clean Up & Flip Ambition Marker**<br> **3. End Game or Advance Chapter**<br> a. If any final objectives are met, the game ends.<br> b. If it was the last chapter, the game ends.<br> c. Resolve effects that happen **at end of game**.<br> d. Advance the chapter marker.<br> **4. Draw Cards**",
+    "rule_sections": [
+      "6."
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "1. Score Ambitions",
+        "at the start of scoring",
+        "at the end of a chapter",
+        "after scoring"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "6."
+    }
+  },
+  {
+    "id": "rules-faq-027",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Do my frozen resources count as 'resources I have' for the purpose of [Monopolies](https://cards.buriedgiantstudios.com/card/ARCS-F318), etc.?",
+    "canonical_answer": "Yes!",
+    "rule_sections": [
+      "13.3.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "13.3.1"
+    }
+  },
+  {
+    "id": "rules-faq-028",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I attach a card to the Imperial Council while it's on its Decided side? Including if it's in the card play area?",
+    "canonical_answer": "Yes! The Council only leaves the Court as a reminder when you secure it. It's technically still there.",
+    "rule_sections": [
+      "13.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Council",
+        "leaves",
+        "reminder",
+        "secure"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "13.2"
+    }
+  },
+  {
+    "id": "rules-faq-029",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "What happens if I need to place my Flagship but I have no ships on the map?",
+    "canonical_answer": "Place 3 ships in any gate during step D of the Intermission (`rule:21.4`).",
+    "rule_sections": [
+      "20.1.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Intermission"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.1.1"
+    }
+  },
+  {
+    "id": "rules-faq-030",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Do I build Upgrades and Armor damaged if someone else controls my Flagship's system?",
+    "canonical_answer": "Yes!",
+    "rule_sections": [
+      "20.3.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.3.1"
+    }
+  },
+  {
+    "id": "rules-faq-031",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "If I can put resources on a card, is it in a \"resource slot?\"",
+    "canonical_answer": "Yes, other than for Cartels or Monopolies that hold supplies. These cards that \"hold\" or let you \"place\" resources  on them effectively “have resource slots” reserved only for those resources. This is mostly relevant for  interactions with Golems, particularly the Golem Hearth, or the Pirate Hoard.",
+    "rule_sections": [
+      "9.3.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Cartels",
+        "Monopolies",
+        "supplies",
+        "resources"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.3.1"
+    }
+  },
+  {
+    "id": "rules-faq-032",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "What happens if an effect tells me to replace, but I can't either return and/or place the corresponding pieces?",
+    "canonical_answer": "You don't do anything to the piece. You cannot replace if the targeted piece cannot be removed, and/or if the  corresponding supply to place a piece from is empty.",
+    "rule_sections": [
+      "22.3.5"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "anything",
+        "replace",
+        "targeted",
+        "removed"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "22.3.5"
+    }
+  },
+  {
+    "id": "rules-faq-033",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "What are some examples of multiple things happening at the same time that must be resolved in order?",
+    "canonical_answer": "- After rolling dice in battle: Skirmishers and Empath’s Vision<br> - After a battle: Repair Drones and the Quartermaster’s Resilient ability",
+    "rule_sections": [
+      "22.1.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "rolling",
+        "battle",
+        "Skirmishers",
+        "Empath"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "22.1.2"
+    }
+  },
+  {
+    "id": "rules-faq-034",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "If I wish to trigger build modifiers, can I build even if the corresponding building or ship supply is empty?",
+    "canonical_answer": "Yes, since you do the maximum possible when you can't place enough pieces ('rule:22.3.4').",
+    "rule_sections": [
+      "7.2.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "maximum",
+        "possible",
+        "enough",
+        "pieces"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "7.2.1"
+    }
+  },
+  {
+    "id": "rules-faq-035",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "It looks like several keywords (steal, gain, and give) also add a piece to my play area. Are these all considered a form of 'take' as well?",
+    "canonical_answer": "Yes, stealing, gaining and giving overlap with you \"taking\" the piece for the purposes of cards or rules that mention it.",
+    "rule_sections": [
+      "23.1.30"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "stealing",
+        "gaining",
+        "giving",
+        "overlap"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "23.1.30"
+    }
+  },
+  {
+    "id": "rules-faq-036",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Do you refill the Council's slot with a newly drawn card when it is secured? What about sliding down an attached card?",
+    "canonical_answer": "No to both. It does not technically leave the Court at all; it only leaves as a reminder.",
+    "rule_sections": [
+      "16.3.3"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "technically",
+        "leaves",
+        "reminder"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "16.3.3"
+    }
+  },
+  {
+    "id": "rules-faq-037",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can you advance your objective below 0, into the negatives?",
+    "canonical_answer": "No. You can only advance \"toward\" zero.",
+    "rule_sections": [
+      "12.5.1"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "advance",
+        "toward"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "12.5.1"
+    }
+  },
+  {
+    "id": "rules-faq-038",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Who decides what resource each Regent contributes to the Imperial Demand if they have more than 1 resource that could fulfill it?",
+    "canonical_answer": "For each Regent, the First Regent alone decides which resource to take from any slot. They can take a different resource  type for each Regent. When enforcing the Policy of Peace, for example, the First Regent can take a Relic from a Regent with a  Relic and a Psionic, then take any Psionic from another Regent who has 2 Psionics.",
+    "rule_sections": [
+      "19.2"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "Regent",
+        "decides",
+        "resource",
+        "different"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "19.2"
+    }
+  },
+  {
+    "id": "rules-faq-039",
+    "source": "rules/content/rules/arcs/en-US/p1/faq.yml",
+    "question": "Can I take, give, or steal a resource directly from a supply, including a supply held on a Cartel or a Monopoly in the campaign?",
+    "canonical_answer": "No. Gain is the only keyword that lets you add a piece to your play area directly from a supply.",
+    "rule_sections": [
+      "23.1.12"
+    ],
+    "checks": {
+      "must_mention_keywords": [
+        "keyword",
+        "directly",
+        "supply"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "23.1.12"
+    }
+  }
+]

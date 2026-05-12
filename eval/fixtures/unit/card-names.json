@@ -1,0 +1,874 @@
+[
+  {
+    "id": "card-name-2-player-frontiers-base",
+    "card_name": "2 Player Frontiers",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-2SETUP01"
+    ],
+    "question": "How does 2 Player Frontiers work?",
+    "checks": {
+      "must_name_card": "2 Player Frontiers",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-2-player-homelands-base",
+    "card_name": "2 Player Homelands",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-2SETUP03"
+    ],
+    "question": "How does 2 Player Homelands work?",
+    "checks": {
+      "must_name_card": "2 Player Homelands",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-2-player-mix-up-1-base",
+    "card_name": "2 Player Mix Up 1",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-2SETUP02"
+    ],
+    "question": "How does 2 Player Mix Up 1 work?",
+    "checks": {
+      "must_name_card": "2 Player Mix Up 1",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-2-player-mix-up-2-base",
+    "card_name": "2 Player Mix Up 2",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-2SETUP04"
+    ],
+    "question": "How does 2 Player Mix Up 2 work?",
+    "checks": {
+      "must_name_card": "2 Player Mix Up 2",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-3-player-core-conflict-base",
+    "card_name": "3 Player Core Conflict",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-3SETUP04"
+    ],
+    "question": "How does 3 Player Core Conflict work?",
+    "checks": {
+      "must_name_card": "3 Player Core Conflict",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-3-player-frontiers-base",
+    "card_name": "3 Player Frontiers",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-3SETUP02"
+    ],
+    "question": "How does 3 Player Frontiers work?",
+    "checks": {
+      "must_name_card": "3 Player Frontiers",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-3-player-homelands-base",
+    "card_name": "3 Player Homelands",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-3SETUP03"
+    ],
+    "question": "How does 3 Player Homelands work?",
+    "checks": {
+      "must_name_card": "3 Player Homelands",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-3-player-mix-up-base",
+    "card_name": "3 Player Mix Up",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-3SETUP01"
+    ],
+    "question": "How does 3 Player Mix Up work?",
+    "checks": {
+      "must_name_card": "3 Player Mix Up",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-4-player-frontiers-base",
+    "card_name": "4 Player Frontiers",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-4SETUP03"
+    ],
+    "question": "How does 4 Player Frontiers work?",
+    "checks": {
+      "must_name_card": "4 Player Frontiers",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-4-player-mix-up-1-base",
+    "card_name": "4 Player Mix Up 1",
+    "products": [
+      "Base"
+    ],
+    "card_ids": [
+      "ARCS-4SETUP01"
+    ],
+    "question": "How does 4 Player Mix Up 1 work?",
+    "checks": {
+      "must_name_card": "4 Player Mix Up 1",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admin-union-blighted-reach",
+    "card_name": "Admin Union",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC04",
+      "ARCS-F210",
+      "ARCS-F211"
+    ],
+    "question": "How does Admin Union work?",
+    "checks": {
+      "must_name_card": "Admin Union",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-admin-union-blighted-reach",
+    "card_name": "Admin Union",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC04",
+      "ARCS-F210",
+      "ARCS-F211"
+    ],
+    "question": "How does Admin Union work?",
+    "checks": {
+      "must_name_card": "Admin Union",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-admiral-blighted-reach",
+    "card_name": "Admiral",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-FATE07"
+    ],
+    "question": "How does Admiral work?",
+    "checks": {
+      "must_name_card": "Admiral",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-1-setup-blighted-reach",
+    "card_name": "Admiral Act 1 Setup",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F701A"
+    ],
+    "question": "How does Admiral Act 1 Setup work?",
+    "checks": {
+      "must_name_card": "Admiral Act 1 Setup",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-i-objective-blighted-reach",
+    "card_name": "Admiral Act I Objective",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F701B"
+    ],
+    "question": "How does Admiral Act I Objective work?",
+    "checks": {
+      "must_name_card": "Admiral Act I Objective",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-i-resolution-blighted-reach",
+    "card_name": "Admiral Act I Resolution",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F704"
+    ],
+    "question": "How does Admiral Act I Resolution work?",
+    "checks": {
+      "must_name_card": "Admiral Act I Resolution",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-ii-objective-blighted-reach",
+    "card_name": "Admiral Act II Objective",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F712B"
+    ],
+    "question": "How does Admiral Act II Objective work?",
+    "checks": {
+      "must_name_card": "Admiral Act II Objective",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-ii-resolution-blighted-reach",
+    "card_name": "Admiral Act II Resolution",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F714"
+    ],
+    "question": "How does Admiral Act II Resolution work?",
+    "checks": {
+      "must_name_card": "Admiral Act II Resolution",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-ii-setup-blighted-reach",
+    "card_name": "Admiral Act II Setup",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F712A"
+    ],
+    "question": "How does Admiral Act II Setup work?",
+    "checks": {
+      "must_name_card": "Admiral Act II Setup",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admiral-act-iii-objective-blighted-reach",
+    "card_name": "Admiral Act III Objective",
+    "products": [
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F719B"
+    ],
+    "question": "How does Admiral Act III Objective work?",
+    "checks": {
+      "must_name_card": "Admiral Act III Objective",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-agitator-leaders-lore",
+    "card_name": "Agitator",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-LEAD15"
+    ],
+    "question": "How does Agitator work?",
+    "checks": {
+      "must_name_card": "Agitator",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-anarchist-leaders-lore",
+    "card_name": "Anarchist",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-LEAD13"
+    ],
+    "question": "How does Anarchist work?",
+    "checks": {
+      "must_name_card": "Anarchist",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-archivist-leaders-lore",
+    "card_name": "Archivist",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-LEAD09"
+    ],
+    "question": "How does Archivist work?",
+    "checks": {
+      "must_name_card": "Archivist",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-corsair-leaders-lore",
+    "card_name": "Corsair",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-LEAD11"
+    ],
+    "question": "How does Corsair work?",
+    "checks": {
+      "must_name_card": "Corsair",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-empath-s-bond-leaders-lore",
+    "card_name": "Empath's Bond",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-L20"
+    ],
+    "question": "How does Empath's Bond work?",
+    "checks": {
+      "must_name_card": "Empath's Bond",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-empath-s-vision-leaders-lore",
+    "card_name": "Empath's Vision",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-L19"
+    ],
+    "question": "How does Empath's Vision work?",
+    "checks": {
+      "must_name_card": "Empath's Vision",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-force-beams-leaders-lore",
+    "card_name": "Force Beams",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-L16"
+    ],
+    "question": "How does Force Beams work?",
+    "checks": {
+      "must_name_card": "Force Beams",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-keeper-s-solidarity-leaders-lore",
+    "card_name": "Keeper's Solidarity",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-L22"
+    ],
+    "question": "How does Keeper's Solidarity work?",
+    "checks": {
+      "must_name_card": "Keeper's Solidarity",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-keeper-s-trust-leaders-lore",
+    "card_name": "Keeper's Trust",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-L21"
+    ],
+    "question": "How does Keeper's Trust work?",
+    "checks": {
+      "must_name_card": "Keeper's Trust",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-noble-leaders-lore",
+    "card_name": "Noble",
+    "products": [
+      "Leaders & Lore"
+    ],
+    "card_ids": [
+      "ARCS-LEAD12"
+    ],
+    "question": "How does Noble work?",
+    "checks": {
+      "must_name_card": "Noble",
+      "must_cite_card_url": true
+    }
+  },
+  {
+    "id": "card-name-admin-union-multi",
+    "card_name": "Admin Union",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC04",
+      "ARCS-F210",
+      "ARCS-F211"
+    ],
+    "question": "How does Admin Union work?",
+    "checks": {
+      "must_name_card": "Admin Union",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-against-hegemony-multi",
+    "card_name": "Against Hegemony",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F1009",
+      "ARCS-F1010"
+    ],
+    "question": "How does Against Hegemony work?",
+    "checks": {
+      "must_name_card": "Against Hegemony",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-armistice-multi",
+    "card_name": "Armistice",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F216",
+      "ARCS-F217"
+    ],
+    "question": "How does Armistice work?",
+    "checks": {
+      "must_name_card": "Armistice",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-arms-interest-multi",
+    "card_name": "Arms Interest",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F1505",
+      "ARCS-F1506"
+    ],
+    "question": "How does Arms Interest work?",
+    "checks": {
+      "must_name_card": "Arms Interest",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-arms-union-multi",
+    "card_name": "Arms Union",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC11",
+      "ARCS-CC06",
+      "ARCS-F612",
+      "ARCS-F623"
+    ],
+    "question": "How does Arms Union work?",
+    "checks": {
+      "must_name_card": "Arms Union",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-blight-looms-multi",
+    "card_name": "Blight Looms",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-CC15",
+      "ARCS-F1311"
+    ],
+    "question": "How does Blight Looms work?",
+    "checks": {
+      "must_name_card": "Blight Looms",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-blight-purge-multi",
+    "card_name": "Blight Purge",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F1307",
+      "ARCS-F1308",
+      "ARCS-F1309"
+    ],
+    "question": "How does Blight Purge work?",
+    "checks": {
+      "must_name_card": "Blight Purge",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-call-to-action-multi",
+    "card_name": "Call to Action",
+    "products": [
+      "Base",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC31",
+      "ARCS-F1206"
+    ],
+    "question": "How does Call to Action work?",
+    "checks": {
+      "must_name_card": "Call to Action",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-construction-union-multi",
+    "card_name": "Construction Union",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC05",
+      "ARCS-CC02",
+      "ARCS-F208",
+      "ARCS-F209"
+    ],
+    "question": "How does Construction Union work?",
+    "checks": {
+      "must_name_card": "Construction Union",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-council-intrigue-multi",
+    "card_name": "Council Intrigue",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-CC12",
+      "ARCS-F105"
+    ],
+    "question": "How does Council Intrigue work?",
+    "checks": {
+      "must_name_card": "Council Intrigue",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-court-enforcers-multi",
+    "card_name": "Court Enforcers",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC14",
+      "ARCS-F708",
+      "ARCS-F709"
+    ],
+    "question": "How does Court Enforcers work?",
+    "checks": {
+      "must_name_card": "Court Enforcers",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-diplomatic-fiasco-multi",
+    "card_name": "Diplomatic Fiasco",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-CC13",
+      "ARCS-F410"
+    ],
+    "question": "How does Diplomatic Fiasco work?",
+    "checks": {
+      "must_name_card": "Diplomatic Fiasco",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-elder-broker-multi",
+    "card_name": "Elder Broker",
+    "products": [
+      "Base",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC23",
+      "ARCS-CC10",
+      "ARCS-F304"
+    ],
+    "question": "How does Elder Broker work?",
+    "checks": {
+      "must_name_card": "Elder Broker",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-empathy-for-all-multi",
+    "card_name": "Empathy for All",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F1409",
+      "ARCS-F1410"
+    ],
+    "question": "How does Empathy for All work?",
+    "checks": {
+      "must_name_card": "Empathy for All",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-extortion-multi",
+    "card_name": "Extortion",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F323",
+      "ARCS-F324"
+    ],
+    "question": "How does Extortion work?",
+    "checks": {
+      "must_name_card": "Extortion",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-faithful-action-card-multi",
+    "card_name": "Faithful Action Card",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F804",
+      "ARCS-F805",
+      "ARCS-F806",
+      "ARCS-F807",
+      "ARCS-F808",
+      "ARCS-F809",
+      "ARCS-F810",
+      "ARCS-F811",
+      "ARCS-F812"
+    ],
+    "question": "How does Faithful Action Card work?",
+    "checks": {
+      "must_name_card": "Faithful Action Card",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-farseers-multi",
+    "card_name": "Farseers",
+    "products": [
+      "Base",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC17",
+      "ARCS-F2302"
+    ],
+    "question": "How does Farseers work?",
+    "checks": {
+      "must_name_card": "Farseers",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-feast-day-multi",
+    "card_name": "Feast Day",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-F1613",
+      "ARCS-F1614"
+    ],
+    "question": "How does Feast Day work?",
+    "checks": {
+      "must_name_card": "Feast Day",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-flagship-upgrades-multi",
+    "card_name": "Flagship Upgrades",
+    "products": [
+      "Blighted Reach",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-AID10A",
+      "ARCS-AID10B"
+    ],
+    "question": "How does Flagship Upgrades work?",
+    "checks": {
+      "must_name_card": "Flagship Upgrades",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  },
+  {
+    "id": "card-name-fuel-cartel-multi",
+    "card_name": "Fuel Cartel",
+    "products": [
+      "Base",
+      "Blighted Reach"
+    ],
+    "card_ids": [
+      "ARCS-BC06",
+      "ARCS-F308"
+    ],
+    "question": "How does Fuel Cartel work?",
+    "checks": {
+      "must_name_card": "Fuel Cartel",
+      "must_cite_card_url": true,
+      "multi_product": true,
+      "must_distinguish_versions": true
+    }
+  }
+]

@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "card-errata-upstart-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Upstart",
+    "canonical_errata_text": "To clarify how it interacts with other card abilities, the *Callow* ability should read: “You cannot **tax** cities that you do not control.”",
+    "question": "Is there any errata for the card \"Upstart\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Upstart",
+      "must_mention_keywords": [
+        "tax",
+        "clarify",
+        "interacts",
+        "abilities"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-navy-reprisal-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Navy Reprisal",
+    "canonical_errata_text": "This card is misprinted as an event card in the first printing of Arcs: The Blighted Reach Expansion.  (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack. The Errata Pack is available [here](https://buriedgiant.com/products/blighted-reach-campaign-expansion-errata-card-pack?_pos=6&_sid=45a094aeb&_ss=r))",
+    "question": "Is there any errata for the card \"Navy Reprisal\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Navy Reprisal",
+      "must_mention_keywords": [
+        "misprinted",
+        "printing",
+        "Blighted",
+        "Expansion"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-empath-s-bond-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Empath's Bond",
+    "canonical_errata_text": "The term 'blockaded' present in the first-printing clarification is an old term for 'controlled by anything other than you.' In the base game, all that matters is Rival control. In the campaign, this can include control by the Empire, etc.",
+    "question": "Is there any errata for the card \"Empath's Bond\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Empath's Bond",
+      "must_mention_keywords": [
+        "blockaded",
+        "present",
+        "printing",
+        "clarification"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-guild-loyalty-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Guild Loyalty",
+    "canonical_errata_text": "This card's ability should read '...you do not **discard** Guild cards.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Guild Loyalty\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Guild Loyalty",
+      "must_mention_keywords": [
+        "discard",
+        "ability",
+        "Updated",
+        "Blighted"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-foiling-conspiracies-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Foiling Conspiracies",
+    "canonical_errata_text": "The Conspirator cannot guess their own Conspiracies. Instead of 'When you **secure**...' this card should read 'When a Rival of the Conspirator **secures**...' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Foiling Conspiracies\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Foiling Conspiracies",
+      "must_mention_keywords": [
+        "secure",
+        "secures",
+        "Conspirator",
+        "Conspiracies"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-magnate-act-ii-resolution-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Magnate Act II Resolution",
+    "canonical_errata_text": "The reference to 'Fuel Interest' should read 'Shipping Interest'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Magnate Act II Resolution\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Magnate Act II Resolution",
+      "must_mention_keywords": [
+        "reference",
+        "Interest",
+        "Shipping",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-force-beams-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Force Beams",
+    "canonical_errata_text": "The phrase 'in play areas' is added to this card in the second printing to improve some campaign game interactions.",
+    "question": "Is there any errata for the card \"Force Beams\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Force Beams",
+      "must_mention_keywords": [
+        "phrase",
+        "second",
+        "printing",
+        "improve"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-steward-act-ii-resolution-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Steward Act II Resolution",
+    "canonical_errata_text": "The $link:Lesser Regent$ card references should say '20-21'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Steward Act II Resolution\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Steward Act II Resolution",
+      "must_mention_keywords": [
+        "references",
+        "Updated",
+        "Blighted",
+        "Printing"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Lesser Regent"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-steward-act-iii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Steward Act III Setup",
+    "canonical_errata_text": "The $link:Govern the Imperial Reach$ card references should say '03-05'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Steward Act III Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Steward Act III Setup",
+      "must_mention_keywords": [
+        "references",
+        "Updated",
+        "Blighted",
+        "Printing"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Govern the Imperial Reach"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-partisan-act-ii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Partisan Act II Setup",
+    "canonical_errata_text": "The $link:Partisan Seizing$ card reference should say '03'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Partisan Act II Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Partisan Act II Setup",
+      "must_mention_keywords": [
+        "reference",
+        "Updated",
+        "Blighted",
+        "Printing"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Partisan Seizing"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-pacifist-act-iii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Pacifist Act III Setup",
+    "canonical_errata_text": "The card references should read '09' through '12' in the order listed. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Pacifist Act III Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Pacifist Act III Setup",
+      "must_mention_keywords": [
+        "references",
+        "listed",
+        "Updated",
+        "Blighted"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-gate-wraith-act-iii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Gate Wraith Act III Setup",
+    "canonical_errata_text": "'Explain it and to everyone' should read 'Explain it to everyone.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Gate Wraith Act III Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Gate Wraith Act III Setup",
+      "must_mention_keywords": [
+        "Explain",
+        "everyone",
+        "Updated",
+        "Blighted"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-founder-act-i-resolution-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Founder Act I Resolution",
+    "canonical_errata_text": "The card reference for 'Founder's next Resolution card' should be '23.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Founder Act I Resolution\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Founder Act I Resolution",
+      "must_mention_keywords": [
+        "reference",
+        "Founder",
+        "Resolution",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-spreading-the-faith-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Spreading the Faith",
+    "canonical_errata_text": "The Teach action should have the attach and scrap sentences swapped. You cannot scrap unless you attach. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Spreading the Faith\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Spreading the Faith",
+      "must_mention_keywords": [
+        "attach",
+        "sentences",
+        "swapped",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-seats-fiefs-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Seats & Fiefs",
+    "canonical_errata_text": "This card should say 'if a city with a Seat is removed' rather than 'if a city with a Seat is destroyed' to cover cases where the city is removed from the map in other ways.",
+    "question": "Is there any errata for the card \"Seats & Fiefs\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Seats & Fiefs",
+      "must_mention_keywords": [
+        "removed",
+        "rather",
+        "destroyed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-believer-act-iii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Believer Act III Setup",
+    "canonical_errata_text": "This setup should remind you to place the Ideal markers in the same ambitions as they were in at the end of the previous Act. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Believer Act III Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Believer Act III Setup",
+      "must_mention_keywords": [
+        "remind",
+        "markers",
+        "ambitions",
+        "previous"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-agitator-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Agitator",
+    "canonical_errata_text": "The Agitator's *Irregular* ability should say 'is intercepted' rather than 'rolls `symbol:intercept`' so it interacts properly with cards such as $link:Mirror Plating$.",
+    "question": "Is there any errata for the card \"Agitator\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Agitator",
+      "must_mention_keywords": [
+        "Agitator",
+        "Irregular",
+        "ability",
+        "intercepted"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Mirror Plating"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-armistice-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Armistice",
+    "canonical_errata_text": "For clarity, this card should say 'from the attached card' rather than 'from here'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Armistice\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Armistice",
+      "must_mention_keywords": [
+        "clarity",
+        "attached",
+        "rather",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-feudal-courts-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Feudal Courts",
+    "canonical_errata_text": "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'.",
+    "question": "Is there any errata for the card \"Feudal Courts\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Feudal Courts",
+      "must_mention_keywords": [
+        "secures",
+        "clarify",
+        "intended",
+        "effect"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-feudal-courts-002",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Feudal Courts",
+    "canonical_errata_text": "Add the following text 'If a Seat is returned, return its Court token.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Feudal Courts\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Feudal Courts",
+      "must_mention_keywords": [
+        "following",
+        "returned",
+        "return",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-breaking-worlds-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Breaking Worlds",
+    "canonical_errata_text": "To clarify various interactions, we have rewritten step 3 of this card to the following: 'Destroy all buildings on the planet, placing them here, not in Trophies. Nobody Ransacks the Court.' and swapped it with step 2. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Breaking Worlds\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Breaking Worlds",
+      "must_mention_keywords": [
+        "clarify",
+        "various",
+        "interactions",
+        "rewritten"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-ire-of-the-keepers-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Ire of the Keepers",
+    "canonical_errata_text": "The second sentence should read 'You cannot **tax** Loyal cities on Relic planets that you do not control.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Ire of the Keepers\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Ire of the Keepers",
+      "must_mention_keywords": [
+        "tax",
+        "second",
+        "sentence",
+        "cities"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-ire-of-the-tycoons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Ire of the Tycoons",
+    "canonical_errata_text": "The second sentence should read 'You cannot **tax** Loyal cities on Material and Fuel planets that you do not control.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Ire of the Tycoons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Ire of the Tycoons",
+      "must_mention_keywords": [
+        "tax",
+        "second",
+        "sentence",
+        "cities"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-unstable-harvester-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Unstable Harvester",
+    "canonical_errata_text": "To improve game flow, add this sentence: 'Scrap this if the Harvester is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Unstable Harvester\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Unstable Harvester",
+      "must_mention_keywords": [
+        "improve",
+        "sentence",
+        "Harvester",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-unstable-warrior-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Unstable Warrior",
+    "canonical_errata_text": "To improve game flow, add this sentence: 'Scrap this if the Warrior is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Unstable Warrior\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Unstable Warrior",
+      "must_mention_keywords": [
+        "improve",
+        "sentence",
+        "Warrior",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-unstable-seeker-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Unstable Seeker",
+    "canonical_errata_text": "To improve game flow, add this sentence: 'Scrap this if the Seeker is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Unstable Seeker\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Unstable Seeker",
+      "must_mention_keywords": [
+        "improve",
+        "sentence",
+        "Seeker",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-unstable-seeker-002",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Unstable Seeker",
+    "canonical_errata_text": "The Crisis effect should read 'The player with the Seeker places their Loyal ships from planets of the rolled symbol onto the gate in the rolled cluster.' This means powers like $link:Gate Ports$ would not trigger.",
+    "question": "Is there any errata for the card \"Unstable Seeker\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Unstable Seeker",
+      "must_mention_keywords": [
+        "Crisis",
+        "effect",
+        "Seeker",
+        "places"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "Gate Ports"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-unstable-protector-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Unstable Protector",
+    "canonical_errata_text": "To improve game flow, add this sentence: 'Scrap this if the Protector is not in play.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Unstable Protector\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Unstable Protector",
+      "must_mention_keywords": [
+        "improve",
+        "sentence",
+        "Protector",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-witnesses-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Witnesses",
+    "canonical_errata_text": "The Prelude ability should read 'You may flip a Witness you control at a Psionic planet to its Psionic resource side and take it. **If you do,** you may declare Empath **without placing the zero marker**.'",
+    "question": "Is there any errata for the card \"Witnesses\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Witnesses",
+      "must_mention_keywords": [
+        "If you do,",
+        "without placing the zero marker",
+        "Prelude",
+        "ability"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-populist-demands-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Populist Demands",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Populist Demands\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Populist Demands",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-lesser-regent-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Lesser Regent",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Lesser Regent\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Lesser Regent",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-material-liaisons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Material Liaisons",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Material Liaisons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Material Liaisons",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-fuel-liaisons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Fuel Liaisons",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Fuel Liaisons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Fuel Liaisons",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-weapons-liaisons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Weapons Liaisons",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Weapons Liaisons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Weapons Liaisons",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-relic-liaisons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Relic Liaisons",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Relic Liaisons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Relic Liaisons",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-psionic-liaisons-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Psionic Liaisons",
+    "canonical_errata_text": "This action should include the text 'Don't place the zero marker.'",
+    "question": "Is there any errata for the card \"Psionic Liaisons\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Psionic Liaisons",
+      "must_mention_keywords": [
+        "include",
+        "marker"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-admin-union-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Admin Union",
+    "canonical_errata_text": "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it.",
+    "question": "Is there any errata for the card \"Admin Union\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Admin Union",
+      "must_mention_keywords": [
+        "campaign",
+        "version",
+        "include",
+        "placed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-arms-union-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Arms Union",
+    "canonical_errata_text": "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it.",
+    "question": "Is there any errata for the card \"Arms Union\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Arms Union",
+      "must_mention_keywords": [
+        "campaign",
+        "version",
+        "include",
+        "placed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-construction-union-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Construction Union",
+    "canonical_errata_text": "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it.",
+    "question": "Is there any errata for the card \"Construction Union\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Construction Union",
+      "must_mention_keywords": [
+        "campaign",
+        "version",
+        "include",
+        "placed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-spacing-union-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Spacing Union",
+    "canonical_errata_text": "The campaign version should include the text 'without a Union placed by it' to indicate that it cannot be played if a duplicate card has been played on it.",
+    "question": "Is there any errata for the card \"Spacing Union\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Spacing Union",
+      "must_mention_keywords": [
+        "campaign",
+        "version",
+        "include",
+        "placed"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-guilds-decry-terror-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Guilds Decry Terror",
+    "canonical_errata_text": "Add the text 'Shuffle the Court deck.'",
+    "question": "Is there any errata for the card \"Guilds Decry Terror\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Guilds Decry Terror",
+      "must_mention_keywords": [
+        "Shuffle"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-member-of-the-commonwealth-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Member of the Commonwealth",
+    "canonical_errata_text": "The text 'harms a Free city' should read 'harms a Free building.'",
+    "question": "Is there any errata for the card \"Member of the Commonwealth\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Member of the Commonwealth",
+      "must_mention_keywords": [
+        "building"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-commonwealth-membership-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Commonwealth Membership",
+    "canonical_errata_text": "The text 'harms a Free city' should read 'harms a Free building.'",
+    "question": "Is there any errata for the card \"Commonwealth Membership\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Commonwealth Membership",
+      "must_mention_keywords": [
+        "building"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-feast-day-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Feast Day",
+    "canonical_errata_text": "The first sentence should end with ', keeping its Seat.' to clarify that replacing the city does not remove it.",
+    "question": "Is there any errata for the card \"Feast Day\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Feast Day",
+      "must_mention_keywords": [
+        "sentence",
+        "keeping",
+        "clarify",
+        "replacing"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-breaking-gates-placing-passages-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Breaking Gates & Placing Passages",
+    "canonical_errata_text": "Change points 2 and 3 to the following: 2. Place all ships and tokens from the gate onto the Twisted Passage, the central map area. The ships end their Catapult move. // 3. Return the building you used to Catapult--the starport on the map, or your Flagship's Slipstream Drive Upgrade and its Armor--as well as all buildings on the gate. *(Don't take any of these as Trophies. This does not count as harm.)*",
+    "question": "Is there any errata for the card \"Breaking Gates & Placing Passages\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Breaking Gates & Placing Passages",
+      "must_mention_keywords": [
+        "Change",
+        "points",
+        "following",
+        "tokens"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-blight-fury-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Blight Fury",
+    "canonical_errata_text": "The text 'They can't Catapult' should be in body text, not in italics and parentheses.",
+    "question": "Is there any errata for the card \"Blight Fury\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Blight Fury",
+      "must_mention_keywords": [
+        "Catapult",
+        "italics",
+        "parentheses"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-blight-society-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Blight Society",
+    "canonical_errata_text": "The text 'They can't Catapult' should be in body text, not in italics and parentheses.",
+    "question": "Is there any errata for the card \"Blight Society\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Blight Society",
+      "must_mention_keywords": [
+        "Catapult",
+        "italics",
+        "parentheses"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-passage-storms-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Passage Storms",
+    "canonical_errata_text": "Replaced (*Don't remove this card!*) with 'This card remains in the Court.' (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)",
+    "question": "Is there any errata for the card \"Passage Storms\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Passage Storms",
+      "must_mention_keywords": [
+        "Replaced",
+        "remove",
+        "remains",
+        "Updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-living-structures-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Living Structures",
+    "canonical_errata_text": "Added this text to the Prune action: 'Replace a Loyal starport **in a slot** with a Loyal city or vice versa.' This means you cannot, for example, replace Cloud Cities. (Updated in base game, 4th printing)",
+    "question": "Is there any errata for the card \"Living Structures\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Living Structures",
+      "must_mention_keywords": [
+        "in a slot",
+        "Replace",
+        "starport",
+        "example"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-pathfinder-act-iii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Pathfinder Act III Setup",
+    "canonical_errata_text": "Edited step 3 to 'Tuck the other 2 Seek the Portal cards (10-11) under the **Pilgrims card** (08).'",
+    "question": "Is there any errata for the card \"Pathfinder Act III Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Pathfinder Act III Setup",
+      "must_mention_keywords": [
+        "Pilgrims card",
+        "Edited",
+        "Portal",
+        "Pilgrims"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-imperial-defectors-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Imperial Defectors",
+    "canonical_errata_text": "Edited When Secured action across copies of this card to the same text: 'You may resolve the Crisis in a cluster of your choice. Bury or discard this card.'",
+    "question": "Is there any errata for the card \"Imperial Defectors\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Imperial Defectors",
+      "must_mention_keywords": [
+        "Edited",
+        "Secured",
+        "across",
+        "copies"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-claims-of-nobility-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Claims of Nobility",
+    "canonical_errata_text": "Edited the Claim Fief action to 'Attach this to a Court card. If you do, place a Seat token above a Loyal city you control in a cluster with no Seat.'",
+    "question": "Is there any errata for the card \"Claims of Nobility\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Claims of Nobility",
+      "must_mention_keywords": [
+        "Edited",
+        "Attach",
+        "control",
+        "cluster"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-believer-act-ii-setup-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Believer Act II Setup",
+    "canonical_errata_text": "Removed the prompt in step 4 to scrap Pluralistic Faith, to clarify that by default you can declare any ambition with Faithful cards, but restricted by the Doctrine.'",
+    "question": "Is there any errata for the card \"Believer Act II Setup\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Believer Act II Setup",
+      "must_mention_keywords": [
+        "Removed",
+        "prompt",
+        "Pluralistic",
+        "clarify"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-the-arbiter-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "The Arbiter",
+    "canonical_errata_text": "Rearranged text for clarity to 'At the start of scoring, you may give resources to Rivals up to their number of empty resource slots, and give them any of your Trophies and Captives. Pieces Loyal to that Rival return to their supply.'",
+    "question": "Is there any errata for the card \"The Arbiter\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "The Arbiter",
+      "must_mention_keywords": [
+        "Rearranged",
+        "clarity",
+        "scoring",
+        "resources"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-steward-act-i-resolution-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Steward Act I Resolution",
+    "canonical_errata_text": "Edited final line to 'Add **your** Dealmakers (03) to the Court deck.'",
+    "question": "Is there any errata for the card \"Steward Act I Resolution\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Steward Act I Resolution",
+      "must_mention_keywords": [
+        "your",
+        "Edited",
+        "Dealmakers"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-building-bunkers-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Building Bunkers",
+    "canonical_errata_text": "Edited second paragraph for clarity to 'You can build Bunkers on planets, max 1 per planet, in systems with Loyal pieces if you also scrap 1 agent from your supply.'",
+    "question": "Is there any errata for the card \"Building Bunkers\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Building Bunkers",
+      "must_mention_keywords": [
+        "Edited",
+        "second",
+        "paragraph",
+        "clarity"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-steward-act-iii-objective-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Steward Act III Objective",
+    "canonical_errata_text": "Added this text to the first line: 'You're a Regent and the Empire controls all Outlaw cities **on the map** or there are no Outlaws.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes.",
+    "question": "Is there any errata for the card \"Steward Act III Objective\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Steward Act III Objective",
+      "must_mention_keywords": [
+        "on the map",
+        "Regent",
+        "Empire",
+        "controls"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-warden-act-ii-objective-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Warden Act II Objective",
+    "canonical_errata_text": "Added this text to Lord Over the Fiefs '...for each city **on the map**.' This is the same logic as previous printings, but is updated for clarity because Flagship Upgrades and Armor are now considered to be in its system for more purposes.",
+    "question": "Is there any errata for the card \"Warden Act II Objective\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Warden Act II Objective",
+      "must_mention_keywords": [
+        "on the map",
+        "previous",
+        "printings",
+        "updated"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-blight-reapers-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Blight Reapers",
+    "canonical_errata_text": "Removed italics and parentheses from rule saying that you do not take it as a Trophy, to clarify that this is different from the normal rule.",
+    "question": "Is there any errata for the card \"Blight Reapers\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Blight Reapers",
+      "must_mention_keywords": [
+        "Removed",
+        "italics",
+        "parentheses",
+        "saying"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-blight-panic-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Blight Panic",
+    "canonical_errata_text": "Added italics and parentheses to rule saying that you take it as a Trophy, to clarify that this is the normal rule.",
+    "question": "Is there any errata for the card \"Blight Panic\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Blight Panic",
+      "must_mention_keywords": [
+        "italics",
+        "parentheses",
+        "saying",
+        "Trophy"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-forgeworld-refugees-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Forgeworld Refugees",
+    "canonical_errata_text": "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Material planet you control. If you do, clear your Material Outrage, gain Material up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'",
+    "question": "Is there any errata for the card \"Forgeworld Refugees\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Forgeworld Refugees",
+      "must_mention_keywords": [
+        "Edited",
+        "Resettle",
+        "clarify",
+        "requires"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-blazeworld-refugees-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Blazeworld Refugees",
+    "canonical_errata_text": "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Fuel planet you control. If you do, clear your Fuel Outrage, gain Fuel up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'",
+    "question": "Is there any errata for the card \"Blazeworld Refugees\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Blazeworld Refugees",
+      "must_mention_keywords": [
+        "Edited",
+        "Resettle",
+        "clarify",
+        "requires"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-deadworld-refugees-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Deadworld Refugees",
+    "canonical_errata_text": "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Weapon planet you control. If you do, clear your Weapon Outrage, gain Weapons up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'",
+    "question": "Is there any errata for the card \"Deadworld Refugees\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Deadworld Refugees",
+      "must_mention_keywords": [
+        "Edited",
+        "Resettle",
+        "clarify",
+        "requires"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-heartworld-refugees-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Heartworld Refugees",
+    "canonical_errata_text": "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Psionic planet you control. If you do, clear your Psionic Outrage, gain Psionic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'",
+    "question": "Is there any errata for the card \"Heartworld Refugees\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Heartworld Refugees",
+      "must_mention_keywords": [
+        "Edited",
+        "Resettle",
+        "clarify",
+        "requires"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-lostworld-refugees-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Lostworld Refugees",
+    "canonical_errata_text": "Edited Resettle to clarify that it requires you to build the city. 'Build a Free city on a Relic planet you control. If you do, clear your Relic Outrage, gain Relic up to your number of empty resource slots, and tuck this card under the Breaking Worlds card.'",
+    "question": "Is there any errata for the card \"Lostworld Refugees\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Lostworld Refugees",
+      "must_mention_keywords": [
+        "Edited",
+        "Resettle",
+        "clarify",
+        "requires"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  },
+  {
+    "id": "card-errata-weapon-cartel-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Weapon Cartel",
+    "canonical_errata_text": "Replace '(You add it to Warlord but can’t spend it.)' with '(You can’t spend it.)' This is usually true but not always, if $link:War Profiteering$ is not in play.",
+    "question": "Is there any errata for the card \"Weapon Cartel\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Weapon Cartel",
+      "must_mention_keywords": [
+        "Replace",
+        "Warlord",
+        "usually"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_resolve_links": [
+        "War Profiteering"
+      ]
+    }
+  },
+  {
+    "id": "card-errata-reconcile-with-the-outraged-001",
+    "source": "cards/content/errata/arcs/en-US.yml",
+    "card_name": "Reconcile with the Outraged",
+    "canonical_errata_text": "Remove the clarification 'The Rival must be able to hold the Psionic.' There are basically no situations where this wouldn't apply, since rearranging resources is always possible.",
+    "question": "Is there any errata for the card \"Reconcile with the Outraged\"?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Reconcile with the Outraged",
+      "must_mention_keywords": [
+        "Remove",
+        "clarification",
+        "Psionic",
+        "basically"
+      ],
+      "must_not_contain_raw_tokens": true
+    }
+  }
+]

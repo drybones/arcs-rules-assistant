@@ -1,0 +1,119 @@
+[
+  {
+    "id": "reg-001",
+    "failure_mode": "publisher-confusion",
+    "title": "Must cite Buried Giant, not Leder Games",
+    "question": "Where can I find the official Arcs rules online?",
+    "checks": {
+      "must_not_contain": ["Leder Games", "ledergames.com"],
+      "must_contain_any": ["Buried Giant", "buriedgiant.com", "rules.buriedgiant.com"]
+    },
+    "notes": "Arcs was originally Leder Games; now published by Buried Giant Studios. Old BGG threads still reference Leder."
+  },
+  {
+    "id": "reg-002",
+    "failure_mode": "ambiguity-hedge",
+    "title": "Simultaneous effects — must hedge, not invent a ruling",
+    "question": "If two cards both trigger at the same time, which one resolves first?",
+    "checks": {
+      "must_hedge": true,
+      "must_not_contain": ["always resolves first", "the rule states definitively"]
+    },
+    "notes": "Simultaneous effects have rules guidance but leave some cases to table judgment."
+  },
+  {
+    "id": "reg-003",
+    "failure_mode": "cross-product-context",
+    "title": "L&L card + Blighted Reach mechanic in the same question",
+    "question": "Can I use the Noble leader's ability during a Blighted Reach crisis?",
+    "checks": {
+      "must_mention": ["Noble"],
+      "must_cite_card_url": true,
+      "must_not_contain_raw_tokens": true
+    },
+    "notes": "Noble is an L&L card. Questions combining L&L leaders with BR-specific mechanics can cause confusion."
+  },
+  {
+    "id": "reg-004",
+    "failure_mode": "errata-overrides-rules",
+    "title": "Rule 3.1.2.6 shuffle step must be cited as errata",
+    "question": "When I discard action cards during setup, do I shuffle the discard pile?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": ["shuffle"],
+      "must_cite_section": "3.1.2.6"
+    },
+    "notes": "Rule 3.1.2.6 was errata'd to add the shuffle step. Citing the original text without noting errata is wrong."
+  },
+  {
+    "id": "reg-005",
+    "failure_mode": "raw-token-leak",
+    "title": "Elder Broker: $link: token must not appear in output",
+    "question": "Is the Trade action on Elder Broker blocked by any card?",
+    "checks": {
+      "must_not_contain": ["$link:", "$symbol:"],
+      "must_mention": ["Sworn Guardians"],
+      "must_name_card": "Elder Broker"
+    },
+    "notes": "The card FAQ answer for Elder Broker contains $link:Sworn Guardians$ — the skill must resolve this."
+  },
+  {
+    "id": "reg-006",
+    "failure_mode": "base-vs-expansion-split",
+    "title": "Hit resolution differs between base and campaign — must split",
+    "question": "After battle, do I resolve hits simultaneously or one by one, and does it matter for Provoke Outrage?",
+    "checks": {
+      "must_split_base_expansion": true,
+      "must_cite_section": "7.7.1",
+      "must_mention_keywords": ["Outrage", "campaign"]
+    },
+    "notes": "FAQ 7.7.1 explicitly says the answer differs in the campaign. A good answer splits base and campaign."
+  },
+  {
+    "id": "reg-007",
+    "failure_mode": "errata-renamed-term",
+    "title": "'deep wells' was errata'd to 'lower wells' in rule 21.7.2",
+    "question": "What are the 'deep wells' mentioned in the Blighted Reach rulebook?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention": ["lower wells"],
+      "must_cite_section": "21.7.2"
+    },
+    "notes": "Rule 21.7.2 errata corrects 'deep wells' to 'lower wells' in the Stop box. Citing the original term without noting the correction is wrong."
+  },
+  {
+    "id": "reg-008",
+    "failure_mode": "no-official-answer",
+    "title": "No official solitaire mode — skill must hedge rather than invent",
+    "question": "Can you play Arcs in solitaire mode?",
+    "checks": {
+      "must_hedge": true,
+      "must_not_contain": ["official solitaire rules", "the rulebook includes a solo"]
+    },
+    "notes": "No official solitaire mode exists in the source files. Skill must not fabricate one."
+  },
+  {
+    "id": "reg-009",
+    "failure_mode": "card-errata-flips-ruling",
+    "title": "Foiling Conspiracies errata changes who can guess",
+    "question": "Can the Conspirator guess their own Conspiracies when using the Foiling Conspiracies card?",
+    "checks": {
+      "must_cite_errata": true,
+      "answer_should_contain": "rival",
+      "must_name_card": "Foiling Conspiracies",
+      "must_not_contain": ["the conspirator can guess"]
+    },
+    "notes": "Errata changes 'When you secure' to 'When a Rival of the Conspirator secures'. The correct answer is no — a rival must do it."
+  },
+  {
+    "id": "reg-010",
+    "failure_mode": "multi-product-card-variant",
+    "title": "Admin Union campaign errata adds a constraint not in the base version",
+    "question": "Is there any errata for Admin Union?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_name_card": "Admin Union"
+    },
+    "notes": "The campaign version of Admin Union has errata. Answer should acknowledge both products exist."
+  }
+]

@@ -78,10 +78,14 @@ If the single-operator model becomes a bottleneck, the natural next step is a sm
 The app would:
 - Parse all YAML files at startup into an in-memory index
 - Expose Claude API tool use: `lookup_card(name)`, `search_rules(query)`, `get_faq(topic)`, `get_errata(card_or_section)`
-- Cache the full corpus using the Anthropic prompt cache (430 KB ≈ 107K tokens; ~$0.032 per cached query on Sonnet 4.6)
+- Cache the full corpus using the Anthropic prompt cache (~600 KB ≈ 200K tokens; ~$0.06 per cached query on Sonnet 4.6)
 - Fall back to targeted BGG/Reddit web search when official sources don't resolve the question
 - Be served as a simple web UI, accessible by URL from any device
 
 Estimated cost at casual group usage: **$50–100/month** on Sonnet 4.6, or roughly 10× cheaper on Haiku 4.5.
 
 Stack candidates: Python + FastAPI + a minimal HTML/JS front-end, or TypeScript + Hono. Hosting: anywhere the operator already has capacity.
+
+## Test / eval framework
+
+A layered test and eval suite lives in `eval/`. Work is currently paused on branch `eval-framework` — the framework is structurally complete but cannot run end-to-end at our current Anthropic rate-limit tier (the 200K-token corpus exceeds 30K TPM by ~6.7×). See [test-approach.md](test-approach.md) for the full write-up, including measured corpus sizes and recommended paths forward.

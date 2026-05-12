@@ -1,0 +1,416 @@
+[
+  {
+    "id": "rules-errata-001",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "3.1.2.6"
+    ],
+    "canonical_errata_text": "Edited to: \"Discard all action cards not in players' hands into a facedown action discard pile on the map, **then shuffle it**.\" <br> *There are a couple situations where discard order matters.*",
+    "question": "Is there any errata for rule section 3.1.2.6?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "then shuffle it",
+        "Edited",
+        "Discard",
+        "facedown"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "3.1.2.6"
+    }
+  },
+  {
+    "id": "rules-errata-002",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "11.1.6"
+    ],
+    "canonical_errata_text": "This text was added to clarify when leader setup happens.",
+    "question": "Is there any errata for rule section 11.1.6?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "clarify",
+        "leader",
+        "happens"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "11.1.6"
+    }
+  },
+  {
+    "id": "rules-errata-003",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "6.2.4"
+    ],
+    "canonical_errata_text": "Edited to: \"Discard all action cards not in players' hands into the action discard pile on the map face down, **then shuffle it**.\" <br> *There are a couple situations where discard order matters.*",
+    "question": "Is there any errata for rule section 6.2.4?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "then shuffle it",
+        "Edited",
+        "Discard",
+        "shuffle"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "6.2.4"
+    }
+  },
+  {
+    "id": "rules-errata-004",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "9.3.1"
+    ],
+    "canonical_errata_text": "Edited to: \"Some cards say they hold resources. These resources can be spent and add to ambitions, **but they cannot be stolen in battle unless explicitly allowed.** If a card holding resources is stolen, the resources on the card stay on it. If it is buried, discarded, **or scrapped,** the resources on it return to the supply.\" <br> *(NOT YET IN PRINT) This clarifies some card interactions with raiding, Blighted Reach cards, and with cards like Silver-Tongues. Yes, you can steal resources off cards with Silver-Tongues!*",
+    "question": "Is there any errata for rule section 9.3.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "but they cannot be stolen in battle unless explicitly allowed.",
+        "or scrapped,",
+        "Edited",
+        "resources"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.3.1"
+    }
+  },
+  {
+    "id": "rules-errata-005",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "14.2.2.3"
+    ],
+    "canonical_errata_text": "Edited \"Imperial ships\" to \"Imperial **pieces**\" to better support interactions with Fates.",
+    "question": "Is there any errata for rule section 14.2.2.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "pieces",
+        "Edited",
+        "Imperial",
+        "better"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "14.2.2.3"
+    }
+  },
+  {
+    "id": "rules-errata-006",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "20.6"
+    ],
+    "canonical_errata_text": "These rules have been expanded to allow more card types than lore to interact with Flagships in the same way. For example, this allows edicts like [Policy of Escalation](https://cards.buriedgiantstudios.com/card/ARCS-AID05) to interact with Flagships.",
+    "question": "Is there any errata for rule section 20.6?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "expanded",
+        "interact",
+        "Flagships",
+        "example"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.6"
+    }
+  },
+  {
+    "id": "rules-errata-007",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "15.2.4"
+    ],
+    "canonical_errata_text": "Added \"This counts as stealing.\"<br> *This clarifies interactions with cards like [Pirate Hoard](https://cards.buriedgiantstudios.com/card/ARCS-F1202).*",
+    "question": "Is there any errata for rule section 15.2.4?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "counts",
+        "stealing",
+        "clarifies",
+        "interactions"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "15.2.4"
+    }
+  },
+  {
+    "id": "rules-errata-008",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "19.2.1.1"
+    ],
+    "canonical_errata_text": "Edited to \"Resources in the Imperial Trust are frozen **except for Imperial Actions**.\"<br> *The Distribute Arms action under Imperial Actions already states that you give the Weapon from the Imperial Trust, but this addition codifies the exception for clarity.*",
+    "question": "Is there any errata for rule section 19.2.1.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "except for Imperial Actions",
+        "Edited",
+        "Resources",
+        "Imperial"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "19.2.1.1"
+    }
+  },
+  {
+    "id": "rules-errata-009",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "13.1.1"
+    ],
+    "canonical_errata_text": "This rule now explicitly states, rather than implies, that cards like [Command Chaos](https://cards.buriedgiantstudios.com/card/ARCS-F713) can remove Imperial Officers, even though it’s protected, because it states it by name.",
+    "question": "Is there any errata for rule section 13.1.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "explicitly",
+        "states",
+        "rather",
+        "implies"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "13.1.1"
+    }
+  },
+  {
+    "id": "rules-errata-010",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "13.3.1"
+    ],
+    "canonical_errata_text": "This rule now explicitly states, rather than implies, that **scrap** can target frozen resources.",
+    "question": "Is there any errata for rule section 13.3.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "scrap",
+        "explicitly",
+        "states",
+        "rather"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "13.3.1"
+    }
+  },
+  {
+    "id": "rules-errata-011",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "21.7.2"
+    ],
+    "canonical_errata_text": "On page 2 in the first printing, in the Stop box, mentions of \"deep wells\" should say \"lower wells.\"<br> *The deep well is where the removable trays are stored, not the small cards.*",
+    "question": "Is there any errata for rule section 21.7.2?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "printing",
+        "mentions",
+        "removable",
+        "stored"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "21.7.2"
+    }
+  },
+  {
+    "id": "rules-errata-012",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "16.1.2.1"
+    ],
+    "canonical_errata_text": "This is now clarified so that the limitation applies regardless of who played or secured something, unless the Council is no longer happening at the end of the round.",
+    "question": "Is there any errata for rule section 16.1.2.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "clarified",
+        "limitation",
+        "applies",
+        "regardless"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "16.1.2.1"
+    }
+  },
+  {
+    "id": "rules-errata-013",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "16.3"
+    ],
+    "canonical_errata_text": "Added \"If it flips while tucked under a card, return it to the Court.\"<br> *After some soul-searching, we have reversed the previous behavior of the Council. This means cards like [Council Intrigue](https://cards.buriedgiantstudios.com/card/ARCS-CC12) can flip the Council while it’s tucked under a card in the card play area, returning it to the Court. This means the Council won't resolve at the end of the round!*",
+    "question": "Is there any errata for rule section 16.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "tucked",
+        "return",
+        "searching",
+        "reversed"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "16.3"
+    }
+  },
+  {
+    "id": "rules-errata-014",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "9.2.1"
+    ],
+    "canonical_errata_text": "Edited \"To do this\" to \"At this time\" to clarify that you can always rearrange when you take a resource.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 9.2.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "Edited",
+        "clarify",
+        "rearrange",
+        "resource"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "9.2.1"
+    }
+  },
+  {
+    "id": "rules-errata-015",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "22.3.3"
+    ],
+    "canonical_errata_text": "Fixed this to say that they come from the **leftmost** slot.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 22.3.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "leftmost"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "22.3.3"
+    }
+  },
+  {
+    "id": "rules-errata-016",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "20.4.3"
+    ],
+    "canonical_errata_text": "Added last bullet point that clarifies defense rules with buildings on planets.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 20.4.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "bullet",
+        "clarifies",
+        "defense",
+        "buildings"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.4.3"
+    }
+  },
+  {
+    "id": "rules-errata-017",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "18.3"
+    ],
+    "canonical_errata_text": "Specified that the player with initiative rolls the dice, to better support interactions like [Empath's Vision](https://cards.buriedgiantstudios.com/card/ARCS-L19).<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 18.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "Specified",
+        "initiative",
+        "better",
+        "support"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "18.3"
+    }
+  },
+  {
+    "id": "rules-errata-018",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "13.4"
+    ],
+    "canonical_errata_text": "Clarified that hitting yourself doesn't count as harm.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 13.4?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "Clarified",
+        "hitting",
+        "yourself"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "13.4"
+    }
+  },
+  {
+    "id": "rules-errata-019",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "20.3.3.4"
+    ],
+    "canonical_errata_text": "Added this rule to prevent extremely messy interactions.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 20.3.3.4?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "prevent",
+        "extremely",
+        "interactions"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.3.3.4"
+    }
+  },
+  {
+    "id": "rules-errata-020",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "20.3"
+    ],
+    "canonical_errata_text": "Clarified that Upgrades cannot be hit **or destroyed** while it has Armor.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 20.3?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "or destroyed",
+        "Clarified",
+        "Upgrades",
+        "destroyed"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "20.3"
+    }
+  },
+  {
+    "id": "rules-errata-021",
+    "source": "rules/content/rules/arcs/en-US/errata.yml",
+    "rule_sections": [
+      "21.3.1"
+    ],
+    "canonical_errata_text": "Removed \"to their players\" to clarify that Blight Trophies are also returned.<br> *(NOT YET IN PRINT)*",
+    "question": "Is there any errata for rule section 21.3.1?",
+    "checks": {
+      "must_cite_errata": true,
+      "must_mention_keywords": [
+        "Removed",
+        "clarify",
+        "Blight",
+        "Trophies"
+      ],
+      "must_not_contain_raw_tokens": true,
+      "must_cite_section": "21.3.1"
+    }
+  }
+]
