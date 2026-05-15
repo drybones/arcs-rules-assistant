@@ -16,6 +16,14 @@ Between Acts there is an **Intermission**: players collect bonuses for completin
 
 At the start of Act I, each player chooses an **"A" Fate**. Fates give each player a unique identity, objective, set of cards, and physical pieces. After Act I a player may switch to a **"B" Fate**; after Act II they may switch to a **"C" Fate**.
 
+**A Fates** (available from Act I): Steward, Founder, Magnate, Advocate, Caretaker, Partisan, Admiral, Believer.
+
+**B Fates** (available from Act II only): Pathfinder, Hegemon, Planet Breaker, Pirate, Blight Speaker, Pacifist, Peacekeeper, Warden.
+
+**C Fates** (available from Act III only): Overlord, Survivalist, Redeemer, Guardian, Naturalist, Gate Wraith, Conspirator, Judge.
+
+When answering questions about Act I matchups, only A Fates can be opponents. B Fates cannot appear until Act II; C Fates cannot appear until Act III.
+
 Fates have two scoring paths for Act III:
 - **"A" and "B" Fates**: gain two personal **Grand Ambitions** — always active, do not need to be declared, cannot be scored by Rivals. Scored at chapter end alongside declared ambitions.
 - **"C" Fates**: gain a **Final Objective**. Completing it (objective marker reaching 0) at chapter end wins the game outright, provided you have at least 1 Power. A Power victory is still possible if no one completes their Final Objective.
