@@ -11,4 +11,6 @@ To update content after new printings or errata, re-run the setup script from th
 bash setup.sh  # Mac/Linux
 ```
 
+For strategy questions about specific fates, read from the relevant primer in `guides/` (e.g. `guides/admiral-primer.md`). 
+
 Developer documentation is in [DEVELOPMENT.md](DEVELOPMENT.md).
