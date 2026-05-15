@@ -61,3 +61,9 @@ When Buried Giant publishes new printings or errata, re-run the setup script. It
 | `cards/content/errata/arcs/en-US.yml` | Card errata |
 
 Community fallback: [BGG forums](https://boardgamegeek.com/boardgame/359871/arcs/forums/0) and [r/Arcs](https://www.reddit.com/r/Arcs/), used only when official sources don't resolve the question.
+
+## Credits
+
+Rules and card data are sourced from the official [Buried Giant Studios](https://buriedgiant.com) repositories — thank you to the Buried Giant team for making these publicly available.
+
+Fate strategy guides are adapted from the [Void Chroniclers](https://boardgamegeek.com/thread/3329552/introducing-the-void-chroniclers) series on BoardGameGeek, written by a community of experienced Arcs players. All strategic content is their work.
